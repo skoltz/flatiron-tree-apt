@@ -1,4 +1,6 @@
 Rails.application.routes.draw do
+  resources :addresses
+
   resources :number_of_parks
 
   resources :latitudes
