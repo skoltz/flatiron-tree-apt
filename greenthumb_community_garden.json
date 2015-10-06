@@ -1,0 +1,6106 @@
+[ {
+  "cross_streets" : "Avenues B & C",
+  "boro" : "M",
+  "neighborhoodname" : "East Village",
+  "address" : "626 East 11th Street",
+  "garden_name" : "11 BC Serenity Garden",
+  "council_district" : "2",
+  "propid" : "NA",
+  "jurisdiction" : "DPR",
+  "community_board" : "M03",
+  "size" : "0.054"
+}
+, {
+  "cross_streets" : "Nostrand & New York Avenues",
+  "boro" : "B",
+  "neighborhoodname" : "Crown Heights",
+  "address" : "1101 & 1105 Bergen Street",
+  "garden_name" : "1100 Bergen Street Community Garden",
+  "council_district" : "36",
+  "propid" : "NA",
+  "jurisdiction" : "PRI",
+  "community_board" : "B08",
+  "size" : "0.207"
+}
+, {
+  "cross_streets" : "Active",
+  "boro" : "M",
+  "neighborhoodname" : "East Harlem",
+  "address" : "1651 Madison Avenue",
+  "garden_name" : "110th Street Block Association",
+  "council_district" : "9",
+  "propid" : "M382",
+  "jurisdiction" : "DPR",
+  "community_board" : "M11",
+  "size" : "0.043"
+}
+, {
+  "cross_streets" : "Active",
+  "boro" : "M",
+  "neighborhoodname" : "East Harlem",
+  "address" : "172 E 117th Street",
+  "garden_name" : "117th Street Community Garden",
+  "council_district" : "8",
+  "propid" : "M331",
+  "jurisdiction" : "DPR",
+  "community_board" : "M11",
+  "size" : "0.080"
+}
+, {
+  "cross_streets" : "1st Avenue & Avenue A",
+  "boro" : "M",
+  "neighborhoodname" : "East Village",
+  "address" : "422 East 11th Street",
+  "garden_name" : "11th Street Community Garden",
+  "council_district" : "2",
+  "propid" : "NA",
+  "jurisdiction" : "TPL",
+  "community_board" : "M03",
+  "size" : "0.054"
+}
+, {
+  "cross_streets" : "At E. 211th Street",
+  "boro" : "X",
+  "address" : "Carlisle Place",
+  "garden_name" : "211th Street Block Association.",
+  "council_district" : "15",
+  "propid" : "NA",
+  "jurisdiction" : "NYRP",
+  "community_board" : "X12",
+  "size" : "0.182"
+}
+, {
+  "cross_streets" : "At E. 181st Street",
+  "boro" : "X",
+  "address" : "2124 Mapes Avenue",
+  "garden_name" : "2120 Mapes Avenue HDFC",
+  "council_district" : "15",
+  "propid" : "NA",
+  "jurisdiction" : "TPL",
+  "community_board" : "X06",
+  "size" : "0.151"
+}
+, {
+  "cross_streets" : "Active",
+  "boro" : "B",
+  "neighborhoodname" : "East New York",
+  "address" : "New Lots Avenue",
+  "garden_name" : "400 Montauk Avenue Block Association. (Ismael Vega y Amigos)",
+  "council_district" : "42",
+  "propid" : "B535",
+  "jurisdiction" : "DPR",
+  "community_board" : "B05",
+  "size" : "0.091"
+}
+, {
+  "cross_streets" : "Active",
+  "boro" : "M",
+  "neighborhoodname" : "East Village",
+  "address" : "626-27 East 5th Street",
+  "garden_name" : "5th Street Slope Garden Club",
+  "council_district" : "1",
+  "propid" : "M313A",
+  "jurisdiction" : "DPR",
+  "community_board" : "M03",
+  "size" : "0.031"
+}
+, {
+  "cross_streets" : "corner of 6th Avenue & 15th Street",
+  "boro" : "B",
+  "neighborhoodname" : "Park Slope",
+  "address" : "274 15th Street",
+  "garden_name" : "6/15 Green",
+  "council_district" : "38",
+  "propid" : "NA",
+  "jurisdiction" : "TPL",
+  "community_board" : "B07",
+  "size" : "0.287"
+}
+, {
+  "cross_streets" : "West of 4th Avenue",
+  "boro" : "B",
+  "neighborhoodname" : "Sunset Park",
+  "address" : "64th Street",
+  "garden_name" : "64th Street Community Garden",
+  "council_district" : "0",
+  "propid" : "NA",
+  "jurisdiction" : "DOT",
+  "community_board" : "B07",
+  "size" : "NA"
+}
+, {
+  "cross_streets" : "Active",
+  "boro" : "M",
+  "neighborhoodname" : "East Village",
+  "address" : "624-628 E 6th Street",
+  "garden_name" : "6BC Botanical Garden",
+  "council_district" : "1",
+  "propid" : "M313",
+  "jurisdiction" : "DPR",
+  "community_board" : "M03",
+  "size" : "0.171"
+}
+, {
+  "cross_streets" : "Active",
+  "boro" : "M",
+  "neighborhoodname" : "East Village",
+  "address" : "78-92 Avenue B",
+  "garden_name" : "6th Street & Avenue B Garden",
+  "council_district" : "2",
+  "propid" : "M293",
+  "jurisdiction" : "DPR",
+  "community_board" : "M03",
+  "size" : "0.315"
+}
+, {
+  "cross_streets" : "Active",
+  "boro" : "B",
+  "neighborhoodname" : "Bed-Stuy",
+  "address" : "700 Decatur Street",
+  "garden_name" : "700 Decatur Street Block Association",
+  "council_district" : "41",
+  "propid" : "B438",
+  "jurisdiction" : "DPR",
+  "community_board" : "B16",
+  "size" : "0.114"
+}
+, {
+  "cross_streets" : "Active",
+  "boro" : "X",
+  "address" : "809 Courtlandt Avenue",
+  "garden_name" : "811 Family and Friends Association",
+  "council_district" : "17",
+  "propid" : "X351",
+  "jurisdiction" : "DPR",
+  "community_board" : "X03",
+  "size" : "0.063"
+}
+, {
+  "cross_streets" : "Active",
+  "boro" : "Q",
+  "neighborhoodname" : "Corona",
+  "address" : "33-28 97th Street",
+  "garden_name" : "97th Street Block Association",
+  "council_district" : "21",
+  "propid" : "Q495",
+  "jurisdiction" : "DPR",
+  "community_board" : "Q03",
+  "size" : "0.177"
+}
+, {
+  "cross_streets" : "Active",
+  "boro" : "M",
+  "neighborhoodname" : "East Village",
+  "address" : "703 East 9th Street",
+  "garden_name" : "9th Street Community Garden & Park",
+  "council_district" : "2",
+  "propid" : "M312",
+  "jurisdiction" : "DPR",
+  "community_board" : "M03",
+  "size" : "0.390"
+}
+, {
+  "cross_streets" : "Active",
+  "boro" : "B",
+  "neighborhoodname" : "Bed-Stuy",
+  "address" : "762-764 Herkimer Place/13-21 Hunterfly",
+  "garden_name" : "A Better Community Garden",
+  "council_district" : "41",
+  "propid" : "B507",
+  "jurisdiction" : "DPR",
+  "community_board" : "B03",
+  "size" : "0.044"
+}
+, {
+  "cross_streets" : "Active",
+  "boro" : "X",
+  "neighborhoodname" : "Melrose",
+  "address" : "924 Melrose Avenue",
+  "garden_name" : "A. Badillo Community Rose Garden",
+  "council_district" : "16",
+  "propid" : "X350",
+  "jurisdiction" : "DPR",
+  "community_board" : "X03",
+  "size" : "0.064"
+}
+, {
+  "boro" : "B",
+  "address" : "Aberdeen Street",
+  "garden_name" : "Aberdeen Street II Garden Projects",
+  "council_district" : "37",
+  "propid" : "NA",
+  "jurisdiction" : "NYRP",
+  "community_board" : "B04",
+  "size" : "0.253"
+}
+, {
+  "cross_streets" : "Active",
+  "boro" : "B",
+  "neighborhoodname" : "East New York",
+  "address" : "495 Osborn Street",
+  "garden_name" : "Abib Newborn",
+  "propid" : "B533",
+  "jurisdiction" : "DPR",
+  "community_board" : "B16",
+  "size" : "0.249"
+}
+, {
+  "cross_streets" : "Lafayette & Stickball Avenue",
+  "boro" : "X",
+  "address" : "1980 Lafayette Avenue/Stickball Avenue",
+  "garden_name" : "Adlai E. Stevenson High School-Ecological Garden",
+  "council_district" : "18",
+  "propid" : "NA",
+  "jurisdiction" : "DOE",
+  "community_board" : "X09",
+  "size" : "NA"
+}
+, {
+  "cross_streets" : "Bowery & 2nd Avenue",
+  "boro" : "M",
+  "neighborhoodname" : "East Village",
+  "address" : "16-18 East 2nd Street",
+  "garden_name" : "Alberts Garden",
+  "council_district" : "2",
+  "propid" : "NA",
+  "jurisdiction" : "TPL",
+  "community_board" : "M03",
+  "size" : "0.070"
+}
+, {
+  "cross_streets" : "Active",
+  "boro" : "B",
+  "neighborhoodname" : "Bed-Stuy",
+  "address" : "149 Tompkins Avenue",
+  "garden_name" : "All People's Church of the Apostolic Faith Community Garden",
+  "council_district" : "34",
+  "propid" : "B439",
+  "jurisdiction" : "DPR",
+  "community_board" : "B03",
+  "size" : "0.064"
+}
+, {
+  "cross_streets" : "Avenues C & D",
+  "boro" : "M",
+  "neighborhoodname" : "East Village",
+  "address" : "293-295 East 3rd Street",
+  "garden_name" : "All Peoples Garden, Inc.",
+  "council_district" : "2",
+  "propid" : "NA",
+  "jurisdiction" : "TPL",
+  "community_board" : "M03",
+  "size" : "0.099"
+}
+, {
+  "cross_streets" : "Active",
+  "boro" : "B",
+  "neighborhoodname" : "Red Hook",
+  "address" : "261-265 Columbia Street",
+  "garden_name" : "Amazing Garden",
+  "council_district" : "39",
+  "propid" : "B409",
+  "jurisdiction" : "DPR",
+  "community_board" : "B06",
+  "size" : "0.103"
+}
+, {
+  "cross_streets" : "Active",
+  "boro" : "B",
+  "address" : "199 Amboy Street",
+  "garden_name" : "Amboy St. Garden",
+  "council_district" : "41",
+  "propid" : "B440",
+  "jurisdiction" : "DPR",
+  "community_board" : "B16",
+  "size" : "0.391"
+}
+, {
+  "cross_streets" : "Active",
+  "boro" : "B",
+  "neighborhoodname" : "Bed-Stuy",
+  "address" : "122 Hart Street",
+  "garden_name" : "American Heart",
+  "council_district" : "36",
+  "propid" : "B441",
+  "jurisdiction" : "DPR",
+  "community_board" : "B03",
+  "size" : "0.050"
+}
+, {
+  "cross_streets" : "Active",
+  "boro" : "X",
+  "address" : "1768 Bryant Avenue",
+  "garden_name" : "Angie Lee-Gonzalez & Luis Gonzalez Garden",
+  "council_district" : "16",
+  "propid" : "X339",
+  "jurisdiction" : "DPR",
+  "community_board" : "X03",
+  "size" : "0.131"
+}
+, {
+  "cross_streets" : "E. 180th Street & Burnside Avenue",
+  "boro" : "X",
+  "address" : "2078 Anthony Avenue",
+  "garden_name" : "Anthony Avenue Garden",
+  "council_district" : "15",
+  "propid" : "NA",
+  "jurisdiction" : "TPL",
+  "community_board" : "X05",
+  "size" : "0.054"
+}
+, {
+  "boro" : "Q",
+  "address" : "35th St. Bet. 35th & 36th Aves",
+  "garden_name" : "Astoria Residents Reclaiming Our World (ARROW)",
+  "propid" : "Q470",
+  "jurisdiction" : "DPR",
+  "community_board" : "X01",
+  "size" : "0.287"
+}
+, {
+  "cross_streets" : "Active",
+  "boro" : "B",
+  "neighborhoodname" : "East New York",
+  "address" : "213 Atkins Avenue",
+  "garden_name" : "Atkins Gardeners",
+  "council_district" : "37",
+  "propid" : "B443",
+  "jurisdiction" : "DPR",
+  "community_board" : "B05",
+  "size" : "0.068"
+}
+, {
+  "cross_streets" : "Stanton Street",
+  "boro" : "M",
+  "neighborhoodname" : "Lower East Side",
+  "address" : "198 Forsyth Street",
+  "garden_name" : "Auxiliary Services for High Schools @ P.S. 91",
+  "council_district" : "1",
+  "propid" : "NA",
+  "jurisdiction" : "DOE",
+  "community_board" : "M03",
+  "size" : "0.051"
+}
+, {
+  "cross_streets" : "Active",
+  "boro" : "M",
+  "neighborhoodname" : "East Village",
+  "address" : "200 Avenue B",
+  "garden_name" : "Avenue B Community Garden Association",
+  "council_district" : "2",
+  "propid" : "M342",
+  "jurisdiction" : "DPR",
+  "community_board" : "M03",
+  "size" : "0.050"
+}
+, {
+  "cross_streets" : "Active",
+  "boro" : "Q",
+  "address" : "150-14 115th Drive",
+  "garden_name" : "B.C.C.A. Mini-Park and Garden",
+  "council_district" : "28",
+  "propid" : "Q486",
+  "jurisdiction" : "DPR",
+  "community_board" : "Q12",
+  "size" : "0.092"
+}
+, {
+  "cross_streets" : "At Inwood St",
+  "boro" : "Q",
+  "address" : "144-29 Lakewood Avenue",
+  "garden_name" : "Back To Eden",
+  "propid" : "NA",
+  "jurisdiction" : "TPL",
+  "community_board" : "Q12",
+  "size" : "NA"
+}
+, {
+  "cross_streets" : "Active",
+  "boro" : "B",
+  "neighborhoodname" : "Red Hook",
+  "address" : "61-73 Hamilton Avenue",
+  "garden_name" : "Backyard Garden",
+  "council_district" : "39",
+  "propid" : "B410",
+  "jurisdiction" : "DPR",
+  "community_board" : "B06",
+  "size" : "0.225"
+}
+, {
+  "cross_streets" : "E. 201st Street & Bedford Park Boulevard",
+  "boro" : "X",
+  "address" : "2974-2980 Bainbridge Avenue",
+  "garden_name" : "Bainbridge Avenue Garden",
+  "council_district" : "11",
+  "propid" : "NA",
+  "jurisdiction" : "TPL",
+  "community_board" : "X07",
+  "size" : "0.066"
+}
+, {
+  "cross_streets" : "E 175th & E 176th, just North of Cross Bronx",
+  "boro" : "X",
+  "address" : "1836 Bathgate Avenue",
+  "garden_name" : "Bathgate Garden",
+  "propid" : "NA",
+  "jurisdiction" : "NYRP",
+  "community_board" : "X06",
+  "size" : "NA"
+}
+, {
+  "boro" : "R",
+  "address" : "Bayview Terrace",
+  "garden_name" : "Bayview Habitat",
+  "council_district" : "3",
+  "propid" : "R137A",
+  "jurisdiction" : "DPR",
+  "community_board" : "R03",
+  "size" : ".276"
+}
+, {
+  "cross_streets" : "At Beach 100 Street",
+  "boro" : "Q",
+  "neighborhoodname" : "Far Rockaway",
+  "address" : "100-00 Beach Channel Drive",
+  "garden_name" : "Beach Channel High School",
+  "council_district" : "31",
+  "propid" : "NA",
+  "jurisdiction" : "DOE",
+  "community_board" : "Q14",
+  "size" : "NA"
+}
+, {
+  "cross_streets" : "Greene & Lexington Avenues",
+  "boro" : "B",
+  "neighborhoodname" : "Bed-Stuy",
+  "address" : "93-95 Malcolm X Avenue",
+  "garden_name" : "Bed-Stuy Community Garden (Lola Bryant Community Garden)",
+  "council_district" : "41",
+  "propid" : "NA",
+  "jurisdiction" : "NYRP",
+  "community_board" : "B03",
+  "size" : "0.073"
+}
+, {
+  "cross_streets" : "Btwn Malcolm X & Patchen Avenue",
+  "boro" : "B",
+  "address" : "404 Decatur Street",
+  "garden_name" : "Bed-Stuy Farm",
+  "propid" : "NA",
+  "jurisdiction" : "DPR/PRI",
+  "community_board" : "B03",
+  "size" : "NA"
+}
+, {
+  "cross_streets" : "E. 189th Street & E. Fordam Rd.",
+  "boro" : "X",
+  "neighborhoodname" : "Belmont",
+  "address" : "2483 Belmont Avenue",
+  "garden_name" : "Belmont Little Farmers",
+  "council_district" : "15",
+  "propid" : "NA",
+  "jurisdiction" : "TPL",
+  "community_board" : "X06",
+  "size" : "0.100"
+}
+, {
+  "cross_streets" : "Active",
+  "boro" : "B",
+  "neighborhoodname" : "Williamsburg",
+  "address" : "301-303 Berry Street",
+  "garden_name" : "Berry Street Garden",
+  "council_district" : "34",
+  "propid" : "B444",
+  "jurisdiction" : "DPR",
+  "community_board" : "B01",
+  "size" : "0.137"
+}
+, {
+  "cross_streets" : "E 164th & E 165th",
+  "boro" : "X",
+  "address" : "Teller Avenue",
+  "garden_name" : "Bettes Rose Garden",
+  "propid" : "NA",
+  "jurisdiction" : "NYRP",
+  "community_board" : "X04",
+  "size" : "NA"
+}
+, {
+  "cross_streets" : "Active",
+  "boro" : "B",
+  "neighborhoodname" : "East New York",
+  "address" : "436 Van Siclen Avenue",
+  "garden_name" : "Big Red Garden",
+  "council_district" : "42",
+  "propid" : "B446",
+  "jurisdiction" : "DPR",
+  "community_board" : "B05",
+  "size" : "0.043"
+}
+, {
+  "cross_streets" : "from Barnes to Baychester Avenues",
+  "boro" : "X",
+  "address" : "in Bissel Street",
+  "garden_name" : "Bissel Gardens",
+  "council_district" : "18",
+  "propid" : "NA",
+  "jurisdiction" : "MTA",
+  "community_board" : "X12",
+  "size" : "0.080"
+}
+, {
+  "cross_streets" : "5th & Madison Avenues",
+  "boro" : "M",
+  "neighborhoodname" : "East Harlem",
+  "address" : "22 East 119th Street",
+  "garden_name" : "Black Veterans For Social Justice",
+  "propid" : "NA",
+  "jurisdiction" : "HRA",
+  "community_board" : "M11",
+  "size" : "NA"
+}
+, {
+  "cross_streets" : "Active",
+  "boro" : "Q",
+  "neighborhoodname" : "Jamaica",
+  "address" : "Inwood Street",
+  "garden_name" : "Block Association #81",
+  "council_district" : "28",
+  "propid" : "Q487",
+  "jurisdiction" : "DPR",
+  "community_board" : "Q12",
+  "size" : "0.115"
+}
+, {
+  "cross_streets" : "Active",
+  "boro" : "M",
+  "neighborhoodname" : "Hamilton Heights",
+  "address" : "Bradhurst Avenue",
+  "garden_name" : "Bradhurst Avenue Tenants Association",
+  "council_district" : "7",
+  "propid" : "M333",
+  "jurisdiction" : "DPR",
+  "community_board" : "M10",
+  "size" : "0.092"
+}
+, {
+  "cross_streets" : "Corner of Bridge St & Concord St",
+  "boro" : "B",
+  "address" : "Bridge St",
+  "garden_name" : "Bridge Plaza Community Garden",
+  "propid" : "NA",
+  "jurisdiction" : "NYRP",
+  "community_board" : "B02",
+  "size" : "NA"
+}
+, {
+  "cross_streets" : "Concord St & Nassau St",
+  "boro" : "B",
+  "address" : "Bridge Plaza Court",
+  "garden_name" : "Bridge Plaza Court",
+  "propid" : "NA",
+  "jurisdiction" : "DPR/DOT",
+  "community_board" : "B02",
+  "size" : "NA"
+}
+, {
+  "cross_streets" : "Active",
+  "boro" : "M",
+  "neighborhoodname" : "East Village",
+  "address" : "237 E 3rd Street",
+  "garden_name" : "Brisas Del Caribe",
+  "council_district" : "2",
+  "propid" : "M334",
+  "jurisdiction" : "DPR",
+  "community_board" : "M03",
+  "size" : "0.060"
+}
+, {
+  "cross_streets" : "Active",
+  "boro" : "X",
+  "address" : "494 East 141st Street",
+  "garden_name" : "Brook Park",
+  "propid" : "X246",
+  "jurisdiction" : "DPR",
+  "community_board" : "X01",
+  "size" : "NA"
+}
+, {
+  "cross_streets" : "Active",
+  "boro" : "B",
+  "neighborhoodname" : "Clinton Hill",
+  "address" : "397-401 Carlton Avenue",
+  "garden_name" : "Brooklyn Bears/Carlton Avenue Garden",
+  "council_district" : "35",
+  "propid" : "B421",
+  "jurisdiction" : "DPR",
+  "community_board" : "B02",
+  "size" : "0.140"
+}
+, {
+  "cross_streets" : "Atlantic Avenue & Pacific Street",
+  "boro" : "B",
+  "neighborhoodname" : "Park Slope",
+  "address" : "Flatbush Avenue",
+  "garden_name" : "Brooklyn Bears/Pacific Street Garden",
+  "council_district" : "33",
+  "propid" : "NA",
+  "jurisdiction" : "TPL",
+  "community_board" : "B02",
+  "size" : "NA"
+}
+, {
+  "cross_streets" : "Active",
+  "boro" : "B",
+  "neighborhoodname" : "Downtown Brooklyn",
+  "address" : "65-73 Flatbush Avenue",
+  "garden_name" : "Brooklyn Bears/Rockwell Place Garden",
+  "council_district" : "33",
+  "propid" : "B422",
+  "jurisdiction" : "DPR",
+  "community_board" : "B02",
+  "size" : "0.082"
+}
+, {
+  "cross_streets" : "Street James Pl & Grand Avenue",
+  "boro" : "B",
+  "address" : "48 Lefferts Place",
+  "garden_name" : "Brooklyn's Finest Garden",
+  "council_district" : "35",
+  "propid" : "NA",
+  "jurisdiction" : "DPR",
+  "community_board" : "B02",
+  "size" : "0.057"
+}
+, {
+  "cross_streets" : "Active",
+  "boro" : "X",
+  "neighborhoodname" : "Hunt's Point",
+  "address" : "899-999 Bryant Avenue",
+  "garden_name" : "Bryant Hill Community Garden",
+  "council_district" : "17",
+  "propid" : "X315",
+  "jurisdiction" : "DPR",
+  "community_board" : "X02",
+  "size" : "0.340"
+}
+, {
+  "cross_streets" : "Active",
+  "boro" : "B",
+  "neighborhoodname" : "East New York",
+  "address" : "790 Blake Avenue",
+  "garden_name" : "C.A.U.S.A. Festival Garden",
+  "council_district" : "42",
+  "propid" : "B447",
+  "jurisdiction" : "DPR",
+  "community_board" : "B05",
+  "size" : "0.168"
+}
+, {
+  "boro" : "X",
+  "address" : "1771 Popham Avenue",
+  "garden_name" : "C.E.S. 109 - The Angelo Sanchez Inspirational Garden",
+  "council_district" : "14",
+  "propid" : "NA",
+  "jurisdiction" : "DOE",
+  "community_board" : "X05",
+  "size" : "NA"
+}
+, {
+  "cross_streets" : "Ogden Avenue & MLK Jr. Boulevard",
+  "boro" : "X",
+  "address" : "175 W 166th Street",
+  "garden_name" : "C.E.S. 126 - Literacy Garden",
+  "council_district" : "16",
+  "propid" : "NA",
+  "jurisdiction" : "DOE",
+  "community_board" : "X04",
+  "size" : "NA"
+}
+, {
+  "cross_streets" : "Park & Washington Avenues",
+  "boro" : "X",
+  "neighborhoodname" : "Mt. Eden",
+  "address" : "450 St. Pauls Place",
+  "garden_name" : "C.E.S. 55",
+  "council_district" : "0",
+  "propid" : "NA",
+  "jurisdiction" : "DOE",
+  "community_board" : "X03",
+  "size" : "NA"
+}
+, {
+  "cross_streets" : "E 164th & E. 165th Streets.",
+  "boro" : "X",
+  "address" : "1020 Anderson Avenue",
+  "garden_name" : "C.E.S. 73",
+  "council_district" : "16",
+  "propid" : "NA",
+  "jurisdiction" : "TPL/DOE",
+  "community_board" : "X04",
+  "size" : "NA"
+}
+, {
+  "cross_streets" : "Active",
+  "boro" : "X",
+  "neighborhoodname" : "Morrisania",
+  "address" : "1313-1311 Bristow Street",
+  "garden_name" : "C.S. 134X - Community Improvement Garden",
+  "council_district" : "16",
+  "propid" : "X340",
+  "jurisdiction" : "DPR",
+  "community_board" : "X03",
+  "size" : "0.161"
+}
+, {
+  "cross_streets" : "Frederick Douglass & Adam Clayton Powell Boulevards",
+  "boro" : "M",
+  "address" : "250 W 127th Street",
+  "garden_name" : "C.S. 154 - Our Children's Garden",
+  "council_district" : "9",
+  "propid" : "NA",
+  "jurisdiction" : "DOE",
+  "community_board" : "M10",
+  "size" : "0.066"
+}
+, {
+  "cross_streets" : "At Harlem River Drive",
+  "boro" : "M",
+  "address" : "2987 Frederick Douglass Boulevard",
+  "garden_name" : "C.S. 46 - Tappan School Garden of Heroes",
+  "council_district" : "9",
+  "propid" : "NA",
+  "jurisdiction" : "DOE",
+  "community_board" : "M10",
+  "size" : "NA"
+}
+, {
+  "cross_streets" : "E. 180th & E. 181st Streets.",
+  "boro" : "X",
+  "address" : "2111 Crotona Avenue",
+  "garden_name" : "C.S. 57 - Garden of Hope",
+  "council_district" : "15",
+  "propid" : "NA",
+  "jurisdiction" : "DOE",
+  "community_board" : "X06",
+  "size" : "NA"
+}
+, {
+  "cross_streets" : "Vyse & Bryant Avenues",
+  "boro" : "X",
+  "neighborhoodname" : "Tremont",
+  "address" : "1000 East Tremont Avenue",
+  "garden_name" : "C.S. 6 - West Farms School Garden",
+  "council_district" : "0",
+  "propid" : "NA",
+  "jurisdiction" : "DOE",
+  "community_board" : "X06",
+  "size" : "NA"
+}
+, {
+  "cross_streets" : "At Charlotte Street",
+  "boro" : "X",
+  "address" : "1550 Crotona  Park East",
+  "garden_name" : "C.S. 61 - The  Francisco Oller School",
+  "council_district" : "15",
+  "propid" : "NA",
+  "jurisdiction" : "DOE",
+  "community_board" : "X03",
+  "size" : "0.055"
+}
+, {
+  "cross_streets" : "At Linden Boulevard",
+  "boro" : "Q",
+  "neighborhoodname" : "Cambria Heights",
+  "address" : "227th Street",
+  "garden_name" : "Cambria Heights Civic Association",
+  "council_district" : "27",
+  "propid" : "NA",
+  "jurisdiction" : "TPL",
+  "community_board" : "Q13",
+  "size" : "0.207"
+}
+, {
+  "cross_streets" : "Active",
+  "boro" : "M",
+  "neighborhoodname" : "East Village",
+  "address" : "640-644 East 12th Street",
+  "garden_name" : "CAMPOS",
+  "council_district" : "2",
+  "propid" : "M359",
+  "jurisdiction" : "DPR",
+  "community_board" : "M03",
+  "size" : "0.119"
+}
+, {
+  "cross_streets" : "Active",
+  "boro" : "M",
+  "neighborhoodname" : "East Harlem",
+  "address" : "122nd Street",
+  "garden_name" : "Carolina Garden / formerly 116th Street Block Association",
+  "council_district" : "9",
+  "propid" : "M388",
+  "jurisdiction" : "DPR",
+  "community_board" : "M11",
+  "size" : "0.063"
+}
+, {
+  "cross_streets" : "At Carpenter Avenue",
+  "boro" : "X",
+  "neighborhoodname" : "Wakefield",
+  "address" : "in East 239th Street",
+  "garden_name" : "Carpenter Avenue Community Garden",
+  "council_district" : "0",
+  "propid" : "NA",
+  "jurisdiction" : "DOT",
+  "community_board" : "X12",
+  "size" : "NA"
+}
+, {
+  "cross_streets" : "Active",
+  "boro" : "M",
+  "address" : "143-145 St. Nicholas Avenue",
+  "garden_name" : "Carrie McCracken Garden/TRUCE",
+  "council_district" : "9",
+  "propid" : "M385",
+  "jurisdiction" : "DPR",
+  "community_board" : "M10",
+  "size" : "0.059"
+}
+, {
+  "boro" : "B",
+  "address" : "534 Carroll Street",
+  "garden_name" : "Carroll Street Community Garden (Our Lady of Peace Church or Gil Hodges Garden)",
+  "council_district" : "30",
+  "propid" : "NA",
+  "jurisdiction" : "NYRP",
+  "community_board" : "B06",
+  "size" : "0.069"
+}
+, {
+  "cross_streets" : "2nd & 3rd Avenues",
+  "boro" : "M",
+  "neighborhoodname" : "East Harlem",
+  "address" : "236-242 East 124th Street",
+  "garden_name" : "Carver Community Garden",
+  "council_district" : "8",
+  "propid" : "NA",
+  "jurisdiction" : "TPL",
+  "community_board" : "M11",
+  "size" : "0.275"
+}
+, {
+  "cross_streets" : "E. 149th Street & Westchester Avenue",
+  "boro" : "X",
+  "neighborhoodname" : "Mott Haven",
+  "address" : "551 Cauldwell Avenue",
+  "garden_name" : "Cauldwell Youth Garden",
+  "council_district" : "17",
+  "propid" : "NA",
+  "jurisdiction" : "TPL",
+  "community_board" : "X01",
+  "size" : "0.119"
+}
+, {
+  "cross_streets" : "Active",
+  "boro" : "B",
+  "address" : "305 Greene Avenue",
+  "garden_name" : "Cedar Tree Garden",
+  "council_district" : "36",
+  "propid" : "B448",
+  "jurisdiction" : "DPR",
+  "community_board" : "B03",
+  "size" : "0.177"
+}
+, {
+  "cross_streets" : "Ralph & Patchen Avenues",
+  "boro" : "B",
+  "neighborhoodname" : "Bed-Stuy",
+  "address" : "277-279 Bainbridge Street",
+  "garden_name" : "Central Bainbridge Block Association Inc.",
+  "council_district" : "41",
+  "propid" : "NA",
+  "jurisdiction" : "TPL",
+  "community_board" : "B03",
+  "size" : "0.112"
+}
+, {
+  "cross_streets" : "E. 111th & E. 112th Streets.",
+  "boro" : "M",
+  "neighborhoodname" : "East Harlem",
+  "address" : "1691-93 Madison Avenue",
+  "garden_name" : "Chenchitas Group Garden",
+  "council_district" : "9",
+  "propid" : "NA",
+  "jurisdiction" : "HPD",
+  "community_board" : "M11",
+  "size" : "0.053"
+}
+, {
+  "cross_streets" : "5th & Lenox Avenues",
+  "boro" : "M",
+  "address" : "21 West 118th Street",
+  "garden_name" : "Childrens Aid Soc. Garden (The Sowers)",
+  "council_district" : "9",
+  "propid" : "NA",
+  "jurisdiction" : "PRI",
+  "community_board" : "M10",
+  "size" : "0.057"
+}
+, {
+  "cross_streets" : "Active",
+  "boro" : "B",
+  "neighborhoodname" : "Bed-Stuy",
+  "address" : "127 Patchen Avenue",
+  "garden_name" : "Citizens for a Better Community",
+  "council_district" : "41",
+  "propid" : "B224A",
+  "jurisdiction" : "DPR",
+  "community_board" : "B03",
+  "size" : "0.299"
+}
+, {
+  "cross_streets" : "Hudson & Varick Streets.",
+  "boro" : "M",
+  "neighborhoodname" : "West Village",
+  "address" : "16 Clarkson Street",
+  "garden_name" : "City-As-School H.S.",
+  "council_district" : "3",
+  "propid" : "NA",
+  "jurisdiction" : "DOE",
+  "community_board" : "M02",
+  "size" : "0.110"
+}
+, {
+  "cross_streets" : "Active",
+  "boro" : "B",
+  "neighborhoodname" : "East New York",
+  "address" : "573-579 Glenmore Avenue",
+  "garden_name" : "Clara's Garden",
+  "council_district" : "37",
+  "propid" : "B450",
+  "jurisdiction" : "DPR",
+  "community_board" : "B05",
+  "size" : "0.043"
+}
+, {
+  "cross_streets" : "Active",
+  "boro" : "X",
+  "address" : "1280 Teller Avenue",
+  "garden_name" : "Claremont Neighborhood Garden",
+  "council_district" : "16",
+  "propid" : "X321",
+  "jurisdiction" : "DPR",
+  "community_board" : "X04",
+  "size" : "0.190"
+}
+, {
+  "cross_streets" : "Madison & Monroe Streets",
+  "boro" : "B",
+  "address" : "474 Classon Avenue",
+  "garden_name" : "Classon/Fulgate Block Association",
+  "council_district" : "36",
+  "propid" : "NA",
+  "jurisdiction" : "TPL",
+  "community_board" : "B03",
+  "size" : "0.115"
+}
+, {
+  "cross_streets" : "E. 169th & E. 170th Streets",
+  "boro" : "X",
+  "address" : "1328-1332 Clay Avenue",
+  "garden_name" : "Clay Avenue Community Garden",
+  "council_district" : "16",
+  "propid" : "NA",
+  "jurisdiction" : "NYRP",
+  "community_board" : "X04",
+  "size" : "0.033"
+}
+, {
+  "cross_streets" : "Active",
+  "boro" : "M",
+  "address" : "303 W 126th Street",
+  "garden_name" : "Clayton Williams Garden",
+  "council_district" : "9",
+  "propid" : "M374",
+  "jurisdiction" : "TPL/DPR",
+  "community_board" : "M10",
+  "size" : "0.057"
+}
+, {
+  "cross_streets" : "Active",
+  "boro" : "B",
+  "neighborhoodname" : "East New York",
+  "address" : "433-435 Cleveland Street",
+  "garden_name" : "Cleveland Street Vegetable Garden",
+  "council_district" : "37",
+  "propid" : "B526",
+  "jurisdiction" : "DPR",
+  "community_board" : "B05",
+  "size" : "0.057"
+}
+, {
+  "cross_streets" : "Clifton Pl. & Greene Avenue",
+  "boro" : "B",
+  "address" : "289 Grand Avenue",
+  "garden_name" : "Clifton Place Garden",
+  "council_district" : "35",
+  "propid" : "NA",
+  "jurisdiction" : "TPL",
+  "community_board" : "B02",
+  "size" : "0.086"
+}
+, {
+  "cross_streets" : "Active",
+  "boro" : "B",
+  "address" : "1031-35 Bedford Avenue",
+  "garden_name" : "Clifton Place Memorial Park & Garden",
+  "council_district" : "36",
+  "propid" : "B451",
+  "jurisdiction" : "DPR",
+  "community_board" : "B03",
+  "size" : "0.165"
+}
+, {
+  "cross_streets" : "N/W corner of Prospect Avenue & 179th Street",
+  "boro" : "X",
+  "address" : "757 East 179th Street",
+  "garden_name" : "Clinton Avenue Block Association",
+  "council_district" : "15",
+  "propid" : "NA",
+  "jurisdiction" : "NYRP",
+  "community_board" : "X06",
+  "size" : "0.115"
+}
+, {
+  "cross_streets" : "Active",
+  "boro" : "M",
+  "neighborhoodname" : "Hell's Kitchen",
+  "address" : "436 West 48th Street",
+  "garden_name" : "Clinton Community Garden",
+  "council_district" : "3",
+  "propid" : "M281",
+  "jurisdiction" : "DPR",
+  "community_board" : "M04",
+  "size" : "0.350"
+}
+, {
+  "cross_streets" : "E. 170th & E. 171st Streets",
+  "boro" : "X",
+  "address" : "1420 College Avenue",
+  "garden_name" : "College Avenue GreenThumb",
+  "council_district" : "16",
+  "propid" : "NA",
+  "jurisdiction" : "DPR",
+  "community_board" : "X04",
+  "size" : "0.430"
+}
+, {
+  "cross_streets" : "Bradhurst Avenue & Frederick Douglass Boulevard",
+  "boro" : "M",
+  "address" : "304-306 West 150th St",
+  "garden_name" : "Colonial Gardeners",
+  "propid" : "NA",
+  "jurisdiction" : "PRI",
+  "community_board" : "M10",
+  "size" : "NA"
+}
+, {
+  "cross_streets" : "Active",
+  "boro" : "M",
+  "neighborhoodname" : "Lower East Side",
+  "address" : "171 Stanton Street",
+  "garden_name" : "Committee of Poor Peoples of the LES Community Garden",
+  "council_district" : "1",
+  "propid" : "M335",
+  "jurisdiction" : "DPR",
+  "community_board" : "M03",
+  "size" : "0.058"
+}
+, {
+  "cross_streets" : "Active",
+  "boro" : "B",
+  "neighborhoodname" : "Bushwick",
+  "address" : "72-74 Grove Street",
+  "garden_name" : "Concerned Citizens of Grove Street",
+  "council_district" : "34",
+  "propid" : "B520",
+  "jurisdiction" : "DPR",
+  "community_board" : "B04",
+  "size" : "0.110"
+}
+, {
+  "cross_streets" : "Active",
+  "boro" : "B",
+  "address" : "606 Glenmore Avenue",
+  "garden_name" : "Concerned Residents of Barbey Street",
+  "council_district" : "37",
+  "propid" : "B452",
+  "jurisdiction" : "DPR",
+  "community_board" : "B05",
+  "size" : "0.057"
+}
+, {
+  "cross_streets" : "Active",
+  "boro" : "B",
+  "neighborhoodname" : "East New York",
+  "address" : "214 Montauk Avenue",
+  "garden_name" : "Concerned Residents of Montauk Avenue",
+  "council_district" : "37",
+  "propid" : "B453",
+  "jurisdiction" : "DPR",
+  "community_board" : "B05",
+  "size" : "0.091"
+}
+, {
+  "cross_streets" : "181st Street & Bronx Parkway South",
+  "boro" : "X",
+  "address" : "2139 Daly Avenue",
+  "garden_name" : "Concerned Tenants of Daly Avenue",
+  "council_district" : "15",
+  "propid" : "NA",
+  "jurisdiction" : "TPL",
+  "community_board" : "X06",
+  "size" : "0.179"
+}
+, {
+  "cross_streets" : "Pilling & Granite Streets.",
+  "boro" : "B",
+  "neighborhoodname" : "Bushwick",
+  "address" : "1475 Bushwick Avenue",
+  "garden_name" : "Contented Hart Garden",
+  "council_district" : "37",
+  "propid" : "NA",
+  "jurisdiction" : "TPL",
+  "community_board" : "B04",
+  "size" : "0.057"
+}
+, {
+  "cross_streets" : "Active",
+  "boro" : "B",
+  "neighborhoodname" : "Bushwick",
+  "address" : "41 Cooper Street",
+  "garden_name" : "Cooper Street Block Buster Block Association.",
+  "council_district" : "40",
+  "propid" : "B454",
+  "jurisdiction" : "DPR",
+  "community_board" : "B04",
+  "size" : "0.160"
+}
+, {
+  "cross_streets" : "Bushwick Avenue & Broadway",
+  "boro" : "B",
+  "address" : "34 Cooper Street",
+  "garden_name" : "Cooper Street Gardeners",
+  "council_district" : "37",
+  "propid" : "NA",
+  "jurisdiction" : "NYRP",
+  "community_board" : "B04",
+  "size" : "0.078"
+}
+, {
+  "cross_streets" : "Active",
+  "boro" : "Q",
+  "neighborhoodname" : "Corona",
+  "address" : "52-02 102nd  Street",
+  "garden_name" : "Corona Taxpayers Association",
+  "council_district" : "21",
+  "propid" : "Q474A",
+  "jurisdiction" : "DPR",
+  "community_board" : "Q04",
+  "size" : "0.180"
+}
+, {
+  "cross_streets" : "Active",
+  "boro" : "X",
+  "neighborhoodname" : "Melrose",
+  "address" : "364-366 East 158th Street",
+  "garden_name" : "Courtlandt Avenue Association",
+  "council_district" : "17",
+  "propid" : "X338",
+  "jurisdiction" : "DPR",
+  "community_board" : "X01",
+  "size" : "0.171"
+}
+, {
+  "cross_streets" : "Active",
+  "boro" : "M",
+  "neighborhoodname" : "East Village",
+  "address" : "530 East 6th Street",
+  "garden_name" : "Creative Little Garden",
+  "council_district" : "2",
+  "propid" : "M315",
+  "jurisdiction" : "DPR",
+  "community_board" : "M03",
+  "size" : "0.060"
+}
+, {
+  "cross_streets" : "E 182nd & E 183rd",
+  "boro" : "X",
+  "address" : "2242 Creston Avenue",
+  "garden_name" : "Creston Jungle Playground",
+  "propid" : "NA",
+  "jurisdiction" : "NYRP",
+  "community_board" : "X05",
+  "size" : "NA"
+}
+, {
+  "cross_streets" : "Active",
+  "boro" : "B",
+  "neighborhoodname" : "East New York",
+  "address" : "Crystal Street",
+  "garden_name" : "Crystal Street Block Association Community Garden",
+  "council_district" : "37",
+  "propid" : "B455",
+  "jurisdiction" : "DPR",
+  "community_board" : "B05",
+  "size" : "0.344"
+}
+, {
+  "cross_streets" : "B30th & B31st",
+  "boro" : "Q",
+  "neighborhoodname" : "Far Rockaway",
+  "address" : "3003 Seagirt Boulevard.",
+  "garden_name" : "Culinary Kids Garde (Seagirt Community Garden)",
+  "council_district" : "31",
+  "propid" : "NA",
+  "jurisdiction" : "HPD",
+  "community_board" : "Q14",
+  "size" : "0.138"
+}
+, {
+  "cross_streets" : "At Foch Boulevard",
+  "boro" : "Q",
+  "address" : "11709 165th Street",
+  "garden_name" : "Curtis \"50 Cent\" Jackson Community Garden",
+  "council_district" : "27",
+  "propid" : "NA",
+  "jurisdiction" : "NYRP",
+  "community_board" : "Q12",
+  "size" : "0.083"
+}
+, {
+  "cross_streets" : "Bond & Nevins Streets.",
+  "boro" : "B",
+  "neighborhoodname" : "Boerum Hill",
+  "address" : "248-250 Bergen Street",
+  "garden_name" : "David Foulke Community Garden",
+  "council_district" : "33",
+  "propid" : "NA",
+  "jurisdiction" : "TPL",
+  "community_board" : "B02",
+  "size" : "0.073"
+}
+, {
+  "cross_streets" : "W. 184th Street & W. Fordham Rd.",
+  "boro" : "X",
+  "address" : "2385 Davidson Avenue",
+  "garden_name" : "Davidson Avenue Community Garden",
+  "council_district" : "14",
+  "propid" : "NA",
+  "jurisdiction" : "TPL",
+  "community_board" : "X07",
+  "size" : "0.115"
+}
+, {
+  "cross_streets" : "Active",
+  "boro" : "M",
+  "neighborhoodname" : "East Village",
+  "address" : "311-313 E 8th Street",
+  "garden_name" : "De Colores Community Garden",
+  "council_district" : "2",
+  "propid" : "M336",
+  "jurisdiction" : "DPR",
+  "community_board" : "M03",
+  "size" : "0.066"
+}
+, {
+  "cross_streets" : "Bushwick & Evergreen Avenues",
+  "boro" : "B",
+  "address" : "1052 Decatur Street",
+  "garden_name" : "Decatur Street Community Garden",
+  "council_district" : "37",
+  "propid" : "NA",
+  "jurisdiction" : "NYRP",
+  "community_board" : "B04",
+  "size" : "0.057"
+}
+, {
+  "cross_streets" : "Not GreenThumb",
+  "boro" : "X",
+  "address" : "941-943 Avenue St. John",
+  "garden_name" : "Demera/Santiago Garden",
+  "council_district" : "17",
+  "propid" : "X179A",
+  "jurisdiction" : "DPR",
+  "community_board" : "X02",
+  "size" : "0.126"
+}
+, {
+  "cross_streets" : "Active",
+  "boro" : "M",
+  "neighborhoodname" : "East Harlem",
+  "address" : "306-310 East 118th Street",
+  "garden_name" : "Diamante Garden (Block and School Association)",
+  "council_district" : "8",
+  "propid" : "M323",
+  "jurisdiction" : "DPR",
+  "community_board" : "M11",
+  "size" : "0.186"
+}
+, {
+  "cross_streets" : "Active",
+  "boro" : "M",
+  "neighborhoodname" : "East Village",
+  "address" : "520-522 East 13th Street",
+  "garden_name" : "Dias y Flores",
+  "council_district" : "2",
+  "propid" : "M337",
+  "jurisdiction" : "DPR",
+  "community_board" : "M03",
+  "size" : "0.119"
+}
+, {
+  "cross_streets" : "Amsterdam Avenue & Broadway",
+  "boro" : "M",
+  "neighborhoodname" : "Washington Heights",
+  "address" : "513 W 158th Street",
+  "garden_name" : "Dorothy K. McGowan Memorial Garden",
+  "council_district" : "7",
+  "propid" : "NA",
+  "jurisdiction" : "TPL",
+  "community_board" : "M12",
+  "size" : "0.045"
+}
+, {
+  "boro" : "M",
+  "address" : "223 - 231 E. 124 St.",
+  "garden_name" : "Dream Street Park",
+  "propid" : "M302",
+  "jurisdiction" : "DPR",
+  "community_board" : "M11",
+  "size" : "0.252"
+}
+, {
+  "cross_streets" : "Active",
+  "boro" : "X",
+  "address" : "E 169th Street",
+  "garden_name" : "Dred Scott Bird Sanctuary Garden and Park",
+  "council_district" : "16",
+  "propid" : "X271A",
+  "jurisdiction" : "DPR",
+  "community_board" : "X04",
+  "size" : "0.473"
+}
+, {
+  "cross_streets" : "west of E. 177th Street & BX River",
+  "boro" : "X",
+  "address" : "East Tremont Avenue",
+  "garden_name" : "Drew Garden - I.S. 167",
+  "council_district" : "15",
+  "propid" : "NA",
+  "jurisdiction" : "DOT",
+  "community_board" : "X06",
+  "size" : "NA"
+}
+, {
+  "cross_streets" : "At Shore Avenue",
+  "boro" : "Q",
+  "address" : "Remington Street",
+  "garden_name" : "Dunton Block and Civic Association. Inc.",
+  "council_district" : "28",
+  "propid" : "NA",
+  "jurisdiction" : "TPL",
+  "community_board" : "Q12",
+  "size" : "0.551"
+}
+, {
+  "cross_streets" : "Ellwood & Sicles Streets.",
+  "boro" : "M",
+  "address" : "93 Nagle Avenue",
+  "garden_name" : "Dyckman Valley School - P.S. 152",
+  "council_district" : "10",
+  "propid" : "NA",
+  "jurisdiction" : "DOE",
+  "community_board" : "M12",
+  "size" : "0.090"
+}
+, {
+  "cross_streets" : "Active",
+  "boro" : "M",
+  "neighborhoodname" : "East Village",
+  "address" : "333-335 East 8th Street",
+  "garden_name" : "Earth People",
+  "council_district" : "2",
+  "propid" : "M324",
+  "jurisdiction" : "DPR",
+  "community_board" : "M03",
+  "size" : "0.106"
+}
+, {
+  "cross_streets" : "At Avenue B",
+  "boro" : "M",
+  "neighborhoodname" : "East Village",
+  "address" : "600 East 6th Street",
+  "garden_name" : "Earth School - P.S.64",
+  "council_district" : "1",
+  "propid" : "NA",
+  "jurisdiction" : "DOE",
+  "community_board" : "M03",
+  "size" : "0.271"
+}
+, {
+  "cross_streets" : "Lexington & Park Avenues",
+  "boro" : "M",
+  "address" : "105 E 103rd Street",
+  "garden_name" : "East 103rd Street Community Garden",
+  "propid" : "NA",
+  "jurisdiction" : "NYRP",
+  "community_board" : "M11",
+  "size" : "NA"
+}
+, {
+  "cross_streets" : "At Willis",
+  "boro" : "X",
+  "address" : "401 E 143rd Street",
+  "garden_name" : "East 143rd Street Community Garden (Bronx Community & Cultural Garden or North Church Garden)",
+  "council_district" : "8",
+  "propid" : "NA",
+  "jurisdiction" : "NYRP",
+  "community_board" : "X01",
+  "size" : "0.208"
+}
+, {
+  "cross_streets" : "Active",
+  "boro" : "B",
+  "neighborhoodname" : "Kensington",
+  "address" : "171 E 4th Street",
+  "garden_name" : "East 4th St. Com. Gar.(Windsor Terrace Kensington Veterans Mem.)",
+  "council_district" : "15",
+  "propid" : "B414",
+  "jurisdiction" : "DPR",
+  "community_board" : "B06",
+  "size" : "0.057"
+}
+, {
+  "cross_streets" : "At Van Siclen Avenue",
+  "boro" : "B",
+  "neighborhoodname" : "East New York",
+  "address" : "530-2 Glenmore Avenue / 260 Van Siclen Avenue",
+  "garden_name" : "East End Community Garden",
+  "council_district" : "37",
+  "propid" : "NA",
+  "jurisdiction" : "DPR",
+  "community_board" : "B05",
+  "size" : "0.161"
+}
+, {
+  "cross_streets" : "1st & Pleasant Avenues",
+  "boro" : "M",
+  "neighborhoodname" : "East Harlem",
+  "address" : "429-433 East 117th Street",
+  "garden_name" : "East Harlem Community Garden",
+  "council_district" : "8",
+  "propid" : "NA",
+  "jurisdiction" : "TPL",
+  "community_board" : "M11",
+  "size" : "0.142"
+}
+, {
+  "cross_streets" : "Active",
+  "boro" : "B",
+  "neighborhoodname" : "Crown Heights",
+  "address" : "Eastern Pkwy.,W/O Franklin",
+  "garden_name" : "Eastern Parkway Coalition",
+  "council_district" : "35",
+  "propid" : "B458",
+  "jurisdiction" : "DPR",
+  "community_board" : "B09",
+  "size" : "0.44"
+}
+, {
+  "cross_streets" : "Active",
+  "boro" : "M",
+  "address" : "339-341 Edgecomb Avenue",
+  "garden_name" : "Edgecomb Avenue Garden Park Sanctuary",
+  "council_district" : "0",
+  "propid" : "M319B",
+  "jurisdiction" : "DPR",
+  "community_board" : "M09",
+  "size" : "0.112"
+}
+, {
+  "cross_streets" : "Active",
+  "boro" : "X",
+  "neighborhoodname" : "Melrose",
+  "address" : "836 Elton Avenue",
+  "garden_name" : "Edith Community Garden (830 Elton Tnts. Assoc.)",
+  "council_district" : "17",
+  "propid" : "X341",
+  "jurisdiction" : "DPR",
+  "community_board" : "X03",
+  "size" : "0.116"
+}
+, {
+  "cross_streets" : "Active",
+  "boro" : "M",
+  "neighborhoodname" : "West Harlem",
+  "address" : "52 W 129th Street",
+  "garden_name" : "Edward P. Bowman Park",
+  "council_district" : "21",
+  "propid" : "M316",
+  "jurisdiction" : "DPR",
+  "community_board" : "M10",
+  "size" : "0.046"
+}
+, {
+  "cross_streets" : "Active",
+  "boro" : "X",
+  "neighborhoodname" : "\r\nMelrose",
+  "address" : "811-815 Eagle Avenue",
+  "garden_name" : "El Batey Borincano",
+  "council_district" : "17",
+  "propid" : "X313",
+  "jurisdiction" : "DPR",
+  "community_board" : "X01",
+  "size" : "0.170"
+}
+, {
+  "cross_streets" : "Active",
+  "boro" : "X",
+  "address" : "504 East 178th Street",
+  "garden_name" : "El Batey de Dona Provi",
+  "council_district" : "15",
+  "propid" : "X323",
+  "jurisdiction" : "DPR",
+  "community_board" : "X06",
+  "size" : "0.130"
+}
+, {
+  "cross_streets" : "3rd & Lexington Avenues",
+  "boro" : "M",
+  "neighborhoodname" : "East Harlem",
+  "address" : "169 East 110th Street",
+  "garden_name" : "El Cataño Garden",
+  "council_district" : "8",
+  "propid" : "NA",
+  "jurisdiction" : "NYRP",
+  "community_board" : "M11",
+  "size" : "0.057"
+}
+, {
+  "cross_streets" : "Active",
+  "boro" : "X",
+  "address" : "Tinton Avenue",
+  "garden_name" : "El Flamboyan",
+  "council_district" : "17",
+  "propid" : "X339",
+  "jurisdiction" : "DPR",
+  "community_board" : "X01",
+  "size" : "0.402"
+}
+, {
+  "cross_streets" : "Active",
+  "boro" : "X",
+  "address" : "624-638 East 138th Street",
+  "garden_name" : "El Girasol",
+  "council_district" : "17",
+  "propid" : "X277",
+  "jurisdiction" : "DPR",
+  "community_board" : "X01",
+  "size" : "0.085"
+}
+, {
+  "cross_streets" : "Active",
+  "boro" : "X",
+  "address" : "624-638 East 138th Street",
+  "garden_name" : "El Girasol",
+  "council_district" : "17",
+  "propid" : "X277",
+  "jurisdiction" : "HPD",
+  "community_board" : "X01",
+  "size" : "0.085"
+}
+, {
+  "cross_streets" : "Active",
+  "boro" : "M",
+  "neighborhoodname" : "East Village",
+  "address" : "706-718 East 5th Street /311-321 East 4th Street",
+  "garden_name" : "El Jardin del Paraiso",
+  "council_district" : "2",
+  "propid" : "M268A",
+  "jurisdiction" : "DPR",
+  "community_board" : "M03",
+  "size" : "0.730"
+}
+, {
+  "cross_streets" : "Active",
+  "boro" : "B",
+  "neighborhoodname" : "Williamsburg",
+  "address" : "203-207 South 2nd Street",
+  "garden_name" : "El Puente: Espíritu Tierra Community Garden",
+  "council_district" : "30",
+  "propid" : "B424",
+  "jurisdiction" : "DPR",
+  "community_board" : "B01",
+  "size" : "0.230"
+}
+, {
+  "cross_streets" : "Active",
+  "boro" : "M",
+  "neighborhoodname" : "East Village",
+  "address" : "537 East 12th Street",
+  "garden_name" : "El Sol Brillante Jr.",
+  "council_district" : "2",
+  "propid" : "M339",
+  "jurisdiction" : "DPR",
+  "community_board" : "M03",
+  "size" : "0.059"
+}
+, {
+  "cross_streets" : "Active",
+  "boro" : "M",
+  "neighborhoodname" : "Central Harlem",
+  "address" : "121-123 West 137th Street",
+  "garden_name" : "Elizabeth Langley Memorial Garden",
+  "council_district" : "9",
+  "propid" : "M340",
+  "jurisdiction" : "DPR",
+  "community_board" : "M10",
+  "size" : "0.110"
+}
+, {
+  "cross_streets" : "Active",
+  "boro" : "B",
+  "neighborhoodname" : "East New York",
+  "address" : "585 Elton Street",
+  "garden_name" : "Elton Street Block Association",
+  "council_district" : "42",
+  "propid" : "B460",
+  "jurisdiction" : "DPR",
+  "community_board" : "B05",
+  "size" : "0.097"
+}
+, {
+  "cross_streets" : "At Essex Street",
+  "boro" : "B",
+  "neighborhoodname" : "East New York",
+  "address" : "3030 Fulton Street",
+  "garden_name" : "Essex Street Community Fulton Street Garden (Fulton Street Community Garden)",
+  "council_district" : "37",
+  "propid" : "NA",
+  "jurisdiction" : "NYRP",
+  "community_board" : "B05",
+  "size" : "0.074"
+}
+, {
+  "cross_streets" : "Active",
+  "boro" : "B",
+  "neighborhoodname" : "East New York",
+  "address" : "532 Euclid Avenue",
+  "garden_name" : "Euclid 500 Block Association.",
+  "council_district" : "0",
+  "propid" : "B461",
+  "jurisdiction" : "DPR",
+  "community_board" : "B05",
+  "size" : "0.181"
+}
+, {
+  "cross_streets" : "Aldride & Bay Vew",
+  "boro" : "B",
+  "neighborhoodname" : "East New York",
+  "garden_name" : "Euclid Pine Block Association",
+  "council_district" : "42",
+  "propid" : "NA",
+  "jurisdiction" : "TPL",
+  "community_board" : "B05",
+  "size" : "0.071"
+}
+, {
+  "cross_streets" : "Active",
+  "boro" : "B",
+  "address" : "808 Herkimer Street",
+  "garden_name" : "F.A.R.R. Block Association",
+  "propid" : "B532",
+  "jurisdiction" : "DPR",
+  "community_board" : "B03",
+  "size" : "0.028"
+}
+, {
+  "cross_streets" : "Active",
+  "boro" : "B",
+  "neighborhoodname" : "East New York",
+  "address" : "793 Cleveland Street",
+  "garden_name" : "Family Community Garden - Brooklyn",
+  "council_district" : "42",
+  "propid" : "B462",
+  "jurisdiction" : "DPR",
+  "community_board" : "B05",
+  "size" : "0.275"
+}
+, {
+  "cross_streets" : "Active",
+  "boro" : "M",
+  "neighborhoodname" : "East Harlem",
+  "address" : "156 East 111th Street",
+  "garden_name" : "Family Community Garden - Manhattan",
+  "council_district" : "8",
+  "propid" : "M330",
+  "jurisdiction" : "DPR",
+  "community_board" : "M11",
+  "size" : "0.040"
+}
+, {
+  "cross_streets" : "1st & Pleasant Avenues",
+  "boro" : "M",
+  "neighborhoodname" : "East Harlem",
+  "address" : "431 East 114th Street",
+  "garden_name" : "Family Garden",
+  "council_district" : "8",
+  "propid" : "NA",
+  "jurisdiction" : "NYRP",
+  "community_board" : "M11",
+  "size" : "0.057"
+}
+, {
+  "cross_streets" : "Active",
+  "boro" : "X",
+  "neighborhoodname" : "Melrose",
+  "address" : "419 East 158th Street",
+  "garden_name" : "Family Group Garden",
+  "council_district" : "17",
+  "propid" : "X337",
+  "jurisdiction" : "DPR",
+  "community_board" : "X01",
+  "size" : "0.101"
+}
+, {
+  "cross_streets" : "Active",
+  "boro" : "B",
+  "neighborhoodname" : "Brownsville",
+  "address" : "181 Legion Street",
+  "garden_name" : "Fantasy Garden",
+  "council_district" : "41",
+  "propid" : "B463",
+  "jurisdiction" : "DPR",
+  "community_board" : "B16",
+  "size" : "0.230"
+}
+, {
+  "cross_streets" : "Active",
+  "boro" : "X",
+  "address" : "East 182nd Street",
+  "garden_name" : "Farm in the Bronx",
+  "council_district" : "0",
+  "propid" : "X252B",
+  "jurisdiction" : "DPR",
+  "community_board" : "X06",
+  "size" : "0.188"
+}
+, {
+  "cross_streets" : "Active",
+  "boro" : "B",
+  "address" : "1897-1905 Bergen Street",
+  "garden_name" : "Farmers Garden",
+  "council_district" : "41",
+  "propid" : "B464",
+  "jurisdiction" : "DPR",
+  "community_board" : "B16",
+  "size" : "0.154"
+}
+, {
+  "cross_streets" : "Active",
+  "boro" : "M",
+  "neighborhoodname" : "East Village",
+  "address" : "358-364 E 8th Street",
+  "garden_name" : "Firemens Memorial Garden Inc.",
+  "council_district" : "2",
+  "propid" : "M310",
+  "jurisdiction" : "DPR",
+  "community_board" : "M03",
+  "size" : "0.170"
+}
+, {
+  "cross_streets" : "Active",
+  "boro" : "B",
+  "address" : "397-401 Quincy Street",
+  "garden_name" : "First Quincy Street GreenThumb Garden",
+  "council_district" : "36",
+  "propid" : "B465",
+  "jurisdiction" : "DPR",
+  "community_board" : "B03",
+  "size" : "0.130"
+}
+, {
+  "cross_streets" : "Active",
+  "boro" : "M",
+  "address" : "48 East 1st Street",
+  "garden_name" : "First Street Garden",
+  "propid" : "M358",
+  "jurisdiction" : "DPR",
+  "community_board" : "M03",
+  "size" : "0.061"
+}
+, {
+  "cross_streets" : "Active",
+  "boro" : "B",
+  "neighborhoodname" : "East New York",
+  "address" : "494 Bradford Street",
+  "garden_name" : "First Temple of David",
+  "council_district" : "42",
+  "propid" : "B466",
+  "jurisdiction" : "DPR",
+  "community_board" : "B05",
+  "size" : "0.062"
+}
+, {
+  "cross_streets" : "Active",
+  "boro" : "M",
+  "neighborhoodname" : "Downtown Manhattan",
+  "address" : "338-340 Pearl Street",
+  "garden_name" : "FishBridge Pk. (South-Water-Front Neigh. Assoc.)",
+  "council_district" : "1",
+  "propid" : "M291",
+  "jurisdiction" : "DPR",
+  "community_board" : "M01",
+  "size" : "0.100"
+}
+, {
+  "cross_streets" : "Adam Clayton Powell & Fredrick Douglas Blvds",
+  "boro" : "M",
+  "neighborhoodname" : "Harlem",
+  "address" : "250-252 West 121st Street",
+  "garden_name" : "Five Star Block Association",
+  "council_district" : "9",
+  "propid" : "NA",
+  "jurisdiction" : "TPL",
+  "community_board" : "M10",
+  "size" : "0.083"
+}
+, {
+  "cross_streets" : "Active",
+  "boro" : "B",
+  "neighborhoodname" : "East New York",
+  "address" : "2379-2385 Pitkin Avenue",
+  "garden_name" : "Floral Vineyard",
+  "council_district" : "37",
+  "propid" : "B467",
+  "jurisdiction" : "DPR",
+  "community_board" : "B05",
+  "size" : "0.107"
+}
+, {
+  "cross_streets" : "Active",
+  "boro" : "X",
+  "address" : "2592-2597 Bainbridge Avenue",
+  "garden_name" : "Fordham Bedford Lot-Busters",
+  "council_district" : "15",
+  "propid" : "X324",
+  "jurisdiction" : "DPR/TPL",
+  "community_board" : "X07",
+  "size" : "0.044"
+}
+, {
+  "cross_streets" : "Active",
+  "boro" : "X",
+  "address" : "2592-2597 Bainbridge Avenue",
+  "garden_name" : "Fordham Bedford Lot-Busters",
+  "council_district" : "15",
+  "propid" : "X324",
+  "jurisdiction" : "TPL/DPR",
+  "community_board" : "X07",
+  "size" : "0.044"
+}
+, {
+  "cross_streets" : "Active",
+  "boro" : "M",
+  "neighborhoodname" : "Hamilton Heights",
+  "address" : "506-508 West 143rd Street",
+  "garden_name" : "Frank White Memorial Garden",
+  "council_district" : "7",
+  "propid" : "M317",
+  "jurisdiction" : "DPR",
+  "community_board" : "M09",
+  "size" : "0.090"
+}
+, {
+  "cross_streets" : "Active",
+  "boro" : "X",
+  "neighborhoodname" : "Morrisania",
+  "address" : "1060-1062 Cauldwell Avenue",
+  "garden_name" : "Franklin Memorial Garden",
+  "council_district" : "16",
+  "propid" : "X318",
+  "jurisdiction" : "DPR",
+  "community_board" : "X03",
+  "size" : "0.120"
+}
+, {
+  "cross_streets" : "At W. 147th Street",
+  "boro" : "M",
+  "address" : "2599 Adam Clayton Powell Jr Boulevard",
+  "garden_name" : "Frederick Douglass Academy HS",
+  "council_district" : "0",
+  "propid" : "NA",
+  "jurisdiction" : "DOE",
+  "community_board" : "M07",
+  "size" : "0.197"
+}
+, {
+  "cross_streets" : "At Park Avenue",
+  "boro" : "M",
+  "neighborhoodname" : "East Harlem",
+  "address" : "95 East 111th Street",
+  "garden_name" : "Friendly Garden",
+  "council_district" : "9",
+  "propid" : "NA",
+  "jurisdiction" : "HPD",
+  "community_board" : "M11",
+  "size" : "0.076"
+}
+, {
+  "boro" : "M",
+  "neighborhoodname" : "Hamilton Heights",
+  "address" : "499 West 150th Street",
+  "garden_name" : "Friendship Garden (Lucille McClarey Garden)",
+  "council_district" : "7",
+  "propid" : "NA",
+  "jurisdiction" : "NYRP",
+  "community_board" : "M09",
+  "size" : "0.038"
+}
+, {
+  "boro" : "M",
+  "address" : "Fredrick Douglas Blvd. and W. 152ns St",
+  "garden_name" : "Garden",
+  "propid" : "M377",
+  "jurisdiction" : "DPR",
+  "community_board" : "M10",
+  "size" : "0.046"
+}
+, {
+  "cross_streets" : "Active",
+  "boro" : "B",
+  "neighborhoodname" : "Bed-Stuy",
+  "address" : "Corner of Broadway & Putnam Ave.",
+  "garden_name" : "Garden Beautiful",
+  "council_district" : "41",
+  "propid" : "B420",
+  "jurisdiction" : "DPR",
+  "community_board" : "B03",
+  "size" : "0.194"
+}
+, {
+  "cross_streets" : "Patchen Avenue & Malcolm X Blvd.",
+  "boro" : "B",
+  "neighborhoodname" : "Bed-Stuy",
+  "address" : "978 Greene Avenue",
+  "garden_name" : "Garden of Angels",
+  "council_district" : "41",
+  "propid" : "NA",
+  "jurisdiction" : "TPL",
+  "community_board" : "B03",
+  "size" : "0.057"
+}
+, {
+  "cross_streets" : "Active",
+  "boro" : "X",
+  "address" : "1686 Weeks Avenue",
+  "garden_name" : "Garden of Eden - Bronx",
+  "council_district" : "14",
+  "propid" : "X297",
+  "jurisdiction" : "DPR",
+  "community_board" : "X04",
+  "size" : "0.210"
+}
+, {
+  "cross_streets" : "Active",
+  "boro" : "X",
+  "neighborhoodname" : "Crotona",
+  "address" : "2156-2160 Prospect Avenue",
+  "garden_name" : "Garden of Happiness",
+  "council_district" : "15",
+  "propid" : "X293",
+  "jurisdiction" : "DPR",
+  "community_board" : "X06",
+  "size" : "0.330"
+}
+, {
+  "cross_streets" : "Throop & Marcus Garvey Blvd",
+  "boro" : "B",
+  "address" : "392 Hancock Street",
+  "garden_name" : "Garden of Hope",
+  "council_district" : "36",
+  "propid" : "NA",
+  "jurisdiction" : "NYRP",
+  "community_board" : "B03",
+  "size" : "0.046"
+}
+, {
+  "cross_streets" : "Active",
+  "boro" : "X",
+  "address" : "1685 Weeks Avenue",
+  "garden_name" : "Garden of Life",
+  "council_district" : "14",
+  "propid" : "X298",
+  "jurisdiction" : "DPR",
+  "community_board" : "X04",
+  "size" : "0.180"
+}
+, {
+  "cross_streets" : "Active",
+  "boro" : "M",
+  "neighborhoodname" : "Upper West Side",
+  "address" : "302 West 116th Street",
+  "garden_name" : "Garden of Love",
+  "council_district" : "9",
+  "propid" : "M341",
+  "jurisdiction" : "DPR",
+  "community_board" : "M10",
+  "size" : "0.087"
+}
+, {
+  "cross_streets" : "Active",
+  "boro" : "B",
+  "neighborhoodname" : "Park Slope",
+  "address" : "634-36, 640 Union Street",
+  "garden_name" : "Garden of Union (Annie's Garden)",
+  "council_district" : "38",
+  "propid" : "B399",
+  "jurisdiction" : "DPR",
+  "community_board" : "B06",
+  "size" : "0.203"
+}
+, {
+  "cross_streets" : "At Prospect Avenue",
+  "boro" : "X",
+  "neighborhoodname" : "Crotona",
+  "address" : "E 182nd Street",
+  "garden_name" : "Garden Of Youth",
+  "council_district" : "15",
+  "propid" : "NA",
+  "jurisdiction" : "PRI",
+  "community_board" : "X06",
+  "size" : "NA"
+}
+, {
+  "cross_streets" : "Active",
+  "boro" : "M",
+  "address" : "West 91st and Riverside Drive",
+  "garden_name" : "Garden People",
+  "propid" : "M071A",
+  "jurisdiction" : "DPR",
+  "community_board" : "M09",
+  "size" : "NA"
+}
+, {
+  "cross_streets" : "Active",
+  "boro" : "M",
+  "neighborhoodname" : "East Village",
+  "address" : "270-272 East 4th Street",
+  "garden_name" : "Generation X Cultural Garden",
+  "council_district" : "2",
+  "propid" : "M329",
+  "jurisdiction" : "DPR",
+  "community_board" : "M03",
+  "size" : "0.110"
+}
+, {
+  "boro" : "B",
+  "neighborhoodname" : "East New York",
+  "address" : "298-304 Snediker Avenue",
+  "garden_name" : "Genesis Homes Garden",
+  "council_district" : "42",
+  "propid" : "NA",
+  "jurisdiction" : "DPR",
+  "community_board" : "B05",
+  "size" : "0.054"
+}
+, {
+  "cross_streets" : "Active",
+  "boro" : "Q",
+  "neighborhoodname" : "Jamaica",
+  "address" : "148th Street",
+  "garden_name" : "George Eagle Carr Community Garden",
+  "council_district" : "28",
+  "propid" : "Q488",
+  "jurisdiction" : "DPR",
+  "community_board" : "Q12",
+  "size" : "0.121"
+}
+, {
+  "cross_streets" : "Active",
+  "boro" : "Q",
+  "address" : "109-13 156th Street",
+  "garden_name" : "George Washington Carver Botanical Garden",
+  "council_district" : "27",
+  "propid" : "Q489",
+  "jurisdiction" : "DPR",
+  "community_board" : "Q12",
+  "size" : "0.057"
+}
+, {
+  "cross_streets" : "W. 190th St & Ft. George-Amstersam Avenue",
+  "boro" : "M",
+  "neighborhoodname" : "Washington Heights",
+  "address" : "549 Audubon Avenue",
+  "garden_name" : "George Washington High School",
+  "council_district" : "10",
+  "propid" : "NA",
+  "jurisdiction" : "DOE",
+  "community_board" : "M12",
+  "size" : "NA"
+}
+, {
+  "cross_streets" : "Jay & Johnson Street",
+  "boro" : "B",
+  "neighborhoodname" : "Downtown Brooklyn",
+  "address" : "105 Johnson Street (Tech), Brooklyn, NY 11201",
+  "garden_name" : "George Westinghouse HS - Marvin's Garden",
+  "council_district" : "0",
+  "propid" : "NA",
+  "jurisdiction" : "DOE",
+  "community_board" : "B02",
+  "size" : "NA"
+}
+, {
+  "cross_streets" : "Active",
+  "boro" : "B",
+  "neighborhoodname" : "East New York",
+  "address" : "328 New Lots Avenue",
+  "garden_name" : "Georgia Avenue Community Garden",
+  "council_district" : "42",
+  "propid" : "B415",
+  "jurisdiction" : "DPR",
+  "community_board" : "B05",
+  "size" : "0.036"
+}
+, {
+  "cross_streets" : "Active",
+  "boro" : "B",
+  "neighborhoodname" : "Brownsville",
+  "address" : "144 Newport Street",
+  "garden_name" : "Gethsemane Garden",
+  "council_district" : "42",
+  "propid" : "B436",
+  "jurisdiction" : "DPR",
+  "community_board" : "B16",
+  "size" : "0.046"
+}
+, {
+  "cross_streets" : "Active",
+  "boro" : "B",
+  "neighborhoodname" : "East New York",
+  "address" : "555 Glenmore Avenue",
+  "garden_name" : "Glenmore Hendrix Block Assoc.",
+  "council_district" : "37",
+  "propid" : "B468",
+  "jurisdiction" : "DPR",
+  "community_board" : "B05",
+  "size" : "0.032"
+}
+, {
+  "cross_streets" : "Intersection of Castle Hill & Glover Street",
+  "boro" : "X",
+  "address" : "1642 Glover Street, Bronx NY 10462",
+  "garden_name" : "Glover Street Community Garden",
+  "propid" : "NA",
+  "jurisdiction" : "NYRP",
+  "community_board" : "X09",
+  "size" : "NA"
+}
+, {
+  "cross_streets" : "Active",
+  "boro" : "B",
+  "neighborhoodname" : "East New York",
+  "address" : "555-557 Shepherd Avenue",
+  "garden_name" : "Good Shepherd's Community Group",
+  "council_district" : "42",
+  "propid" : "B469",
+  "jurisdiction" : "DPR",
+  "community_board" : "B05",
+  "size" : "0.114"
+}
+, {
+  "boro" : "B",
+  "address" : "46 - 62 Goodwin St.",
+  "garden_name" : "Goodwin Gardens",
+  "propid" : "B428",
+  "jurisdiction" : "DPR",
+  "community_board" : "B04",
+  "size" : "0.348"
+}
+, {
+  "cross_streets" : "Active",
+  "boro" : "B",
+  "neighborhoodname" : "Bushwick",
+  "address" : "28-32 Granite Street",
+  "garden_name" : "Granite Street Block Association",
+  "council_district" : "37",
+  "propid" : "B470",
+  "jurisdiction" : "DPR",
+  "community_board" : "B04",
+  "size" : "0.172"
+}
+, {
+  "cross_streets" : "E. 165th & E. 166th Streets",
+  "boro" : "X",
+  "address" : "1062 Grant Avenue",
+  "garden_name" : "Grant Avenue Garden",
+  "council_district" : "16",
+  "propid" : "NA",
+  "jurisdiction" : "TPL",
+  "community_board" : "X04",
+  "size" : "0.058"
+}
+, {
+  "cross_streets" : "Active",
+  "boro" : "B",
+  "neighborhoodname" : "Greenpoint",
+  "address" : "229 North 12th Street",
+  "garden_name" : "Green Dome",
+  "council_district" : "33",
+  "propid" : "B058A",
+  "jurisdiction" : "DPR",
+  "community_board" : "B01",
+  "size" : "NA"
+}
+, {
+  "cross_streets" : "Active",
+  "boro" : "B",
+  "neighborhoodname" : "East New York",
+  "address" : "947-953 Glenmore Avenue",
+  "garden_name" : "Green Gems",
+  "council_district" : "37",
+  "propid" : "B471",
+  "jurisdiction" : "DPR",
+  "community_board" : "B05",
+  "size" : "0.494"
+}
+, {
+  "cross_streets" : "At President Street",
+  "boro" : "B",
+  "neighborhoodname" : "Park Slope",
+  "address" : "222 5th Avenue",
+  "garden_name" : "Green Space @ President Street",
+  "council_district" : "38",
+  "propid" : "NA",
+  "jurisdiction" : "TPL",
+  "community_board" : "B06",
+  "size" : "0.045"
+}
+, {
+  "cross_streets" : "Active",
+  "boro" : "B",
+  "address" : "490 Greene Avenue",
+  "garden_name" : "Greene Avenue United Neighbors Association",
+  "council_district" : "36",
+  "propid" : "B472",
+  "jurisdiction" : "DPR",
+  "community_board" : "B03",
+  "size" : "0.046"
+}
+, {
+  "cross_streets" : "At DeKalb Avenue",
+  "boro" : "B",
+  "address" : "2 South Portland Avenue",
+  "garden_name" : "Greene Garden",
+  "council_district" : "35",
+  "propid" : "NA",
+  "jurisdiction" : "TPL",
+  "community_board" : "B02",
+  "size" : "0.084"
+}
+, {
+  "cross_streets" : "Active",
+  "boro" : "B",
+  "neighborhoodname" : "East New York",
+  "address" : "444,448 Warwick Avenue",
+  "garden_name" : "Gregory's Garden (P.S. 158 Memorial Garden)",
+  "council_district" : "37",
+  "propid" : "B484",
+  "jurisdiction" : "DPR",
+  "community_board" : "B05",
+  "size" : "0.057"
+}
+, {
+  "boro" : "B",
+  "address" : "774 Halsey St.",
+  "garden_name" : "Halsey Ralph and Howard Garden",
+  "propid" : "NA",
+  "jurisdiction" : "HPD",
+  "community_board" : "B03",
+  "size" : "NA"
+}
+, {
+  "cross_streets" : "Active",
+  "boro" : "B",
+  "address" : "322-324 Hancock Street",
+  "garden_name" : "Hancock T & T Block Association",
+  "council_district" : "36",
+  "propid" : "B473",
+  "jurisdiction" : "DPR",
+  "community_board" : "B03",
+  "size" : "0.081"
+}
+, {
+  "cross_streets" : "Active",
+  "boro" : "B",
+  "neighborhoodname" : "East New York",
+  "address" : "New Lots Avenue",
+  "garden_name" : "Hands & Heart (New Lots Urban Farm)",
+  "propid" : "B527",
+  "jurisdiction" : "DPR",
+  "community_board" : "B05",
+  "size" : "NA"
+}
+, {
+  "cross_streets" : "Active",
+  "boro" : "X",
+  "address" : "155 Harding Park",
+  "garden_name" : "Harding Park Beautification Project",
+  "council_district" : "18",
+  "propid" : "X118A",
+  "jurisdiction" : "DPR",
+  "community_board" : "X09",
+  "size" : "1.160"
+}
+, {
+  "cross_streets" : "Active",
+  "boro" : "M",
+  "address" : "4-8 E 129th Street",
+  "garden_name" : "Harlem Rose Garden",
+  "council_district" : "9",
+  "propid" : "M363",
+  "jurisdiction" : "DPR",
+  "community_board" : "M11",
+  "size" : "0.136"
+}
+, {
+  "cross_streets" : "Active",
+  "boro" : "M",
+  "neighborhoodname" : "Harlem",
+  "address" : "116 - 122 West 134th Street",
+  "garden_name" : "Harlem Success Garden - P.S. 175/I.S. 275",
+  "council_district" : "9",
+  "propid" : "M297",
+  "jurisdiction" : "DPR",
+  "community_board" : "M10",
+  "size" : "0.250"
+}
+, {
+  "boro" : "M",
+  "neighborhoodname" : "Harlem",
+  "address" : "52 W 129th Street",
+  "garden_name" : "Harlem Village Green",
+  "council_district" : "21",
+  "propid" : "NA",
+  "jurisdiction" : "PRI",
+  "community_board" : "M10",
+  "size" : "0.046"
+}
+, {
+  "cross_streets" : "Tompkins & Throop",
+  "boro" : "B",
+  "neighborhoodname" : "Bed-Stuy",
+  "address" : "169-171 Hart Street",
+  "garden_name" : "Hart Street Community Garden",
+  "council_district" : "36",
+  "propid" : "NA",
+  "jurisdiction" : "TPL",
+  "community_board" : "B03",
+  "size" : "0.092"
+}
+, {
+  "cross_streets" : "Active",
+  "boro" : "B",
+  "neighborhoodname" : "Bed-Stuy",
+  "address" : "104-108 Hart Street",
+  "garden_name" : "Hart to Hart",
+  "council_district" : "36",
+  "propid" : "B474",
+  "jurisdiction" : "DPR",
+  "community_board" : "B03",
+  "size" : "0.332"
+}
+, {
+  "cross_streets" : "Active",
+  "boro" : "B",
+  "neighborhoodname" : "Bed-Stuy",
+  "address" : "654 Lafayette Avenue/363-365 Clifton Place",
+  "garden_name" : "Hattie Carthan Community Garden",
+  "council_district" : "36",
+  "propid" : "B400",
+  "jurisdiction" : "DPR",
+  "community_board" : "B03",
+  "size" : "0.117"
+}
+, {
+  "boro" : "B",
+  "neighborhoodname" : "Williamsburg",
+  "address" : "134-136 Scholes Street",
+  "garden_name" : "Heckscher Foundation For Children's Garden",
+  "council_district" : "34",
+  "propid" : "NA",
+  "jurisdiction" : "NYRP",
+  "community_board" : "B01",
+  "size" : "0.057"
+}
+, {
+  "cross_streets" : "Blake & Dumont Avenues",
+  "boro" : "B",
+  "neighborhoodname" : "East New York",
+  "address" : "532 Hendrix Street",
+  "garden_name" : "Hendrix Street Community Garden (Block Association of Hendrix Street)",
+  "council_district" : "42",
+  "propid" : "NA",
+  "jurisdiction" : "NYRP",
+  "community_board" : "B05",
+  "size" : "0.023"
+}
+, {
+  "cross_streets" : "3rd & Lexington Avenues",
+  "boro" : "M",
+  "neighborhoodname" : "East Harlem",
+  "address" : "176 E 111th Street",
+  "garden_name" : "Herb Garden (111th St. Betterment Association)",
+  "council_district" : "8",
+  "propid" : "NA",
+  "jurisdiction" : "NYRP",
+  "community_board" : "M11",
+  "size" : "0.080"
+}
+, {
+  "cross_streets" : "Active",
+  "boro" : "B",
+  "neighborhoodname" : "East New York",
+  "address" : "582 - 590 Glenmore Avenue",
+  "garden_name" : "Herbal Garden of East New York",
+  "council_district" : "37",
+  "propid" : "B475",
+  "jurisdiction" : "DPR",
+  "community_board" : "B05",
+  "size" : "0.230"
+}
+, {
+  "cross_streets" : "9th & 10th Avenues",
+  "boro" : "M",
+  "neighborhoodname" : "Midtown",
+  "address" : "444 W 56th Street NY NY 10019",
+  "garden_name" : "High School For Environmental Studies",
+  "council_district" : "0",
+  "propid" : "NA",
+  "jurisdiction" : "DOE",
+  "community_board" : "M04",
+  "size" : "NA"
+}
+, {
+  "cross_streets" : "Active",
+  "boro" : "B",
+  "neighborhoodname" : "Highland Park",
+  "address" : "Jamaica Avenue",
+  "garden_name" : "Highland Park Children's Garden",
+  "council_district" : "37",
+  "propid" : "B047A",
+  "jurisdiction" : "DPR",
+  "community_board" : "B05",
+  "size" : "0.410"
+}
+, {
+  "cross_streets" : "Gates & Greene Avenue",
+  "boro" : "B",
+  "neighborhoodname" : "Clinton Hill",
+  "address" : "460 Washington Avenue",
+  "garden_name" : "Hollenback Community Garden",
+  "council_district" : "35",
+  "propid" : "NA",
+  "jurisdiction" : "TPL",
+  "community_board" : "B02",
+  "size" : "0.158"
+}
+, {
+  "cross_streets" : "1st Avenue & E 117th St",
+  "boro" : "M",
+  "neighborhoodname" : "East Harlem",
+  "address" : "415-421 East 117th Street",
+  "garden_name" : "Home Depot Community Garden  (St. Mark's Monastery 1)",
+  "council_district" : "8",
+  "propid" : "NA",
+  "jurisdiction" : "NYRP",
+  "community_board" : "M11",
+  "size" : "0.163"
+}
+, {
+  "cross_streets" : "Active",
+  "boro" : "M",
+  "neighborhoodname" : "East Village",
+  "address" : "193 East 2nd Street",
+  "garden_name" : "Hope Garden",
+  "council_district" : "1",
+  "propid" : "M371",
+  "jurisdiction" : "DPR",
+  "community_board" : "M03",
+  "size" : "0.046"
+}
+, {
+  "cross_streets" : "142nd St & Hamilton Pl & Amsterdam Avenue",
+  "boro" : "M",
+  "neighborhoodname" : "Hamilton Heights",
+  "address" : "1656 Amsterdam Avenue",
+  "garden_name" : "Hope Steven Garden",
+  "council_district" : "7",
+  "propid" : "NA",
+  "jurisdiction" : "TPL",
+  "community_board" : "M09",
+  "size" : "0.062"
+}
+, {
+  "cross_streets" : "Active",
+  "boro" : "X",
+  "address" : "851 Hornaday Avenue",
+  "garden_name" : "Hornaday Community Garden (Volky Flower Garden)",
+  "council_district" : "15",
+  "propid" : "X346",
+  "jurisdiction" : "DPR",
+  "community_board" : "X06",
+  "size" : "0.115"
+}
+, {
+  "cross_streets" : "Active",
+  "boro" : "B",
+  "neighborhoodname" : "Brownsville",
+  "address" : "750 Howard Avenue",
+  "garden_name" : "Howard Garden",
+  "council_district" : "41",
+  "propid" : "B528",
+  "jurisdiction" : "DPR",
+  "community_board" : "B16",
+  "size" : "0.219"
+}
+, {
+  "cross_streets" : "Active",
+  "boro" : "B",
+  "neighborhoodname" : "Ocean Hill / Brownsville",
+  "address" : "196 Hull Street",
+  "garden_name" : "Hull Street Community Garden Inc.",
+  "council_district" : "37",
+  "propid" : "B413",
+  "jurisdiction" : "DPR",
+  "community_board" : "B16",
+  "size" : "0.320"
+}
+, {
+  "cross_streets" : "Hopkinson & Rockaway Avenues",
+  "boro" : "B",
+  "neighborhoodname" : "Bed-Stuy",
+  "address" : "145 Hull Street",
+  "garden_name" : "Hull Street Playground",
+  "council_district" : "41",
+  "propid" : "NA",
+  "jurisdiction" : "NYRP",
+  "community_board" : "B16",
+  "size" : "0.057"
+}
+, {
+  "cross_streets" : "Active",
+  "boro" : "M",
+  "neighborhoodname" : "East Harlem",
+  "address" : "335 E 108th Street",
+  "garden_name" : "Humacao Community Garden",
+  "council_district" : "8",
+  "propid" : "M344",
+  "jurisdiction" : "DPR",
+  "community_board" : "M11",
+  "size" : "0.110"
+}
+, {
+  "cross_streets" : "Active",
+  "boro" : "B",
+  "neighborhoodname" : "Red Hook",
+  "address" : "207-209 Columbia Street",
+  "garden_name" : "Human Compass Community  Garden Inc.",
+  "council_district" : "39",
+  "propid" : "B408",
+  "jurisdiction" : "DPR",
+  "community_board" : "B06",
+  "size" : "0.073"
+}
+, {
+  "cross_streets" : "Amsterdam Avenue & Audubon Avenue (Fort George)",
+  "boro" : "M",
+  "neighborhoodname" : "Washington Heights",
+  "address" : "511 & 516 West 182nd Street",
+  "garden_name" : "I.S. 143 - Penny Harvest Garden",
+  "council_district" : "10",
+  "propid" : "NA",
+  "jurisdiction" : "DOE",
+  "community_board" : "M12",
+  "size" : "0.080"
+}
+, {
+  "boro" : "X",
+  "address" : "1919 Prospect Avenue",
+  "garden_name" : "I.S. 193X",
+  "council_district" : "15",
+  "propid" : "NA",
+  "jurisdiction" : "DOE",
+  "community_board" : "X06",
+  "size" : "0.677"
+}
+, {
+  "boro" : "M",
+  "neighborhoodname" : "Washington Heights",
+  "address" : "Harlem River Drive/Dyckman Street",
+  "garden_name" : "I.S. 218 - Swindler Cove Garden",
+  "council_district" : "7",
+  "propid" : "NA",
+  "jurisdiction" : "DOE",
+  "community_board" : "M12",
+  "size" : "NA"
+}
+, {
+  "cross_streets" : "Same",
+  "boro" : "B",
+  "address" : "6500 16th Avenue & 65th Street",
+  "garden_name" : "I.S. 227 - Shallow's School Yard Santuaries",
+  "council_district" : "0",
+  "propid" : "NA",
+  "jurisdiction" : "DOE",
+  "community_board" : "B11",
+  "size" : "NA"
+}
+, {
+  "cross_streets" : "Linden Blvd.",
+  "boro" : "B",
+  "address" : "800 Van Siclen Avenue, Brooklyn, NY 11207",
+  "garden_name" : "I.S. 311 - The Essence School",
+  "council_district" : "42",
+  "propid" : "NA",
+  "jurisdiction" : "DOE",
+  "community_board" : "B05",
+  "size" : "NA"
+}
+, {
+  "cross_streets" : "East 7th & Ditmas",
+  "boro" : "B",
+  "neighborhoodname" : "Kensington",
+  "address" : "700 Cortelyou Road",
+  "garden_name" : "I.S. 62 - The Greening of Ditmas",
+  "council_district" : "39",
+  "propid" : "NA",
+  "jurisdiction" : "DOE",
+  "community_board" : "B12",
+  "size" : "NA"
+}
+, {
+  "cross_streets" : "Marcy Avenue & Harrision Street",
+  "boro" : "B",
+  "neighborhoodname" : "Williamsburg",
+  "address" : "215 Heyward Street",
+  "garden_name" : "I.S. 71",
+  "council_district" : "33",
+  "propid" : "NA",
+  "jurisdiction" : "TPL/DOE",
+  "community_board" : "B01",
+  "size" : "NA"
+}
+, {
+  "cross_streets" : "Edgecome Avenue - 167th/169th St",
+  "boro" : "M",
+  "neighborhoodname" : "Washington Heights",
+  "address" : "21 Jumel Place, NY NY 10032",
+  "garden_name" : "I.S. 90 Miracle Sisters Garden",
+  "council_district" : "0",
+  "propid" : "NA",
+  "jurisdiction" : "DOE",
+  "community_board" : "M12",
+  "size" : "NA"
+}
+, {
+  "boro" : "B",
+  "address" : "99 Avenue P",
+  "garden_name" : "I.S. 96",
+  "council_district" : "44",
+  "propid" : "NA",
+  "jurisdiction" : "DOE",
+  "community_board" : "B11",
+  "size" : "NA"
+}
+, {
+  "boro" : "B",
+  "neighborhoodname" : "Crown Heights",
+  "address" : "87-91 Schenectady Avenue",
+  "garden_name" : "Imani II Garden (Schenectady Avenue Community Garden)",
+  "council_district" : "41",
+  "propid" : "NA",
+  "jurisdiction" : "HPD",
+  "community_board" : "B08",
+  "size" : "0.092"
+}
+, {
+  "cross_streets" : "Active",
+  "boro" : "X",
+  "address" : "625 Wales Avenue",
+  "garden_name" : "Isla Verde Garden",
+  "council_district" : "17",
+  "propid" : "X314",
+  "jurisdiction" : "DPR",
+  "community_board" : "X01",
+  "size" : "0.160"
+}
+, {
+  "boro" : "X",
+  "address" : "890 Cauldwell Avenue",
+  "garden_name" : "J.H.S. 120",
+  "council_district" : "16",
+  "propid" : "NA",
+  "jurisdiction" : "DOE",
+  "community_board" : "X03",
+  "size" : "NA"
+}
+, {
+  "cross_streets" : "N. Portland/Flushing",
+  "boro" : "B",
+  "address" : "101 Park Avenue",
+  "garden_name" : "J.H.S. 265",
+  "council_district" : "35",
+  "propid" : "NA",
+  "jurisdiction" : "DOE",
+  "community_board" : "B02",
+  "size" : "2.712"
+}
+, {
+  "cross_streets" : "Active",
+  "boro" : "M",
+  "address" : "103 East 122nd Street",
+  "garden_name" : "Jackie Robinson Community Garden",
+  "council_district" : "8",
+  "propid" : "M364",
+  "jurisdiction" : "DPR/HPD",
+  "community_board" : "M11",
+  "size" : "0.058"
+}
+, {
+  "cross_streets" : "Active",
+  "boro" : "X",
+  "neighborhoodname" : "Morrisania",
+  "address" : "722 & 736 Home Street",
+  "garden_name" : "Jackson Forest/Morrisania Concerned Citizens",
+  "council_district" : "16",
+  "propid" : "X319",
+  "jurisdiction" : "DPR",
+  "community_board" : "X03",
+  "size" : "0.180"
+}
+, {
+  "cross_streets" : "165th Street & Cauldwell Avenue",
+  "boro" : "X",
+  "address" : "1022-1024 Boston Road (north of E 165th Street)",
+  "garden_name" : "Jacqueline Denise Davis Garden",
+  "council_district" : "16",
+  "propid" : "NA",
+  "jurisdiction" : "TPL",
+  "community_board" : "X03",
+  "size" : "0.223"
+}
+, {
+  "cross_streets" : "163rd & E. 161st Street",
+  "boro" : "X",
+  "address" : "900 Tinton Avenue",
+  "garden_name" : "Jane Adams Vocational H.S. - 4 Seasons Garden",
+  "council_district" : "0",
+  "propid" : "NA",
+  "jurisdiction" : "DOE",
+  "community_board" : "X03",
+  "size" : "NA"
+}
+, {
+  "cross_streets" : "Franklin & Classon",
+  "boro" : "B",
+  "address" : "327-329 Greene Avenue",
+  "garden_name" : "Jane Bailey Memorial Garden",
+  "council_district" : "36",
+  "propid" : "NA",
+  "jurisdiction" : "NYRP",
+  "community_board" : "B03",
+  "size" : "0.094"
+}
+, {
+  "cross_streets" : "Active",
+  "boro" : "X",
+  "address" : "1507 Washington Avenue",
+  "garden_name" : "Jardin de la Familia",
+  "council_district" : "15",
+  "propid" : "X320",
+  "jurisdiction" : "DPR",
+  "community_board" : "X03",
+  "size" : "0.320"
+}
+, {
+  "cross_streets" : "East 159 & East 160th",
+  "boro" : "X",
+  "neighborhoodname" : "Melrose",
+  "address" : "160 Elton Avenue",
+  "garden_name" : "Jardin la Roca/Rock Garden",
+  "council_district" : "17",
+  "propid" : "NA",
+  "jurisdiction" : "DPR",
+  "community_board" : "X03",
+  "size" : "NA"
+}
+, {
+  "cross_streets" : "Active",
+  "boro" : "B",
+  "address" : "447 Jerome Street",
+  "garden_name" : "Jerome Gardens",
+  "council_district" : "24",
+  "propid" : "B477",
+  "jurisdiction" : "DPR",
+  "community_board" : "B05",
+  "size" : "0.036"
+}
+, {
+  "cross_streets" : "Active",
+  "boro" : "B",
+  "neighborhoodname" : "East New York",
+  "address" : "349 Schenck Avenue",
+  "garden_name" : "Jerry and the Senior Gents of E.N.Y.",
+  "council_district" : "37",
+  "propid" : "B478",
+  "jurisdiction" : "DPR",
+  "community_board" : "B05",
+  "size" : "0.057"
+}
+, {
+  "cross_streets" : "Active",
+  "boro" : "B",
+  "neighborhoodname" : "Brownsville",
+  "address" : "155 Amboy Street",
+  "garden_name" : "Jes Good Rewards Children's Garden",
+  "council_district" : "1",
+  "propid" : "B511",
+  "jurisdiction" : "DPR",
+  "community_board" : "B16",
+  "size" : "0.213"
+}
+, {
+  "cross_streets" : "Tibbet Avenue/ 230th Street",
+  "boro" : "X",
+  "neighborhoodname" : "Marble Hill",
+  "address" : "JFK High School 99 Terrace View Avenue",
+  "garden_name" : "JFK High School - Enchanted Garden",
+  "council_district" : "10",
+  "propid" : "NA",
+  "jurisdiction" : "DOE",
+  "community_board" : "X08",
+  "size" : "NA"
+}
+, {
+  "boro" : "X",
+  "address" : "E/S Eastchester Road & N/O E 222nd Street",
+  "garden_name" : "Jim Mackey Eastchester Road Community Garden",
+  "council_district" : "15",
+  "propid" : "NA",
+  "jurisdiction" : "NYRP",
+  "community_board" : "X12",
+  "size" : "0.046"
+}
+, {
+  "cross_streets" : "Active",
+  "boro" : "R",
+  "address" : "1161 Castleton Avenue",
+  "garden_name" : "Joe Holzka Community Garden",
+  "council_district" : "49",
+  "propid" : "R146",
+  "jurisdiction" : "DPR",
+  "community_board" : "R01",
+  "size" : "0.429"
+}
+, {
+  "cross_streets" : "Reeves Avenue & Gravett Rd",
+  "boro" : "Q",
+  "address" : "63-25 Main Street  Flushing, NY 11367",
+  "garden_name" : "John Bowne High School",
+  "council_district" : "0",
+  "propid" : "NA",
+  "jurisdiction" : "DOE",
+  "community_board" : "Q08",
+  "size" : "2.296"
+}
+, {
+  "cross_streets" : "corner of 7th & 5th Street",
+  "boro" : "B",
+  "neighborhoodname" : "Park Slope",
+  "address" : "237 7th Avenue.  Brooklyn, NY 11215",
+  "garden_name" : "John Jay High School",
+  "council_district" : "38",
+  "propid" : "NA",
+  "jurisdiction" : "DOE",
+  "community_board" : "B06",
+  "size" : "0.689"
+}
+, {
+  "boro" : "B",
+  "address" : "10 Stuyvesant Avenue",
+  "garden_name" : "John the Baptist Community Center Inc.",
+  "council_district" : "34",
+  "propid" : "NA",
+  "jurisdiction" : "TPL",
+  "community_board" : "B03",
+  "size" : "0.076"
+}
+, {
+  "cross_streets" : "Active",
+  "boro" : "B",
+  "neighborhoodname" : "East New York",
+  "address" : "Belmont Ave & Van Siclen Ave",
+  "garden_name" : "Jordan Magic Garden - DPR",
+  "council_district" : "37",
+  "propid" : "B509",
+  "jurisdiction" : "DPR",
+  "community_board" : "B05",
+  "size" : "0.115"
+}
+, {
+  "cross_streets" : "Home & E.167th Street",
+  "boro" : "X",
+  "address" : "1175 Hoe Avenue",
+  "garden_name" : "Jose Gonzalez House Community Garden",
+  "council_district" : "0",
+  "propid" : "NA",
+  "jurisdiction" : "PRI",
+  "community_board" : "X03",
+  "size" : "NA"
+}
+, {
+  "cross_streets" : "Active",
+  "boro" : "M",
+  "address" : "219 W. 122nd Street",
+  "garden_name" : "Joseph Daniel Wilson Memorial Gardens",
+  "council_district" : "9",
+  "propid" : "M351",
+  "jurisdiction" : "DPR",
+  "community_board" : "M10",
+  "size" : "0.060"
+}
+, {
+  "cross_streets" : "Active",
+  "boro" : "M",
+  "neighborhoodname" : "East Village",
+  "address" : "212 E. 3rd Street",
+  "garden_name" : "Kenkeleba House Garden",
+  "council_district" : "2",
+  "propid" : "M345",
+  "jurisdiction" : "DPR",
+  "community_board" : "M03",
+  "size" : "0.310"
+}
+, {
+  "cross_streets" : "Active",
+  "boro" : "B",
+  "neighborhoodname" : "Bed-Stuy",
+  "address" : "385-389 Kosciusko Street",
+  "garden_name" : "Kosciusko St. Comm. Pk./Learning Center",
+  "council_district" : "36",
+  "propid" : "B398",
+  "jurisdiction" : "DPR",
+  "community_board" : "B03",
+  "size" : "0.185"
+}
+, {
+  "cross_streets" : "Active",
+  "boro" : "X",
+  "address" : "2085-2093 Vyse Avenue.",
+  "garden_name" : "Krystal Community Garden",
+  "council_district" : "15",
+  "propid" : "X266A",
+  "jurisdiction" : "DPR",
+  "community_board" : "X06",
+  "size" : "0.614"
+}
+, {
+  "cross_streets" : "2nd & 3rd Avenue",
+  "boro" : "M",
+  "neighborhoodname" : "East Harlem",
+  "address" : "223 E. 119th Street",
+  "garden_name" : "La Casita",
+  "council_district" : "8",
+  "propid" : "NA",
+  "jurisdiction" : "NYRP",
+  "community_board" : "M11",
+  "size" : "0.057"
+}
+, {
+  "cross_streets" : "Active",
+  "boro" : "M",
+  "neighborhoodname" : "East Harlem",
+  "address" : "71 East 115th Street",
+  "garden_name" : "La Cuevita Community Garden",
+  "council_district" : "8",
+  "propid" : "M383",
+  "jurisdiction" : "DPR",
+  "community_board" : "M11",
+  "size" : "0.057"
+}
+, {
+  "cross_streets" : "Active",
+  "boro" : "X",
+  "address" : "138th & Grand Concourse",
+  "garden_name" : "La Finca Del Sur/ South Bronx Farmers",
+  "propid" : "X145",
+  "jurisdiction" : "DPR/MTA/DOT",
+  "community_board" : "X01",
+  "size" : "0.255"
+}
+, {
+  "cross_streets" : "Knickerbocker Avenue  & Vandervoort Pl.",
+  "boro" : "B",
+  "address" : "1036 Flushing Avenue",
+  "garden_name" : "La Finea",
+  "council_district" : "34",
+  "propid" : "NA",
+  "jurisdiction" : "TPL",
+  "community_board" : "B04",
+  "size" : "NA"
+}
+, {
+  "cross_streets" : "Active",
+  "boro" : "X",
+  "neighborhoodname" : "Highbridge",
+  "address" : "96-98 W. 163rd Street",
+  "garden_name" : "La Isla",
+  "council_district" : "16",
+  "propid" : "X327",
+  "jurisdiction" : "DPR",
+  "community_board" : "X04",
+  "size" : "0.110"
+}
+, {
+  "cross_streets" : "Active",
+  "boro" : "M",
+  "neighborhoodname" : "Upper West Side",
+  "address" : "76 W. 105th Street",
+  "garden_name" : "La Perla Garden",
+  "council_district" : "8",
+  "propid" : "M373",
+  "jurisdiction" : "DPR",
+  "community_board" : "M07",
+  "size" : "0.036"
+}
+, {
+  "cross_streets" : "Active",
+  "boro" : "M",
+  "neighborhoodname" : "East Village",
+  "address" : "632-650 E. 9th Street",
+  "garden_name" : "La Plaza Cultural-Armando Perez",
+  "council_district" : "2",
+  "propid" : "M325",
+  "jurisdiction" : "DPR",
+  "community_board" : "M03",
+  "size" : "0.640"
+}
+, {
+  "cross_streets" : "Bleecker & Houston Streets.",
+  "boro" : "M",
+  "neighborhoodname" : "Greenwich Village",
+  "address" : "511 LaGuardia Place",
+  "garden_name" : "LaGuardia Corner Community Garden",
+  "council_district" : "2",
+  "propid" : "NA",
+  "jurisdiction" : "DOT",
+  "community_board" : "M02",
+  "size" : "0.080"
+}
+, {
+  "cross_streets" : "Active",
+  "boro" : "X",
+  "neighborhoodname" : "Highbridge",
+  "address" : "1126 - 1140 Woodycrest Avenue",
+  "garden_name" : "Las Casitas Community Garden",
+  "council_district" : "16",
+  "propid" : "X328",
+  "jurisdiction" : "DPR",
+  "community_board" : "X04",
+  "size" : "0.190"
+}
+, {
+  "cross_streets" : "Active",
+  "boro" : "X",
+  "address" : "427 East 157th Street",
+  "garden_name" : "Latinos Unidos",
+  "council_district" : "17",
+  "propid" : "X337",
+  "jurisdiction" : "DPR",
+  "community_board" : "X01",
+  "size" : "0.116"
+}
+, {
+  "cross_streets" : "W. Burnside & W. Tremont",
+  "boro" : "X",
+  "address" : "1885 University Avenue (behind Calvary Methodist Church)",
+  "garden_name" : "Learning Tree",
+  "council_district" : "0",
+  "propid" : "NA",
+  "jurisdiction" : "PRI",
+  "community_board" : "X05",
+  "size" : "NA"
+}
+, {
+  "cross_streets" : "Active",
+  "boro" : "B",
+  "address" : "162 Lefferts Place",
+  "garden_name" : "Lefferts Place Block Association",
+  "council_district" : "19",
+  "propid" : "B479",
+  "jurisdiction" : "DPR",
+  "community_board" : "B03",
+  "size" : "0.068"
+}
+, {
+  "cross_streets" : "Active",
+  "boro" : "Q",
+  "neighborhoodname" : "Long Island City",
+  "address" : "S/S 49th Avenue./W/O Vernon Boulevard.",
+  "garden_name" : "LIC Comm. Gardens, Inc.",
+  "council_district" : "26",
+  "propid" : "Q045A",
+  "jurisdiction" : "DPR",
+  "community_board" : "Q02",
+  "size" : "0.172"
+}
+, {
+  "cross_streets" : "1st & 2nd Avenue",
+  "boro" : "M",
+  "neighborhoodname" : "Upper East Side",
+  "address" : "320 96th Street NY NY 10128",
+  "garden_name" : "Life Sciences High School",
+  "council_district" : "0",
+  "propid" : "NA",
+  "jurisdiction" : "DOE",
+  "community_board" : "M08",
+  "size" : "NA"
+}
+, {
+  "cross_streets" : "Active",
+  "boro" : "M",
+  "neighborhoodname" : "Harlem",
+  "address" : "2015 Lexington Avenue",
+  "garden_name" : "Life Spire (CRMD, Inc.)",
+  "council_district" : "8",
+  "propid" : "M346",
+  "jurisdiction" : "DPR",
+  "community_board" : "M11",
+  "size" : "0.020"
+}
+, {
+  "cross_streets" : "Active",
+  "boro" : "B",
+  "address" : "316 Lincoln Road",
+  "garden_name" : "Lincoln Road Garden",
+  "council_district" : "40",
+  "propid" : "B480",
+  "jurisdiction" : "DPR",
+  "community_board" : "B09",
+  "size" : "0.065"
+}
+, {
+  "cross_streets" : "between 5th & 6th Street",
+  "boro" : "B",
+  "neighborhoodname" : "Park Slope",
+  "address" : "20 Lincoln Place",
+  "garden_name" : "Lincoln-Berkeley Comm. Garden",
+  "council_district" : "33",
+  "propid" : "NA",
+  "jurisdiction" : "TPL",
+  "community_board" : "B06",
+  "size" : "0.064"
+}
+, {
+  "cross_streets" : "At traingle 115th Avenue",
+  "boro" : "Q",
+  "address" : "178th Street & Linden Boulevard",
+  "garden_name" : "Linden Boulevard Community Garden",
+  "council_district" : "27",
+  "propid" : "NA",
+  "jurisdiction" : "NYRP",
+  "community_board" : "Q12",
+  "size" : "0.013"
+}
+, {
+  "cross_streets" : "Broadway & Bushwick Avenues",
+  "boro" : "B",
+  "neighborhoodname" : "Bushwick",
+  "address" : "113 Linden Street",
+  "garden_name" : "Linden-Bushwick Garden",
+  "council_district" : "34",
+  "propid" : "NA",
+  "jurisdiction" : "PRI",
+  "community_board" : "B04",
+  "size" : "0.244"
+}
+, {
+  "cross_streets" : "111 Street",
+  "boro" : "M",
+  "neighborhoodname" : "East Harlem",
+  "address" : "1675 Madison Avenue",
+  "garden_name" : "Little Blue House",
+  "council_district" : "9",
+  "propid" : "NA",
+  "jurisdiction" : "HPD",
+  "community_board" : "M11",
+  "size" : "0.024"
+}
+, {
+  "cross_streets" : "Active",
+  "boro" : "M",
+  "neighborhoodname" : "Lower East Side",
+  "address" : "110 E Houston Street",
+  "garden_name" : "Liz Christy Garden",
+  "council_district" : "1",
+  "propid" : "M326",
+  "jurisdiction" : "DPR",
+  "community_board" : "M03",
+  "size" : "1.090"
+}
+, {
+  "cross_streets" : "29th & 30th Streets",
+  "boro" : "Q",
+  "address" : "47th Avenue.",
+  "garden_name" : "Long Island City Roots Community Garden",
+  "council_district" : "0",
+  "propid" : "NA",
+  "jurisdiction" : "MTA",
+  "community_board" : "Q01",
+  "size" : "NA"
+}
+, {
+  "cross_streets" : "Active",
+  "boro" : "M",
+  "neighborhoodname" : "Lower East Side",
+  "address" : "221 East 3rd Street",
+  "garden_name" : "Los Amigos",
+  "propid" : "M357",
+  "jurisdiction" : "DPR",
+  "community_board" : "M03",
+  "size" : "0.061"
+}
+, {
+  "boro" : "M",
+  "neighborhoodname" : "East Harlem",
+  "address" : "326 Pleasant Avenue",
+  "garden_name" : "Los Amigos Garden",
+  "council_district" : "8",
+  "propid" : "NA",
+  "jurisdiction" : "NYRP",
+  "community_board" : "M11",
+  "size" : "0.045"
+}
+, {
+  "cross_streets" : "Active",
+  "boro" : "M",
+  "neighborhoodname" : "East Village",
+  "address" : "213 E. 7th Street",
+  "garden_name" : "Lower East Side Ecology Center",
+  "council_district" : "2",
+  "propid" : "M361",
+  "jurisdiction" : "DPR",
+  "community_board" : "M03",
+  "size" : "0.150"
+}
+, {
+  "cross_streets" : "Henry & Madison",
+  "boro" : "M",
+  "neighborhoodname" : "Lower East Side",
+  "address" : "25 Rutgers Street",
+  "garden_name" : "Lower East Side People Care",
+  "council_district" : "1",
+  "propid" : "NA",
+  "jurisdiction" : "TPL",
+  "community_board" : "M03",
+  "size" : "0.046"
+}
+, {
+  "cross_streets" : "Forsyth & Eldridge",
+  "boro" : "M",
+  "neighborhoodname" : "Lower East Side",
+  "address" : "100 Hester Street  NY, NY 10002",
+  "garden_name" : "M.S. 131",
+  "council_district" : "0",
+  "propid" : "NA",
+  "jurisdiction" : "DOE",
+  "community_board" : "M03",
+  "size" : "0.018"
+}
+, {
+  "boro" : "X",
+  "address" : "2545 Gunther Avenue",
+  "garden_name" : "M.S. 144",
+  "council_district" : "13",
+  "propid" : "NA",
+  "jurisdiction" : "DOE",
+  "community_board" : "X11",
+  "size" : "0.459"
+}
+, {
+  "cross_streets" : "93rd & 94th streets",
+  "boro" : "Q",
+  "neighborhoodname" : "Ozone Park",
+  "address" : "93-11 101st Street, Ozone Park, NY 11416",
+  "garden_name" : "M.S. 210 - YMCA Beacon Center Garden",
+  "council_district" : "0",
+  "propid" : "NA",
+  "jurisdiction" : "DOE",
+  "community_board" : "Q09",
+  "size" : "NA"
+}
+, {
+  "cross_streets" : "Corner Vanderbuilt & Flatbush Avenue",
+  "boro" : "B",
+  "neighborhoodname" : "Prospect Heights",
+  "address" : "227 Sterling Place",
+  "garden_name" : "M.S. 340",
+  "council_district" : "35",
+  "propid" : "NA",
+  "jurisdiction" : "DOE",
+  "community_board" : "B08",
+  "size" : "NA"
+}
+, {
+  "boro" : "B",
+  "address" : "790 East New York Avenue",
+  "garden_name" : "M.S. 391 Mahalia Jackson",
+  "council_district" : "41",
+  "propid" : "NA",
+  "jurisdiction" : "DOE",
+  "community_board" : "B09",
+  "size" : "NA"
+}
+, {
+  "cross_streets" : "Columbus & Amsterdam Avenue",
+  "boro" : "M",
+  "neighborhoodname" : "East Harlem",
+  "address" : "103 West 108th Street",
+  "garden_name" : "M.S. 54 - Booker T Washington Garden",
+  "council_district" : "0",
+  "propid" : "NA",
+  "jurisdiction" : "DOE",
+  "community_board" : "N/A",
+  "size" : "NA"
+}
+, {
+  "boro" : "B",
+  "address" : "400 Empire Boulevard.",
+  "garden_name" : "M.S. 61 -  Atwell",
+  "council_district" : "40",
+  "propid" : "NA",
+  "jurisdiction" : "DOE",
+  "community_board" : "B09",
+  "size" : "NA"
+}
+, {
+  "cross_streets" : "Active",
+  "boro" : "B",
+  "address" : "894 Madison Street",
+  "garden_name" : "Madison Community GreenThumb Garden",
+  "council_district" : "41",
+  "propid" : "B499",
+  "jurisdiction" : "DPR",
+  "community_board" : "B03",
+  "size" : "0.057"
+}
+, {
+  "cross_streets" : "Active",
+  "boro" : "B",
+  "address" : "1262-1264 Madison Street",
+  "garden_name" : "Madison Square Garden",
+  "council_district" : "37",
+  "propid" : "B481",
+  "jurisdiction" : "DPR",
+  "community_board" : "B04",
+  "size" : "0.165"
+}
+, {
+  "boro" : "B",
+  "address" : "974 Madison Street",
+  "garden_name" : "Madison Street Association",
+  "council_district" : "34",
+  "propid" : "NA",
+  "jurisdiction" : "NYRP",
+  "community_board" : "B04",
+  "size" : "0.041"
+}
+, {
+  "cross_streets" : "Active",
+  "boro" : "B",
+  "address" : "88-90 Madison Street",
+  "garden_name" : "Madison Street Block Association",
+  "council_district" : "36",
+  "propid" : "B482",
+  "jurisdiction" : "DPR",
+  "community_board" : "B03",
+  "size" : "0.039"
+}
+, {
+  "cross_streets" : "Amsterdam & Broadway",
+  "boro" : "M",
+  "neighborhoodname" : "Washington Heights",
+  "address" : "564 West 149th Street",
+  "garden_name" : "Maggies Garden",
+  "council_district" : "7",
+  "propid" : "NA",
+  "jurisdiction" : "NYRP",
+  "community_board" : "M09",
+  "size" : "0.075"
+}
+, {
+  "cross_streets" : "Active",
+  "boro" : "M",
+  "neighborhoodname" : "East Harlem",
+  "address" : "1574 Lexington Avenue",
+  "garden_name" : "Maggies Garden (formerly Ebenezer Wesleyan Methodist Church Garden)",
+  "council_district" : "8",
+  "propid" : "M327",
+  "jurisdiction" : "DPR",
+  "community_board" : "M11",
+  "size" : "0.057"
+}
+, {
+  "cross_streets" : "117-118th Street",
+  "boro" : "M",
+  "neighborhoodname" : "East Harlem",
+  "address" : "1665-71 Park Avenue",
+  "garden_name" : "Magic Garden",
+  "council_district" : "8",
+  "propid" : "NA",
+  "jurisdiction" : "HPD",
+  "community_board" : "M11",
+  "size" : "0.207"
+}
+, {
+  "cross_streets" : "111th ST & 112th ST",
+  "boro" : "Q",
+  "address" : "111-26 Northern Boulevard.",
+  "garden_name" : "Malcom X Day Care Center",
+  "council_district" : "21",
+  "propid" : "NA",
+  "jurisdiction" : "TPL",
+  "community_board" : "Q03",
+  "size" : "0.046"
+}
+, {
+  "boro" : "B",
+  "neighborhoodname" : "Crown Heights",
+  "address" : "1397 Bedford Avenue",
+  "garden_name" : "MaMa Dee's Garden",
+  "council_district" : "36",
+  "propid" : "NA",
+  "jurisdiction" : "TPL",
+  "community_board" : "B08",
+  "size" : "0.072"
+}
+, {
+  "cross_streets" : "Active",
+  "boro" : "B",
+  "neighborhoodname" : "East New York",
+  "address" : "2539 Pitkin Avenue",
+  "garden_name" : "Manleys Place",
+  "council_district" : "37",
+  "propid" : "B483",
+  "jurisdiction" : "DPR",
+  "community_board" : "B05",
+  "size" : "0.280"
+}
+, {
+  "cross_streets" : "Bruckner Blvd & Watson",
+  "boro" : "X",
+  "address" : "1025 Manor Avenue",
+  "garden_name" : "Manor Avenue Seniors Garden",
+  "council_district" : "17",
+  "propid" : "NA",
+  "jurisdiction" : "TPL",
+  "community_board" : "X09",
+  "size" : "0.057"
+}
+, {
+  "cross_streets" : "Active",
+  "boro" : "B",
+  "neighborhoodname" : "Brownsville",
+  "address" : "Strauss Street/N/O Pitkin Avenue",
+  "garden_name" : "Marcus Garvey Tenants Association",
+  "council_district" : "41",
+  "propid" : "B510",
+  "jurisdiction" : "DPR",
+  "community_board" : "B16",
+  "size" : "0.230"
+}
+, {
+  "cross_streets" : "Active",
+  "boro" : "M",
+  "address" : "155-159 W. 133rd Street",
+  "garden_name" : "Margrichantie Memorial Garden",
+  "council_district" : "9",
+  "propid" : "M297A",
+  "jurisdiction" : "DPR",
+  "community_board" : "M10",
+  "size" : "0.171"
+}
+, {
+  "cross_streets" : "Brinsmade Avenue & Cross Bronx Expressway",
+  "boro" : "X",
+  "neighborhoodname" : "Schuylerville",
+  "address" : "2770 Lafayette Avenue, Bronx, NY 10465",
+  "garden_name" : "Maritime Academy @ P.S. 10",
+  "council_district" : "0",
+  "propid" : "NA",
+  "jurisdiction" : "DOE",
+  "community_board" : "X10",
+  "size" : "NA"
+}
+, {
+  "cross_streets" : "27th Avenue & 25th Avenue",
+  "boro" : "Q",
+  "address" : "S/E/C 100th Street & McIntosh Street",
+  "garden_name" : "McIntosh Neighborhood Assoc.",
+  "council_district" : "21",
+  "propid" : "NA",
+  "jurisdiction" : "TPL",
+  "community_board" : "Q03",
+  "size" : "0.127"
+}
+, {
+  "cross_streets" : "Active",
+  "boro" : "Q",
+  "neighborhoodname" : "Jamaica",
+  "address" : "108-56 Union Hall Street",
+  "garden_name" : "McKinleys Childrens Garden",
+  "council_district" : "28",
+  "propid" : "Q493",
+  "jurisdiction" : "DPR",
+  "community_board" : "Q12",
+  "size" : "0.091"
+}
+, {
+  "cross_streets" : "Sackman & Powell Streets.",
+  "boro" : "B",
+  "address" : "130 Liberty Avenue",
+  "garden_name" : "McLeods Community Garden (formerly Powell Street Block Association - Liberty Ave)",
+  "council_district" : "16",
+  "propid" : "NA",
+  "jurisdiction" : "NYRP",
+  "community_board" : "B16",
+  "size" : "0.257"
+}
+, {
+  "cross_streets" : "E 156th & E 157th",
+  "boro" : "X",
+  "neighborhoodname" : "Melrose",
+  "address" : "724 Courtlandt Avenue",
+  "garden_name" : "Members Group (Dalia Group Garden)",
+  "council_district" : "17",
+  "propid" : "NA",
+  "jurisdiction" : "NYRP",
+  "community_board" : "X01",
+  "size" : "0.057"
+}
+, {
+  "cross_streets" : "119th Avenue",
+  "boro" : "Q",
+  "address" : "11818-11820 Merrick Boulevard.",
+  "garden_name" : "Merrick-Marsden Neighbors Association., Inc.",
+  "council_district" : "27",
+  "propid" : "NA",
+  "jurisdiction" : "TPL",
+  "community_board" : "Q12",
+  "size" : "0.046"
+}
+, {
+  "cross_streets" : "Active",
+  "boro" : "M",
+  "neighborhoodname" : "East Village",
+  "address" : "Rivington Street Crossover (in Sarah Roosevelt Park)",
+  "garden_name" : "Mfinda Kalunga Garden",
+  "council_district" : "3",
+  "propid" : "M105A",
+  "jurisdiction" : "DPR",
+  "community_board" : "M02",
+  "size" : "NA"
+}
+, {
+  "cross_streets" : "N/W corner of Bruckner Boulevard & Faile Street",
+  "boro" : "X",
+  "address" : "927 Faile Street",
+  "garden_name" : "Mildred T. Rhodebeck Garden (Garden of Eden)",
+  "council_district" : "18",
+  "propid" : "NA",
+  "jurisdiction" : "NYRP",
+  "community_board" : "X02",
+  "size" : "0.193"
+}
+, {
+  "cross_streets" : "Active",
+  "boro" : "X",
+  "address" : "Marmion Avenue",
+  "garden_name" : "Miracle Garden - Bronx",
+  "council_district" : "15",
+  "propid" : "X329",
+  "jurisdiction" : "DPR",
+  "community_board" : "X06",
+  "size" : "0.110"
+}
+, {
+  "cross_streets" : "Active",
+  "boro" : "M",
+  "neighborhoodname" : "East Village",
+  "address" : "194-196 East 3rd Street",
+  "garden_name" : "Miracle Garden - Manhattan",
+  "council_district" : "1",
+  "propid" : "M314",
+  "jurisdiction" : "DPR",
+  "community_board" : "M03",
+  "size" : "0.120"
+}
+, {
+  "cross_streets" : "Amsterdam & Broadway",
+  "boro" : "M",
+  "neighborhoodname" : "Hamilton Heights",
+  "address" : "545 West 147th Street",
+  "garden_name" : "Mo Pals",
+  "council_district" : "7",
+  "propid" : "NA",
+  "jurisdiction" : "TPL",
+  "community_board" : "M09",
+  "size" : "0.039"
+}
+, {
+  "cross_streets" : "Active",
+  "boro" : "M",
+  "neighborhoodname" : "Upper West Side",
+  "address" : "955 Columbus Avenue",
+  "garden_name" : "Mobilization For Change Community Garden",
+  "council_district" : "8",
+  "propid" : "M347",
+  "jurisdiction" : "DPR",
+  "community_board" : "M07",
+  "size" : "0.043"
+}
+, {
+  "cross_streets" : "Active",
+  "boro" : "X",
+  "address" : "1312 Bristow Street.",
+  "garden_name" : "Model T",
+  "propid" : "X342",
+  "jurisdiction" : "DPR",
+  "community_board" : "X03",
+  "size" : "0.272"
+}
+, {
+  "cross_streets" : "Active",
+  "boro" : "M",
+  "neighborhoodname" : "Washington Heights",
+  "address" : "455-457 W 162nd Street",
+  "garden_name" : "Morris Jumel Community Garden",
+  "council_district" : "7",
+  "propid" : "M348",
+  "jurisdiction" : "DPR",
+  "community_board" : "M12",
+  "size" : "0.100"
+}
+, {
+  "cross_streets" : "Active",
+  "boro" : "X",
+  "address" : "1315-31 Odgen Avenue",
+  "garden_name" : "Mosaic Center (Success Garden)",
+  "council_district" : "14",
+  "propid" : "X275",
+  "jurisdiction" : "DPR",
+  "community_board" : "X04",
+  "size" : "0.270"
+}
+, {
+  "cross_streets" : "McDonough (corner) & Macon",
+  "boro" : "B",
+  "neighborhoodname" : "Bed-Stuy",
+  "address" : "354 Stuyvesant Avenue.",
+  "garden_name" : "Mt. Lebanon Baptist Church",
+  "council_district" : "0",
+  "propid" : "NA",
+  "jurisdiction" : "PRI",
+  "community_board" : "B03",
+  "size" : "NA"
+}
+, {
+  "cross_streets" : "Active",
+  "boro" : "B",
+  "neighborhoodname" : "East New York",
+  "address" : "565 Barbey Street",
+  "garden_name" : "Nehemiah Ten GreenThumb Block Association",
+  "council_district" : "42",
+  "propid" : "B514",
+  "jurisdiction" : "DPR",
+  "community_board" : "B05",
+  "size" : "0.275"
+}
+, {
+  "cross_streets" : "Courtlandt & Melrose Avenues",
+  "boro" : "X",
+  "neighborhoodname" : "Melrose",
+  "address" : "360-362 E. 151st Street",
+  "garden_name" : "Neighborhood Advisory Committee",
+  "council_district" : "17",
+  "propid" : "NA",
+  "jurisdiction" : "TPL",
+  "community_board" : "X01",
+  "size" : "0.135"
+}
+, {
+  "cross_streets" : "Schenectady & Utica Avenues",
+  "boro" : "B",
+  "address" : "1123 Saint Marks Avenue",
+  "garden_name" : "Neighborhood Community Garden",
+  "council_district" : "36",
+  "propid" : "NA",
+  "jurisdiction" : "DPR",
+  "community_board" : "B08",
+  "size" : "0.073"
+}
+, {
+  "cross_streets" : "Active",
+  "boro" : "M",
+  "neighborhoodname" : "East Harlem",
+  "address" : "E. 109th Street",
+  "garden_name" : "Neighbors of Vega Baja",
+  "council_district" : "8",
+  "propid" : "M338",
+  "jurisdiction" : "DPR",
+  "community_board" : "M11",
+  "size" : "0.072"
+}
+, {
+  "cross_streets" : "Active",
+  "boro" : "M",
+  "neighborhoodname" : "Harlem",
+  "address" : "112,114 & 116 W. 123rd Street",
+  "garden_name" : "New 123rd Street Block Association",
+  "council_district" : "9",
+  "propid" : "M349",
+  "jurisdiction" : "DPR",
+  "community_board" : "M10",
+  "size" : "0.140"
+}
+, {
+  "cross_streets" : "Active",
+  "boro" : "B",
+  "neighborhoodname" : "Bed-Stuy",
+  "address" : "953 Gates Avenue",
+  "garden_name" : "New Age Pride (Victory Garden's Group)",
+  "council_district" : "41",
+  "propid" : "B518",
+  "jurisdiction" : "DPR",
+  "community_board" : "B03",
+  "size" : "0.057"
+}
+, {
+  "boro" : "B",
+  "neighborhoodname" : "Bed-Stuy",
+  "address" : "125,123,121 Vernon Avenue",
+  "garden_name" : "New Harvest (Vrn/Mrcy/Tmpks B.A.)",
+  "council_district" : "36",
+  "propid" : "NA",
+  "jurisdiction" : "HPD",
+  "community_board" : "B03",
+  "size" : "0.138"
+}
+, {
+  "cross_streets" : "Active",
+  "boro" : "X",
+  "address" : "958 New Hoe Avenue",
+  "garden_name" : "New Hoe Avenue Garden",
+  "council_district" : "18",
+  "propid" : "X241",
+  "jurisdiction" : "DPR",
+  "community_board" : "X02",
+  "size" : "0.230"
+}
+, {
+  "cross_streets" : "Active",
+  "boro" : "B",
+  "neighborhoodname" : "East New York",
+  "address" : "590-594 Schenck Avenue.",
+  "garden_name" : "New Vision Garden",
+  "council_district" : "42",
+  "propid" : "B449",
+  "jurisdiction" : "DPR",
+  "community_board" : "B05",
+  "size" : "0.321"
+}
+, {
+  "cross_streets" : "Active",
+  "boro" : "B",
+  "neighborhoodname" : "Brownsville",
+  "address" : "823 Rockaway Avenue",
+  "garden_name" : "Newport Gardens",
+  "council_district" : "42",
+  "propid" : "B513",
+  "jurisdiction" : "DPR",
+  "community_board" : "B16",
+  "size" : "0.138"
+}
+, {
+  "boro" : "B",
+  "address" : "Lorimer and Bayard Streets",
+  "garden_name" : "Nicks Garden",
+  "council_district" : "0",
+  "propid" : "NA",
+  "jurisdiction" : "DPR",
+  "community_board" : "B01",
+  "size" : "NA"
+}
+, {
+  "cross_streets" : "Active",
+  "boro" : "X",
+  "address" : "1665 Longfellow Avenue",
+  "garden_name" : "North LUBAs Community Rock Garden",
+  "council_district" : "15",
+  "propid" : "X273",
+  "jurisdiction" : "DPR",
+  "community_board" : "X03",
+  "size" : "NA"
+}
+, {
+  "cross_streets" : "c/o Driggs & N. 5th Street",
+  "boro" : "B",
+  "neighborhoodname" : "Williamsburg",
+  "address" : "599 Driggs Avenue",
+  "garden_name" : "Northside Community Garden",
+  "council_district" : "33",
+  "propid" : "NA",
+  "jurisdiction" : "TPL",
+  "community_board" : "B01",
+  "size" : "0.034"
+}
+, {
+  "cross_streets" : "10th & 11th Avenue",
+  "boro" : "M",
+  "neighborhoodname" : "Hell's Kitchen",
+  "address" : "511-519 W. 52nd Street",
+  "garden_name" : "Oasis Community Garden (Hell’s Kitchen)",
+  "council_district" : "3",
+  "propid" : "NA",
+  "jurisdiction" : "HPD",
+  "community_board" : "M04",
+  "size" : "0.115"
+}
+, {
+  "cross_streets" : "Active",
+  "boro" : "B",
+  "address" : "21-25 Olive Street",
+  "garden_name" : "Olive Garden",
+  "council_district" : "34",
+  "propid" : "B425",
+  "jurisdiction" : "DPR",
+  "community_board" : "B01",
+  "size" : "0.179"
+}
+, {
+  "cross_streets" : "Active",
+  "boro" : "M",
+  "neighborhoodname" : "East Village",
+  "address" : "404-16 East 12th Street",
+  "garden_name" : "Open Road Park (LES)",
+  "council_district" : "2",
+  "propid" : "M321A",
+  "jurisdiction" : "DPR",
+  "community_board" : "M03",
+  "size" : "0.459"
+}
+, {
+  "cross_streets" : "Active",
+  "boro" : "M",
+  "neighborhoodname" : "East Village",
+  "address" : "350-54 East 4th Street",
+  "garden_name" : "Orchard Alley",
+  "council_district" : "2",
+  "propid" : "M354",
+  "jurisdiction" : "DPR",
+  "community_board" : "M03",
+  "size" : "0.224"
+}
+, {
+  "boro" : "B",
+  "address" : "Metropolitan Ave. and Orient Ave.",
+  "garden_name" : "Orient Grove",
+  "propid" : "B024",
+  "jurisdiction" : "DPR",
+  "community_board" : "B01",
+  "size" : "0.149"
+}
+, {
+  "cross_streets" : "Active",
+  "boro" : "B",
+  "neighborhoodname" : "East New York",
+  "address" : "369-371 Barbey Street & 326-328 Jerome St",
+  "garden_name" : "Oriental Garden",
+  "council_district" : "37",
+  "propid" : "B521",
+  "jurisdiction" : "DPR",
+  "community_board" : "B05",
+  "size" : "0.188"
+}
+, {
+  "cross_streets" : "Active",
+  "boro" : "M",
+  "address" : "275-277 West 122nd Street",
+  "garden_name" : "Our Little Green Acre",
+  "council_district" : "9",
+  "propid" : "M365",
+  "jurisdiction" : "DPR",
+  "community_board" : "M10",
+  "size" : "0.052"
+}
+, {
+  "cross_streets" : "East 220 & Mosholu Prky",
+  "boro" : "X",
+  "address" : "3050 Webster Avenue",
+  "garden_name" : "P.S. / M.S. 20",
+  "council_district" : "10",
+  "propid" : "NA",
+  "jurisdiction" : "DOE",
+  "community_board" : "X07",
+  "size" : "0.008"
+}
+, {
+  "boro" : "B",
+  "address" : "1301 8th Avenue",
+  "garden_name" : "P.S. 107 - Rainbow Garden",
+  "council_district" : "39",
+  "propid" : "NA",
+  "jurisdiction" : "DOE",
+  "community_board" : "B06",
+  "size" : "0.023"
+}
+, {
+  "cross_streets" : "8th & 9th Avenue",
+  "boro" : "M",
+  "neighborhoodname" : "Chelsey",
+  "address" : "320 West 21st Street  NY NY 10011",
+  "garden_name" : "P.S. 11",
+  "council_district" : "0",
+  "propid" : "NA",
+  "jurisdiction" : "DOE",
+  "community_board" : "M04",
+  "size" : "NA"
+}
+, {
+  "boro" : "M",
+  "neighborhoodname" : "Hell's Kitchen",
+  "address" : "440 W. 53rd Street",
+  "garden_name" : "P.S. 111",
+  "council_district" : "3",
+  "propid" : "NA",
+  "jurisdiction" : "DOE",
+  "community_board" : "M04",
+  "size" : "NA"
+}
+, {
+  "boro" : "M",
+  "address" : "586 W. 177th Street",
+  "garden_name" : "P.S. 115M",
+  "council_district" : "10",
+  "propid" : "NA",
+  "jurisdiction" : "DOE",
+  "community_board" : "M12",
+  "size" : "0.161"
+}
+, {
+  "boro" : "B",
+  "address" : "3829 Avenue K",
+  "garden_name" : "P.S. 119",
+  "council_district" : "45",
+  "propid" : "NA",
+  "jurisdiction" : "DOE",
+  "community_board" : "B18",
+  "size" : "NA"
+}
+, {
+  "cross_streets" : "58th & 59th Streets",
+  "boro" : "Q",
+  "neighborhoodname" : "Flushing",
+  "address" : "58-01 136th Street",
+  "garden_name" : "P.S. 120Q - Millenium Garden",
+  "council_district" : "20",
+  "propid" : "NA",
+  "jurisdiction" : "DOE",
+  "community_board" : "Q07",
+  "size" : "0.010"
+}
+, {
+  "boro" : "B",
+  "neighborhoodname" : "Bed-Stuy",
+  "address" : "121 Saratoga Avenue",
+  "garden_name" : "P.S. 137",
+  "council_district" : "41",
+  "propid" : "NA",
+  "jurisdiction" : "DOE",
+  "community_board" : "B16",
+  "size" : "0.735"
+}
+, {
+  "boro" : "X",
+  "address" : "2060 Lafayette Avenue",
+  "garden_name" : "P.S. 138X",
+  "council_district" : "18",
+  "propid" : "NA",
+  "jurisdiction" : "DOE",
+  "community_board" : "X09",
+  "size" : "1.345"
+}
+, {
+  "boro" : "Q",
+  "address" : "93-06 63rd Drive",
+  "garden_name" : "P.S. 139Q",
+  "council_district" : "0",
+  "propid" : "NA",
+  "jurisdiction" : "DOE",
+  "community_board" : "Q06",
+  "size" : "NA"
+}
+, {
+  "cross_streets" : "Developed",
+  "boro" : "B",
+  "neighborhoodname" : "East New York",
+  "address" : "365-67 Wyona Street",
+  "garden_name" : "P.S. 149 - Artsy Bloom Community Garden",
+  "council_district" : "37",
+  "propid" : "B442",
+  "jurisdiction" : "DPR",
+  "community_board" : "B05",
+  "size" : "0.057"
+}
+, {
+  "boro" : "B",
+  "address" : "1355 Herkimer Street",
+  "garden_name" : "P.S. 155",
+  "council_district" : "37",
+  "propid" : "NA",
+  "jurisdiction" : "DOE",
+  "community_board" : "B16",
+  "size" : "0.689"
+}
+, {
+  "boro" : "X",
+  "address" : "750 Concourse Village West",
+  "garden_name" : "P.S. 156 Garden",
+  "council_district" : "16",
+  "propid" : "NA",
+  "jurisdiction" : "DOE",
+  "community_board" : "X04",
+  "size" : "0.046"
+}
+, {
+  "boro" : "B",
+  "address" : "4211 14th Avenue",
+  "garden_name" : "P.S. 164 - Stepping Into the New Millenium",
+  "council_district" : "39",
+  "propid" : "NA",
+  "jurisdiction" : "DOE",
+  "community_board" : "B12",
+  "size" : "0.069"
+}
+, {
+  "boro" : "B",
+  "address" : "5601-23 16th Avenue  Brooklyn NY 11204",
+  "garden_name" : "P.S. 180 - Our Secret Garden",
+  "council_district" : "44",
+  "propid" : "NA",
+  "jurisdiction" : "DOE",
+  "community_board" : "B12",
+  "size" : "NA"
+}
+, {
+  "boro" : "B",
+  "address" : "1023 New York Avenue",
+  "garden_name" : "P.S. 181K - Garden Club",
+  "council_district" : "45",
+  "propid" : "NA",
+  "jurisdiction" : "DOE",
+  "community_board" : "B17",
+  "size" : "NA"
+}
+, {
+  "cross_streets" : "5th & Lenox Avenue",
+  "boro" : "M",
+  "neighborhoodname" : "Upper West Side",
+  "address" : "20 W. 112th Street",
+  "garden_name" : "P.S. 185/208M",
+  "council_district" : "9",
+  "propid" : "NA",
+  "jurisdiction" : "DOE",
+  "community_board" : "M10",
+  "size" : "NA"
+}
+, {
+  "cross_streets" : "Active",
+  "boro" : "X",
+  "address" : "745 Jennings Street",
+  "garden_name" : "P.S. 186 - Day Treatment Program",
+  "council_district" : "16",
+  "propid" : "X330",
+  "jurisdiction" : "DPR",
+  "community_board" : "X03",
+  "size" : "0.060"
+}
+, {
+  "cross_streets" : "Keap & Rodney",
+  "boro" : "B",
+  "neighborhoodname" : "Williamsburg",
+  "address" : "325 South 3rd Street Brooklyn, NY 11211",
+  "garden_name" : "P.S. 19K - Kid's Garden",
+  "council_district" : "34",
+  "propid" : "NA",
+  "jurisdiction" : "DOE",
+  "community_board" : "B01",
+  "size" : "NA"
+}
+, {
+  "cross_streets" : "98th, 41st Avenue",
+  "boro" : "Q",
+  "neighborhoodname" : "Corona",
+  "address" : "99th Street and Roosevelt Avenue.  Queens, NY 11368",
+  "garden_name" : "P.S. 19Q",
+  "council_district" : "0",
+  "propid" : "NA",
+  "jurisdiction" : "DOE",
+  "community_board" : "Q04",
+  "size" : "NA"
+}
+, {
+  "cross_streets" : "150th St",
+  "boro" : "M",
+  "neighborhoodname" : "Central Harlem",
+  "address" : "2599 7th Avenue.  NY NY 10039",
+  "garden_name" : "P.S. 200",
+  "council_district" : "0",
+  "propid" : "NA",
+  "jurisdiction" : "TPL/DOE",
+  "community_board" : "M10",
+  "size" : "NA"
+}
+, {
+  "boro" : "M",
+  "address" : "34 W. 118th Street",
+  "garden_name" : "P.S. 207/149",
+  "council_district" : "9",
+  "propid" : "NA",
+  "jurisdiction" : "DOE",
+  "community_board" : "M10",
+  "size" : "NA"
+}
+, {
+  "cross_streets" : "E 48th & 49th Street",
+  "boro" : "B",
+  "address" : "4801 Avenue D  Brooklyn, NY 11234",
+  "garden_name" : "P.S. 208",
+  "council_district" : "45",
+  "propid" : "NA",
+  "jurisdiction" : "TPL/DOE",
+  "community_board" : "B17",
+  "size" : "NA"
+}
+, {
+  "cross_streets" : "corner of West Burnside & Sedgwick",
+  "boro" : "X",
+  "address" : "1950 Sedgwick Avenue",
+  "garden_name" : "P.S. 226 Garden",
+  "council_district" : "0",
+  "propid" : "NA",
+  "jurisdiction" : "DOE",
+  "community_board" : "X05",
+  "size" : "NA"
+}
+, {
+  "boro" : "X",
+  "address" : "2175 Washington Avenue",
+  "garden_name" : "P.S. 23",
+  "council_district" : "15",
+  "propid" : "NA",
+  "jurisdiction" : "DOE",
+  "community_board" : "X06",
+  "size" : "NA"
+}
+, {
+  "cross_streets" : "E 39th st",
+  "boro" : "B",
+  "neighborhoodname" : "North Flatbush",
+  "address" : "525 Lenox Road, Brooklyn NY 11203",
+  "garden_name" : "P.S. 235",
+  "council_district" : "0",
+  "propid" : "NA",
+  "jurisdiction" : "DOE",
+  "community_board" : "N/A",
+  "size" : "NA"
+}
+, {
+  "cross_streets" : "121st & 122nd, 6th & 7th Avenue",
+  "boro" : "M",
+  "neighborhoodname" : "Central Harlem",
+  "address" : "134 West 122nd Street, NY, NY 10027",
+  "garden_name" : "P.S. 242",
+  "council_district" : "0",
+  "propid" : "NA",
+  "jurisdiction" : "DOE",
+  "community_board" : "M10",
+  "size" : "NA"
+}
+, {
+  "cross_streets" : "Troy Avenue & Bergen Street",
+  "boro" : "B",
+  "neighborhoodname" : "Crown Heights",
+  "address" : "1580 Dean Street",
+  "garden_name" : "P.S. 243 - Weeksville School",
+  "council_district" : "0",
+  "propid" : "NA",
+  "jurisdiction" : "DOE",
+  "community_board" : "B08",
+  "size" : "NA"
+}
+, {
+  "boro" : "X",
+  "address" : "2641 Grand Concourse",
+  "garden_name" : "P.S. 246",
+  "council_district" : "15",
+  "propid" : "NA",
+  "jurisdiction" : "DOE",
+  "community_board" : "X06",
+  "size" : "NA"
+}
+, {
+  "boro" : "B",
+  "address" : "7000 21st Avenue",
+  "garden_name" : "P.S. 247K",
+  "council_district" : "44",
+  "propid" : "NA",
+  "jurisdiction" : "DOE",
+  "community_board" : "B11",
+  "size" : "0.040"
+}
+, {
+  "boro" : "B",
+  "address" : "18 Marlborough Road",
+  "garden_name" : "P.S. 249",
+  "council_district" : "40",
+  "propid" : "NA",
+  "jurisdiction" : "DOE",
+  "community_board" : "B14",
+  "size" : "NA"
+}
+, {
+  "boro" : "B",
+  "address" : "108 Montrose Avenue",
+  "garden_name" : "P.S. 250",
+  "council_district" : "34",
+  "propid" : "NA",
+  "jurisdiction" : "DOE",
+  "community_board" : "B01",
+  "size" : "0.005"
+}
+, {
+  "cross_streets" : "Arthur Street",
+  "boro" : "Q",
+  "neighborhoodname" : "Springfield Gardens",
+  "address" : "144-51 144th Road",
+  "garden_name" : "P.S. 251Q",
+  "council_district" : "0",
+  "propid" : "NA",
+  "jurisdiction" : "DOE",
+  "community_board" : "Q13",
+  "size" : "0.138"
+}
+, {
+  "boro" : "B",
+  "address" : "133 E. 53rd Street",
+  "garden_name" : "P.S. 268",
+  "council_district" : "41",
+  "propid" : "NA",
+  "jurisdiction" : "DOE",
+  "community_board" : "B17",
+  "size" : "0.035"
+}
+, {
+  "cross_streets" : "Hicks Street & Columbia Street",
+  "boro" : "B",
+  "address" : "27 Huntington Street Brooklyn. NY 11231",
+  "garden_name" : "P.S. 27 / M.S. 826",
+  "council_district" : "0",
+  "propid" : "NA",
+  "jurisdiction" : "DOE",
+  "community_board" : "B06",
+  "size" : "NA"
+}
+, {
+  "boro" : "X",
+  "address" : "S/E/C Brook Avenue & E. 141 Street",
+  "garden_name" : "P.S. 30X",
+  "council_district" : "8",
+  "propid" : "NA",
+  "jurisdiction" : "DOE",
+  "community_board" : "X01",
+  "size" : "0.207"
+}
+, {
+  "boro" : "B",
+  "address" : "2310 Glenwood  Rd.",
+  "garden_name" : "P.S. 315K",
+  "council_district" : "45",
+  "propid" : "NA",
+  "jurisdiction" : "DOE",
+  "community_board" : "B14",
+  "size" : "NA"
+}
+, {
+  "cross_streets" : "Active",
+  "boro" : "M",
+  "neighborhoodname" : "East Village",
+  "address" : "East 12th Street",
+  "garden_name" : "P.S. 361 - The Children's Garden",
+  "council_district" : "2",
+  "propid" : "M113",
+  "jurisdiction" : "DPR",
+  "community_board" : "M03",
+  "size" : "0.028"
+}
+, {
+  "cross_streets" : "Carrol Street",
+  "boro" : "B",
+  "address" : "219 First Street",
+  "garden_name" : "P.S. 372@834 / The Children's School",
+  "council_district" : "39",
+  "propid" : "NA",
+  "jurisdiction" : "DOE",
+  "community_board" : "B06",
+  "size" : "NA"
+}
+, {
+  "cross_streets" : "Burnside & University",
+  "boro" : "X",
+  "neighborhoodname" : "Kingbridge Heights",
+  "address" : "1930 Andrews Avenue, Bronx NY 10453",
+  "garden_name" : "P.S. 396 / M.S. 390 X",
+  "council_district" : "0",
+  "propid" : "NA",
+  "jurisdiction" : "TPL/DOE",
+  "community_board" : "X05",
+  "size" : "NA"
+}
+, {
+  "boro" : "B",
+  "address" : "2707 Albemarle Road",
+  "garden_name" : "P.S. 399",
+  "council_district" : "40",
+  "propid" : "NA",
+  "jurisdiction" : "DOE",
+  "community_board" : "B17",
+  "size" : "0.505"
+}
+, {
+  "boro" : "M",
+  "neighborhoodname" : "Harlem",
+  "address" : "500 West 160th Street",
+  "garden_name" : "P.S. 4 - Duke Ellington Harmony Garden",
+  "council_district" : "0",
+  "propid" : "NA",
+  "jurisdiction" : "DOE",
+  "community_board" : "M12",
+  "size" : "NA"
+}
+, {
+  "boro" : "B",
+  "neighborhoodname" : "East New York",
+  "address" : "530 Stanley Avenue",
+  "garden_name" : "P.S. 4 at P.S. 843",
+  "council_district" : "42",
+  "propid" : "NA",
+  "jurisdiction" : "DOE",
+  "community_board" : "B05",
+  "size" : "0.023"
+}
+, {
+  "boro" : "Q",
+  "address" : "155-02 108th Avenue",
+  "garden_name" : "P.S. 48Q",
+  "council_district" : "28",
+  "propid" : "NA",
+  "jurisdiction" : "DOE",
+  "community_board" : "Q12",
+  "size" : "NA"
+}
+, {
+  "cross_streets" : "Corner of Penelope & 79th Street",
+  "boro" : "Q",
+  "address" : "79-15 Penelope Avenue",
+  "garden_name" : "P.S. 49Q",
+  "council_district" : "0",
+  "propid" : "NA",
+  "jurisdiction" : "DOE",
+  "community_board" : "Q05",
+  "size" : "0.007"
+}
+, {
+  "cross_streets" : "Active",
+  "boro" : "B",
+  "neighborhoodname" : "East New York",
+  "address" : "676-696 Glenmore Avenue",
+  "garden_name" : "P.S. 4K - Paradise Garden",
+  "council_district" : "37",
+  "propid" : "B417",
+  "jurisdiction" : "DPR",
+  "community_board" : "B05",
+  "size" : "0.300"
+}
+, {
+  "cross_streets" : "10th & 11th Avenue",
+  "boro" : "M",
+  "neighborhoodname" : "Clinton Hill",
+  "address" : "520 West 45th Street  NY  NY 10036",
+  "garden_name" : "P.S. 51",
+  "council_district" : "0",
+  "propid" : "NA",
+  "jurisdiction" : "DOE",
+  "community_board" : "M04",
+  "size" : "NA"
+}
+, {
+  "cross_streets" : "Active",
+  "boro" : "B",
+  "neighborhoodname" : "East New York",
+  "address" : "522 Bradford Street",
+  "garden_name" : "P.S. 53",
+  "council_district" : "42",
+  "propid" : "B485",
+  "jurisdiction" : "DPR",
+  "community_board" : "B05",
+  "size" : "0.062"
+}
+, {
+  "boro" : "B",
+  "address" : "2242-62 Bedford Avenue",
+  "garden_name" : "P.S. 6 - Operation Push",
+  "council_district" : "40",
+  "propid" : "NA",
+  "jurisdiction" : "DOE",
+  "community_board" : "B14",
+  "size" : "NA"
+}
+, {
+  "cross_streets" : "169th & Fulton Avenue",
+  "boro" : "X",
+  "neighborhoodname" : "Morrisania",
+  "address" : "1261 Franklyn Avenue.  Bronx, NY 10456",
+  "garden_name" : "P.S. 63 X",
+  "council_district" : "0",
+  "propid" : "NA",
+  "jurisdiction" : "DOE",
+  "community_board" : "N/A",
+  "size" : "NA"
+}
+, {
+  "cross_streets" : "Cypress & Powers",
+  "boro" : "X",
+  "address" : "677 East 141st",
+  "garden_name" : "P.S. 65 - Garden Club",
+  "council_district" : "17",
+  "propid" : "NA",
+  "jurisdiction" : "DOE",
+  "community_board" : "X01",
+  "size" : "0.034"
+}
+, {
+  "cross_streets" : "Between Park & Mrytle",
+  "boro" : "B",
+  "address" : "51 St. Edwards Street",
+  "garden_name" : "P.S. 67 - Charles Dorsey School",
+  "council_district" : "35",
+  "propid" : "NA",
+  "jurisdiction" : "DOE",
+  "community_board" : "B02",
+  "size" : "NA"
+}
+, {
+  "cross_streets" : "475 State & 3rd Avenue",
+  "boro" : "B",
+  "neighborhoodname" : "Boerum Hill",
+  "address" : "372 Schermerhorn Street",
+  "garden_name" : "P.S. 753K @ The Bklyn. School for Career Development",
+  "council_district" : "33",
+  "propid" : "NA",
+  "jurisdiction" : "DOE",
+  "community_board" : "B02",
+  "size" : "0.032"
+}
+, {
+  "cross_streets" : "Active",
+  "boro" : "M",
+  "neighborhoodname" : "Harlem",
+  "address" : "203 W. 120th Street   NY NY 10027",
+  "garden_name" : "P.S. 76 - Garden of Perserverance",
+  "council_district" : "9",
+  "propid" : "M356",
+  "jurisdiction" : "DPR",
+  "community_board" : "M10",
+  "size" : "0.057"
+}
+, {
+  "cross_streets" : "6th & 5th Avenue",
+  "boro" : "B",
+  "neighborhoodname" : "Park Slope",
+  "address" : "62 Park Place",
+  "garden_name" : "P.S. 77K @ P. S 902K",
+  "council_district" : "33",
+  "propid" : "NA",
+  "jurisdiction" : "DOE",
+  "community_board" : "B06",
+  "size" : "0.023"
+}
+, {
+  "cross_streets" : "87th Avenue",
+  "boro" : "Q",
+  "address" : "87-41 Parsons Boulevard.",
+  "garden_name" : "P.S. 86Q",
+  "council_district" : "0",
+  "propid" : "NA",
+  "jurisdiction" : "DOE",
+  "community_board" : "N/A",
+  "size" : "NA"
+}
+, {
+  "boro" : "Q",
+  "address" : "58-74 57th Street",
+  "garden_name" : "P.S. 9 - Enis Garden",
+  "council_district" : "26",
+  "propid" : "NA",
+  "jurisdiction" : "DOE",
+  "community_board" : "Q05",
+  "size" : "NA"
+}
+, {
+  "cross_streets" : "Bergan & Street Marks",
+  "boro" : "B",
+  "neighborhoodname" : "Prospect Heights",
+  "address" : "80 Underhill Avenue  Broolyn, NY   11328",
+  "garden_name" : "P.S. 9 - Winston Robins Memorial Garden",
+  "council_district" : "35",
+  "propid" : "NA",
+  "jurisdiction" : "DOE",
+  "community_board" : "B08",
+  "size" : "NA"
+}
+, {
+  "cross_streets" : "Ryer & Valentine Avenue",
+  "boro" : "X",
+  "neighborhoodname" : "Grand Concourse",
+  "address" : "230 East 183rd Street, Bronx NY 10458",
+  "garden_name" : "P.S. 9 X",
+  "council_district" : "0",
+  "propid" : "NA",
+  "jurisdiction" : "DOE",
+  "community_board" : "X10",
+  "size" : "NA"
+}
+, {
+  "cross_streets" : "130th & Lincoln",
+  "boro" : "Q",
+  "neighborhoodname" : "So. Ozone Park",
+  "address" : "130-01 Rockaway Boulevard.",
+  "garden_name" : "P.S. 96Q - Garden of Hope",
+  "council_district" : "28",
+  "propid" : "NA",
+  "jurisdiction" : "DOE",
+  "community_board" : "Q10",
+  "size" : "NA"
+}
+, {
+  "cross_streets" : "W 204 / Academy St",
+  "boro" : "M",
+  "address" : "4862 Broadway",
+  "garden_name" : "P.S./I.S. 176",
+  "council_district" : "10",
+  "propid" : "NA",
+  "jurisdiction" : "DOE",
+  "community_board" : "M12",
+  "size" : "NA"
+}
+, {
+  "boro" : "M",
+  "neighborhoodname" : "Roosevelt Island",
+  "address" : "645 Main Street",
+  "garden_name" : "P.S./I.S. 217 - Rooselvelt Island School",
+  "council_district" : "0",
+  "propid" : "NA",
+  "jurisdiction" : "DOE",
+  "community_board" : "N/A",
+  "size" : "NA"
+}
+, {
+  "cross_streets" : "Boerum Place & Smith Streets",
+  "boro" : "B",
+  "neighborhoodname" : "Boerum Hill",
+  "address" : "112 Schermerhorn Street",
+  "garden_name" : "Pacific High School",
+  "council_district" : "33",
+  "propid" : "NA",
+  "jurisdiction" : "DOE",
+  "community_board" : "B02",
+  "size" : "NA"
+}
+, {
+  "cross_streets" : "Active",
+  "boro" : "X",
+  "address" : "541-545 E. 139th Street",
+  "garden_name" : "Padre Plaza (Success Garden)",
+  "council_district" : "8",
+  "propid" : "X285",
+  "jurisdiction" : "DPR",
+  "community_board" : "X01",
+  "size" : "0.367"
+}
+, {
+  "cross_streets" : "At Linwood Street",
+  "boro" : "B",
+  "address" : "992 Sutter Avenue",
+  "garden_name" : "Pagans Garden (Linwood Street Block Association)",
+  "council_district" : "37",
+  "propid" : "NA",
+  "jurisdiction" : "HPD",
+  "community_board" : "B05",
+  "size" : "0.034"
+}
+, {
+  "boro" : "X",
+  "neighborhoodname" : "Melrose",
+  "address" : "869 Eagle Avenue",
+  "garden_name" : "Palmas del Caribe (Eagle Avenue Community Garden)",
+  "council_district" : "17",
+  "propid" : "NA",
+  "jurisdiction" : "TPL",
+  "community_board" : "X01",
+  "size" : "0.241"
+}
+, {
+  "cross_streets" : "2nd & 3rd",
+  "boro" : "M",
+  "neighborhoodname" : "East Harlem",
+  "address" : "218-220 E. 119th Street",
+  "garden_name" : "Papos Garden",
+  "council_district" : "8",
+  "propid" : "NA",
+  "jurisdiction" : "TPL",
+  "community_board" : "M11",
+  "size" : "0.034"
+}
+, {
+  "cross_streets" : "East 167th Street",
+  "boro" : "X",
+  "address" : "1101-1105 Fox Street",
+  "garden_name" : "Paradise on Earth Garden",
+  "council_district" : "18",
+  "propid" : "NA",
+  "jurisdiction" : "NYRP",
+  "community_board" : "X02",
+  "size" : "0.252"
+}
+, {
+  "cross_streets" : "Avenues C & D",
+  "boro" : "M",
+  "neighborhoodname" : "East Village",
+  "address" : "314-318 East 4th Street",
+  "garden_name" : "Parque De Tranquilidad",
+  "council_district" : "2",
+  "propid" : "NA",
+  "jurisdiction" : "TPL",
+  "community_board" : "M03",
+  "size" : "0.082"
+}
+, {
+  "boro" : "X",
+  "address" : "511 E. 149th Street & 511 E. 150th Street",
+  "garden_name" : "Passages Academy",
+  "council_district" : "17",
+  "propid" : "NA",
+  "jurisdiction" : "DOE",
+  "community_board" : "X01",
+  "size" : "NA"
+}
+, {
+  "boro" : "B",
+  "neighborhoodname" : "Bed-Stuy",
+  "address" : "49 Patchen Avenue",
+  "garden_name" : "Patchen Avenue United Block Association",
+  "council_district" : "41",
+  "propid" : "NA",
+  "jurisdiction" : "TPL",
+  "community_board" : "B03",
+  "size" : "0.055"
+}
+, {
+  "cross_streets" : "Active",
+  "boro" : "B",
+  "neighborhoodname" : "Bed-Stuy",
+  "address" : "123 Malcolm X Avenue",
+  "garden_name" : "Patrick Van Doren Pocket Park",
+  "council_district" : "41",
+  "propid" : "B500",
+  "jurisdiction" : "DPR",
+  "community_board" : "B03",
+  "size" : "0.039"
+}
+, {
+  "cross_streets" : "Brownell St & Tompkins St",
+  "boro" : "R",
+  "address" : "Brownell Street #11",
+  "garden_name" : "Pavilion Horticultural Garden",
+  "propid" : "NA",
+  "jurisdiction" : "PRI",
+  "community_board" : "R01",
+  "size" : "NA"
+}
+, {
+  "cross_streets" : "Active",
+  "boro" : "M",
+  "neighborhoodname" : "East Harlem",
+  "address" : "50-52 East 117th Street",
+  "garden_name" : "Peaceful Valley",
+  "council_district" : "8",
+  "propid" : "M367",
+  "jurisdiction" : "DPR",
+  "community_board" : "M11",
+  "size" : "0.052"
+}
+, {
+  "cross_streets" : "Active",
+  "boro" : "M",
+  "neighborhoodname" : "East Village",
+  "address" : "236-238 East 2nd Street",
+  "garden_name" : "Peachtree Garden",
+  "council_district" : "2",
+  "propid" : "M350",
+  "jurisdiction" : "DPR",
+  "community_board" : "M03",
+  "size" : "0.120"
+}
+, {
+  "cross_streets" : "N/O Little Neck Pkwy.",
+  "boro" : "Q",
+  "address" : "E/S Pembroke Avenue",
+  "garden_name" : "Pembroke Avenue Community Garden (Van Nostrand Court Garden)",
+  "council_district" : "19",
+  "propid" : "NA",
+  "jurisdiction" : "NYRP",
+  "community_board" : "Q11",
+  "size" : "0.095"
+}
+, {
+  "cross_streets" : "Greene & Bushwick Avenues",
+  "boro" : "B",
+  "neighborhoodname" : "Bed-Stuy",
+  "address" : "1237-1241 Broadway",
+  "garden_name" : "People's Garden (Youth City Little League)",
+  "council_district" : "34",
+  "propid" : "NA",
+  "jurisdiction" : "TPL",
+  "community_board" : "B04",
+  "size" : "0.172"
+}
+, {
+  "cross_streets" : "Active",
+  "boro" : "B",
+  "address" : "Corner of Fulton & Somers Street",
+  "garden_name" : "Phoenix Community Garden (formerly Somers Street)",
+  "propid" : "B517",
+  "jurisdiction" : "DPR",
+  "community_board" : "B16",
+  "size" : "NA"
+}
+, {
+  "cross_streets" : "Active",
+  "boro" : "M",
+  "neighborhoodname" : "East Harlem",
+  "address" : "342-353 Pleasant Avenue. /502 E. 119th Street",
+  "garden_name" : "Pleasant Village Community Garden",
+  "council_district" : "8",
+  "propid" : "M299",
+  "jurisdiction" : "DPR/HPD",
+  "community_board" : "M11",
+  "size" : "0.380"
+}
+, {
+  "cross_streets" : "Active",
+  "boro" : "B",
+  "address" : "Hunterfly Place and Atlantic Avenue",
+  "garden_name" : "Plenty: Food For All",
+  "propid" : "B531",
+  "jurisdiction" : "DPR",
+  "community_board" : "B03",
+  "size" : "0.062"
+}
+, {
+  "cross_streets" : "Active",
+  "boro" : "B",
+  "address" : "664 East 105th Street",
+  "garden_name" : "Ponderosa Garden",
+  "council_district" : "42",
+  "propid" : "B504",
+  "jurisdiction" : "DPR",
+  "community_board" : "B18",
+  "size" : "0.092"
+}
+, {
+  "cross_streets" : "At Hicks St",
+  "boro" : "B",
+  "neighborhoodname" : "Brooklyn Heights",
+  "address" : "Poplar Street",
+  "garden_name" : "Poplar Street Community Garden",
+  "council_district" : "33",
+  "propid" : "NA",
+  "jurisdiction" : "DOT",
+  "community_board" : "B02",
+  "size" : "0.028"
+}
+, {
+  "cross_streets" : "Active",
+  "boro" : "B",
+  "neighborhoodname" : "East New York",
+  "address" : "337 Van Siclen Avenue",
+  "garden_name" : "Poppa & Momma Jones Historical Garden",
+  "council_district" : "37",
+  "propid" : "B509",
+  "jurisdiction" : "DPR",
+  "community_board" : "B05",
+  "size" : "0.138"
+}
+, {
+  "cross_streets" : "Active",
+  "boro" : "B",
+  "neighborhoodname" : "Brownsville",
+  "address" : "633 Powell Street",
+  "garden_name" : "Powell Street Block Association - Powell St",
+  "council_district" : "42",
+  "propid" : "B486",
+  "jurisdiction" : "DPR",
+  "community_board" : "B16",
+  "size" : "0.019"
+}
+, {
+  "cross_streets" : "Active",
+  "boro" : "B",
+  "neighborhoodname" : "Brownsville",
+  "address" : "Powell Street",
+  "garden_name" : "Powell Street Garden-Livonia",
+  "council_district" : "42",
+  "propid" : "B516",
+  "jurisdiction" : "DPR",
+  "community_board" : "B16",
+  "size" : "0.459"
+}
+, {
+  "cross_streets" : "Active",
+  "boro" : "B",
+  "address" : "276-278 Powers Street",
+  "garden_name" : "Powers Street Garden",
+  "council_district" : "34",
+  "propid" : "B426",
+  "jurisdiction" : "DPR",
+  "community_board" : "B01",
+  "size" : "0.115"
+}
+, {
+  "cross_streets" : "Active",
+  "boro" : "B",
+  "neighborhoodname" : "Brownsville",
+  "address" : "1711 Park Place",
+  "garden_name" : "Preston Community Garden",
+  "council_district" : "41",
+  "propid" : "B487",
+  "jurisdiction" : "DPR",
+  "community_board" : "B16",
+  "size" : "0.580"
+}
+, {
+  "cross_streets" : "Active",
+  "boro" : "Q",
+  "neighborhoodname" : "Forest Hills",
+  "address" : "Kessel Street",
+  "garden_name" : "Project Eden",
+  "council_district" : "29",
+  "propid" : "Q475",
+  "jurisdiction" : "DPR",
+  "community_board" : "Q06",
+  "size" : "0.108"
+}
+, {
+  "boro" : "B",
+  "address" : "94 - 110 Walton St.",
+  "garden_name" : "Project Roots Garden",
+  "propid" : "B423",
+  "jurisdiction" : "DPR",
+  "community_board" : "B01",
+  "size" : "0.172"
+}
+, {
+  "cross_streets" : "Active",
+  "boro" : "B",
+  "neighborhoodname" : "East New York",
+  "address" : "43-69 Malta Street",
+  "garden_name" : "Prophecy Garden Church of God of Prophecy",
+  "council_district" : "42",
+  "propid" : "B506",
+  "jurisdiction" : "DPR/HPD",
+  "community_board" : "B05",
+  "size" : "0.505"
+}
+, {
+  "cross_streets" : "Active",
+  "boro" : "B",
+  "neighborhoodname" : "Prospect Heights",
+  "address" : "252-256 St. Marks Avenue",
+  "garden_name" : "Prospect Heights Community Farm",
+  "council_district" : "35",
+  "propid" : "B524",
+  "jurisdiction" : "TPL",
+  "community_board" : "B08",
+  "size" : "0.193"
+}
+, {
+  "cross_streets" : "Active",
+  "boro" : "M",
+  "neighborhoodname" : "East Harlem",
+  "address" : "1659 Madison Avenue",
+  "garden_name" : "Pueblo Unido",
+  "council_district" : "9",
+  "propid" : "M384",
+  "jurisdiction" : "DPR",
+  "community_board" : "M11",
+  "size" : "0.054"
+}
+, {
+  "cross_streets" : "Active",
+  "boro" : "X",
+  "neighborhoodname" : "Melrose",
+  "address" : "379 East 159th Street",
+  "garden_name" : "Rainbow Block Association.",
+  "council_district" : "17",
+  "propid" : "X317",
+  "jurisdiction" : "DPR",
+  "community_board" : "X03",
+  "size" : "0.174"
+}
+, {
+  "boro" : "B",
+  "neighborhoodname" : "Brownsville",
+  "address" : "1652-1654 St. John's Place",
+  "garden_name" : "Ralph-Lincoln Service Center",
+  "council_district" : "41",
+  "propid" : "NA",
+  "jurisdiction" : "TPL",
+  "community_board" : "B08",
+  "size" : "0.163"
+}
+, {
+  "cross_streets" : "Active",
+  "boro" : "X",
+  "address" : "Randall Avenue",
+  "garden_name" : "Randall Community Garden (Taylor Soundview Block Association)",
+  "council_district" : "15",
+  "propid" : "X325",
+  "jurisdiction" : "DPR",
+  "community_board" : "X09",
+  "size" : "0.232"
+}
+, {
+  "cross_streets" : "Active",
+  "boro" : "B",
+  "neighborhoodname" : "Bed-Stuy",
+  "address" : "604 Marcy Avenue",
+  "garden_name" : "Red Gate Garden",
+  "council_district" : "36",
+  "propid" : "B488",
+  "jurisdiction" : "DPR",
+  "community_board" : "B03",
+  "size" : "0.086"
+}
+, {
+  "cross_streets" : "Active",
+  "boro" : "B",
+  "neighborhoodname" : "Red Hook",
+  "address" : "558 Columbia Street",
+  "garden_name" : "Red Hook Farm/Added Value",
+  "propid" : "B126B",
+  "jurisdiction" : "DPR",
+  "community_board" : "B07",
+  "size" : "NA"
+}
+, {
+  "cross_streets" : "Active",
+  "boro" : "B",
+  "address" : "Humbolt Street",
+  "garden_name" : "Red Shed Garden (GREC)",
+  "council_district" : "34",
+  "propid" : "B489",
+  "jurisdiction" : "DPR",
+  "community_board" : "B01",
+  "size" : "0.123"
+}
+, {
+  "cross_streets" : "Active",
+  "boro" : "M",
+  "neighborhoodname" : "East Village",
+  "address" : "209 Avenue B",
+  "garden_name" : "Relaxation Garden (Suen Dragon Garden)",
+  "council_district" : "2",
+  "propid" : "M352",
+  "jurisdiction" : "DPR",
+  "community_board" : "M03",
+  "size" : "0.063"
+}
+, {
+  "cross_streets" : "Active",
+  "boro" : "M",
+  "neighborhoodname" : "West Harlem",
+  "address" : "65-67 W. 128th Street",
+  "garden_name" : "Rev. Linnette C. Williamson Memorial Park",
+  "council_district" : "9",
+  "propid" : "M316",
+  "jurisdiction" : "PRI",
+  "community_board" : "M10",
+  "size" : "0.057"
+}
+, {
+  "cross_streets" : "Active",
+  "boro" : "M",
+  "neighborhoodname" : "Inwood",
+  "address" : "1835 Riverside Drive",
+  "garden_name" : "RING Garden - Riverside Inwood Neighborhood Garden",
+  "council_district" : "7",
+  "propid" : "M071B",
+  "jurisdiction" : "DPR",
+  "community_board" : "M12",
+  "size" : "0.115"
+}
+, {
+  "cross_streets" : "Active",
+  "boro" : "X",
+  "address" : "2 East Mosholu Parkway",
+  "garden_name" : "Risse Street Community Garden (Triangle Park)",
+  "council_district" : "15",
+  "propid" : "X335",
+  "jurisdiction" : "DPR",
+  "community_board" : "X07",
+  "size" : "0.694"
+}
+, {
+  "cross_streets" : "Active",
+  "boro" : "X",
+  "neighborhoodname" : "West Farms",
+  "address" : "1086 East 180th Street",
+  "garden_name" : "River Garden",
+  "propid" : "X245",
+  "jurisdiction" : "DPR",
+  "community_board" : "X06",
+  "size" : "0.440"
+}
+, {
+  "cross_streets" : "Active",
+  "boro" : "M",
+  "neighborhoodname" : "Hamilton Heights",
+  "address" : "Riverside Park/138th Street",
+  "garden_name" : "Riverside Valley Community Garden",
+  "council_district" : "0",
+  "propid" : "M072",
+  "jurisdiction" : "DPR",
+  "community_board" : "M09",
+  "size" : "0.115"
+}
+, {
+  "cross_streets" : "Shakespeare Avenue & W 169th St",
+  "boro" : "X",
+  "neighborhoodname" : "Highbridge",
+  "address" : "1272-1280 Shakespeare Avenue",
+  "garden_name" : "Roberto Clemente Community Garden",
+  "council_district" : "16",
+  "propid" : "NA",
+  "jurisdiction" : "TPL",
+  "community_board" : "X04",
+  "size" : "0.254"
+}
+, {
+  "cross_streets" : "Active",
+  "boro" : "M",
+  "neighborhoodname" : "East Harlem",
+  "address" : "437-39 East 114th Street/448-450 East 115th Street",
+  "garden_name" : "Rodale Pleasant Park Community Garden",
+  "council_district" : "8",
+  "propid" : "M375",
+  "jurisdiction" : "NYRP/DPR",
+  "community_board" : "M11",
+  "size" : "0.225"
+}
+, {
+  "boro" : "B",
+  "address" : "2601-2603 Tilden Avenue.",
+  "garden_name" : "Rogers/Tilden/Veronica Place Block Association",
+  "council_district" : "40",
+  "propid" : "NA",
+  "jurisdiction" : "TPL",
+  "community_board" : "B14",
+  "size" : "0.158"
+}
+, {
+  "cross_streets" : "Active",
+  "boro" : "M",
+  "neighborhoodname" : "East Village",
+  "address" : "237 E. 7th Street",
+  "garden_name" : "Sam & Sadie Koenig Garden",
+  "council_district" : "2",
+  "propid" : "M370",
+  "jurisdiction" : "DPR",
+  "community_board" : "M03",
+  "size" : "0.040"
+}
+, {
+  "cross_streets" : "Active",
+  "boro" : "B",
+  "neighborhoodname" : "Coney Island",
+  "address" : "2110 Mermaid Avenue",
+  "garden_name" : "Santos White Garden",
+  "council_district" : "47",
+  "propid" : "B490",
+  "jurisdiction" : "DPR",
+  "community_board" : "B13",
+  "size" : "0.141"
+}
+, {
+  "cross_streets" : "Active",
+  "boro" : "X",
+  "neighborhoodname" : "Morrisania",
+  "address" : "869 E 164th Street",
+  "garden_name" : "Schomburg Satellite Academy H.S.",
+  "council_district" : "17",
+  "propid" : "X332",
+  "jurisdiction" : "DPR",
+  "community_board" : "X02",
+  "size" : "0.032"
+}
+, {
+  "cross_streets" : "B30th & B31st",
+  "boro" : "Q",
+  "neighborhoodname" : "Far Rockaway",
+  "address" : "3003 Seagirt Boulevard.",
+  "garden_name" : "Seagirt Community Garden",
+  "council_district" : "31",
+  "propid" : "NA",
+  "jurisdiction" : "NYRP",
+  "community_board" : "Q14",
+  "size" : "0.138"
+}
+, {
+  "cross_streets" : "Active",
+  "boro" : "B",
+  "address" : "9-11 Rochester Avenue",
+  "garden_name" : "Seasons of Vision",
+  "propid" : "B530",
+  "jurisdiction" : "DPR",
+  "community_board" : "B03",
+  "size" : "0.083"
+}
+, {
+  "cross_streets" : "Active",
+  "boro" : "M",
+  "neighborhoodname" : "East Village",
+  "address" : "293-297 East 4th Street",
+  "garden_name" : "Secret Garden",
+  "council_district" : "1",
+  "propid" : "M332",
+  "jurisdiction" : "DPR",
+  "community_board" : "M03",
+  "size" : "0.050"
+}
+, {
+  "cross_streets" : "Mermaid & Surf Avenues",
+  "boro" : "B",
+  "neighborhoodname" : "Coney Island",
+  "address" : "2917-2923 West 20th Street",
+  "garden_name" : "Senior Citizens Block Association of Mermaid Avenue",
+  "council_district" : "47",
+  "propid" : "NA",
+  "jurisdiction" : "HPD",
+  "community_board" : "B13",
+  "size" : "NA"
+}
+, {
+  "cross_streets" : "Street Nicholas & Amsterdam Avenues",
+  "boro" : "M",
+  "neighborhoodname" : "Hamilton Heights",
+  "address" : "West 153rd Street",
+  "garden_name" : "Senior Citizens Sculpture Garden Park",
+  "council_district" : "7",
+  "propid" : "NA",
+  "jurisdiction" : "DEP",
+  "community_board" : "M09",
+  "size" : "0.406"
+}
+, {
+  "boro" : "M",
+  "neighborhoodname" : "Hamilton Heights",
+  "address" : "522 West 146th Street",
+  "garden_name" : "Serenity Gardens",
+  "council_district" : "7",
+  "propid" : "NA",
+  "jurisdiction" : "TPL",
+  "community_board" : "M09",
+  "size" : "0.091"
+}
+, {
+  "boro" : "B",
+  "neighborhoodname" : "East New York",
+  "address" : "673 Sheffield Avenue",
+  "garden_name" : "Sheffield South Block Association",
+  "council_district" : "42",
+  "propid" : "NA",
+  "jurisdiction" : "TPL",
+  "community_board" : "B05",
+  "size" : "0.087"
+}
+, {
+  "boro" : "X",
+  "address" : "1340 Sheridan Avenue",
+  "garden_name" : "Sheridan Manor Community Garden",
+  "council_district" : "16",
+  "propid" : "NA",
+  "jurisdiction" : "DOE",
+  "community_board" : "X04",
+  "size" : "0.195"
+}
+, {
+  "cross_streets" : "164th & 165th Streets",
+  "boro" : "X",
+  "address" : "953-955 Sherman Avenue",
+  "garden_name" : "Sherman Avenue Community Garden",
+  "council_district" : "16",
+  "propid" : "NA",
+  "jurisdiction" : "TPL",
+  "community_board" : "X04",
+  "size" : "0.110"
+}
+, {
+  "cross_streets" : "Active",
+  "boro" : "B",
+  "neighborhoodname" : "East New York",
+  "address" : "79-85 Montauk Street",
+  "garden_name" : "Shield of Faith",
+  "council_district" : "37",
+  "propid" : "B491",
+  "jurisdiction" : "DPR",
+  "community_board" : "B05",
+  "size" : "0.172"
+}
+, {
+  "cross_streets" : "Active",
+  "boro" : "B",
+  "address" : "323-325 Monroe Street",
+  "garden_name" : "Shiloh Garden Inc.",
+  "council_district" : "36",
+  "propid" : "B502",
+  "jurisdiction" : "DPR",
+  "community_board" : "B03",
+  "size" : "0.074"
+}
+, {
+  "cross_streets" : "Active",
+  "boro" : "B",
+  "neighborhoodname" : "Bed-Stuy",
+  "address" : "2084-90 Pacific Street",
+  "garden_name" : "Shma Yisrael",
+  "council_district" : "41",
+  "propid" : "B476",
+  "jurisdiction" : "DPR",
+  "community_board" : "B16",
+  "size" : "0.145"
+}
+, {
+  "cross_streets" : "Troy & Utica Avenue",
+  "boro" : "B",
+  "address" : "1688-1696 Bergen Street",
+  "garden_name" : "Society for Preservation of Weeksville",
+  "council_district" : "41",
+  "propid" : "NA",
+  "jurisdiction" : "DCA",
+  "community_board" : "B08",
+  "size" : "0.351"
+}
+, {
+  "cross_streets" : "Westchester Avenue & 156th St",
+  "boro" : "X",
+  "neighborhoodname" : "Melrose",
+  "address" : "701 St. Ann's Avenue",
+  "garden_name" : "South Bronx High School - Unity Garden",
+  "council_district" : "17",
+  "propid" : "NA",
+  "jurisdiction" : "DOE",
+  "community_board" : "X01",
+  "size" : "0.023"
+}
+, {
+  "cross_streets" : "Active",
+  "boro" : "B",
+  "neighborhoodname" : "Bed-Stuy",
+  "address" : "230A Spencer Street",
+  "garden_name" : "Spencer Street Community Garden",
+  "council_district" : "34",
+  "propid" : "B519",
+  "jurisdiction" : "DPR",
+  "community_board" : "B03",
+  "size" : "0.043"
+}
+, {
+  "cross_streets" : "Active",
+  "boro" : "X",
+  "address" : "666-68 St. Ann's Avenue",
+  "garden_name" : "St. Anns Block Garden Association",
+  "propid" : "X345",
+  "jurisdiction" : "DPR",
+  "community_board" : "X01",
+  "size" : "0.029"
+}
+, {
+  "cross_streets" : "Active",
+  "boro" : "B",
+  "neighborhoodname" : "East New York",
+  "address" : "476-484 New Jersey Avenue",
+  "garden_name" : "St. John Cantius Parish",
+  "council_district" : "37",
+  "propid" : "B492",
+  "jurisdiction" : "DPR",
+  "community_board" : "B05",
+  "size" : "0.183"
+}
+, {
+  "cross_streets" : "Ralph & Buffalo Avenue",
+  "boro" : "B",
+  "neighborhoodname" : "Brownsville",
+  "address" : "1642 St. John's Place",
+  "garden_name" : "St. Johns Place Renaissance Garden",
+  "council_district" : "41",
+  "propid" : "NA",
+  "jurisdiction" : "TPL",
+  "community_board" : "B08",
+  "size" : "0.089"
+}
+, {
+  "cross_streets" : "Vanderbilt & Carlton Avenues",
+  "boro" : "B",
+  "neighborhoodname" : "Prospect Heights",
+  "address" : "207 St. Marks Avenue",
+  "garden_name" : "St. Marks Avenue/ Prospect Heights Community Garden",
+  "council_district" : "35",
+  "propid" : "NA",
+  "jurisdiction" : "TPL",
+  "community_board" : "B08",
+  "size" : "0.075"
+}
+, {
+  "cross_streets" : "Active",
+  "boro" : "B",
+  "neighborhoodname" : "Brownsville",
+  "address" : "455,457-63 Ralph Avenue",
+  "garden_name" : "St. Marks Block Association",
+  "council_district" : "41",
+  "propid" : "B501",
+  "jurisdiction" : "DPR",
+  "community_board" : "B16",
+  "size" : "0.196"
+}
+, {
+  "cross_streets" : "Active",
+  "boro" : "B",
+  "address" : "213 Madison Street",
+  "garden_name" : "Stars of Hope Community Garden",
+  "council_district" : "36",
+  "propid" : "B503",
+  "jurisdiction" : "DPR",
+  "community_board" : "B03",
+  "size" : "0.033"
+}
+, {
+  "cross_streets" : "Active",
+  "boro" : "B",
+  "neighborhoodname" : "Brownsville",
+  "address" : "1701,1713,1715 Sterling Place",
+  "garden_name" : "Sterling Community Group",
+  "council_district" : "41",
+  "propid" : "B505",
+  "jurisdiction" : "DPR",
+  "community_board" : "B16",
+  "size" : "0.116"
+}
+, {
+  "boro" : "B",
+  "address" : "461 Williams Avenue",
+  "garden_name" : "Success Garden",
+  "propid" : "B383",
+  "jurisdiction" : "DPR",
+  "community_board" : "B05",
+  "size" : "0.918"
+}
+, {
+  "cross_streets" : "Houston & Stanton",
+  "boro" : "M",
+  "neighborhoodname" : "Lower East Side",
+  "address" : "174 Suffolk Street",
+  "garden_name" : "Suffolk Street Community Garden",
+  "council_district" : "2",
+  "propid" : "NA",
+  "jurisdiction" : "NYRP",
+  "community_board" : "M03",
+  "size" : "0.053"
+}
+, {
+  "cross_streets" : "Active",
+  "boro" : "M",
+  "address" : "339-341 Edgecombe Avenue.",
+  "garden_name" : "Sugar Hill Park",
+  "council_district" : "0",
+  "propid" : "M319",
+  "jurisdiction" : "DPR",
+  "community_board" : "M09",
+  "size" : "0.069"
+}
+, {
+  "cross_streets" : "Active",
+  "boro" : "B",
+  "neighborhoodname" : "Red Hook",
+  "address" : "281-283 Columbia Street",
+  "garden_name" : "Summit Street Community Garden",
+  "council_district" : "39",
+  "propid" : "B411",
+  "jurisdiction" : "DPR",
+  "community_board" : "B06",
+  "size" : "0.103"
+}
+, {
+  "cross_streets" : "Active",
+  "boro" : "B",
+  "address" : "182 Sumpter Street",
+  "garden_name" : "Sumpter Community Garden",
+  "council_district" : "41",
+  "propid" : "B525",
+  "jurisdiction" : "DPR",
+  "community_board" : "B03",
+  "size" : "0.057"
+}
+, {
+  "cross_streets" : "Active",
+  "boro" : "B",
+  "neighborhoodname" : "Williamsburg",
+  "address" : "99-100 McKibben Street",
+  "garden_name" : "Sunshine Community Garden",
+  "council_district" : "34",
+  "propid" : "B427",
+  "jurisdiction" : "DPR",
+  "community_board" : "B01",
+  "size" : "0.115"
+}
+, {
+  "cross_streets" : "At W. 29th Street",
+  "boro" : "B",
+  "neighborhoodname" : "Coney Island",
+  "address" : "2829 Surf Avenue",
+  "garden_name" : "Surf Side Garden",
+  "council_district" : "47",
+  "propid" : "NA",
+  "jurisdiction" : "HPD",
+  "community_board" : "B13",
+  "size" : "NA"
+}
+, {
+  "cross_streets" : "Active",
+  "boro" : "X",
+  "neighborhoodname" : "Highbridge",
+  "address" : "90 W 164th Street",
+  "garden_name" : "Taqwa Community Farm",
+  "council_district" : "16",
+  "propid" : "X296",
+  "jurisdiction" : "DPR",
+  "community_board" : "X04",
+  "size" : "0.490"
+}
+, {
+  "cross_streets" : "W 164th & W 165th Streets",
+  "boro" : "X",
+  "neighborhoodname" : "Highbridge",
+  "address" : "1001 Anderson Avenue",
+  "garden_name" : "Target (Bronx) Community Garden (Anderson Avenue Community Garden)",
+  "council_district" : "16",
+  "propid" : "NA",
+  "jurisdiction" : "NYRP",
+  "community_board" : "X04",
+  "size" : "0.253"
+}
+, {
+  "cross_streets" : "DeKalb & Willoughby Avenue",
+  "boro" : "B",
+  "neighborhoodname" : "Bed-Stuy",
+  "address" : "931-933 Bedford Avenue",
+  "garden_name" : "Target (Brooklyn) Community Garden (Bedford Avenue Block Association Garden)",
+  "council_district" : "36",
+  "propid" : "NA",
+  "jurisdiction" : "NYRP",
+  "community_board" : "B03",
+  "size" : "0.092"
+}
+, {
+  "cross_streets" : "1st Avenue & E 117th St",
+  "boro" : "M",
+  "neighborhoodname" : "East Harlem",
+  "address" : "415-421 East 117th Street",
+  "garden_name" : "Target East Harlem Community Garden",
+  "council_district" : "8",
+  "propid" : "NA",
+  "jurisdiction" : "DPR",
+  "community_board" : "M11",
+  "size" : "0.163"
+}
+, {
+  "cross_streets" : "1st & Pleasant Avenues",
+  "boro" : "M",
+  "neighborhoodname" : "East Harlem",
+  "address" : "429-433 East 117th Street",
+  "garden_name" : "Target East Harlem Community Garden (St. Mark's Monastery 2)",
+  "council_district" : "8",
+  "propid" : "NA",
+  "jurisdiction" : "NYRP",
+  "community_board" : "M11",
+  "size" : "0.142"
+}
+, {
+  "cross_streets" : "Active",
+  "boro" : "B",
+  "neighborhoodname" : "East Williamsburg",
+  "address" : "15-17 Ten Eyck Street",
+  "garden_name" : "Ten Eyck Houses HDFC",
+  "council_district" : "34",
+  "propid" : "B445",
+  "jurisdiction" : "DPR",
+  "community_board" : "B01",
+  "size" : "0.114"
+}
+, {
+  "cross_streets" : "Pennsylvania Avenueune",
+  "boro" : "B",
+  "neighborhoodname" : "East New York",
+  "address" : "642-648 Blake Avenue",
+  "garden_name" : "Thomas Jefferson High School",
+  "council_district" : "42",
+  "propid" : "NA",
+  "jurisdiction" : "DOE",
+  "community_board" : "B05",
+  "size" : "0.036"
+}
+, {
+  "cross_streets" : "Active",
+  "boro" : "B",
+  "neighborhoodname" : "East New York",
+  "address" : "271 Glenmore Avenue",
+  "garden_name" : "TLC Sculpture Park",
+  "council_district" : "37",
+  "propid" : "B416",
+  "jurisdiction" : "DPR",
+  "community_board" : "B05",
+  "size" : "0.172"
+}
+, {
+  "cross_streets" : "Active",
+  "boro" : "X",
+  "neighborhoodname" : "Mt. Eden",
+  "address" : "1735 Walton Avenue",
+  "garden_name" : "Townsend Garden (Mt. Hope Housing Co.)",
+  "council_district" : "14",
+  "propid" : "X331",
+  "jurisdiction" : "DPR",
+  "community_board" : "X05",
+  "size" : "0.150"
+}
+, {
+  "cross_streets" : "Avenues B & C",
+  "boro" : "M",
+  "neighborhoodname" : "East Village",
+  "address" : "603 East 11th Street",
+  "garden_name" : "Toyota Childrens Learning Garden (Coradan Evaeden)",
+  "council_district" : "2",
+  "propid" : "NA",
+  "jurisdiction" : "NYRP",
+  "community_board" : "M03",
+  "size" : "0.037"
+}
+, {
+  "boro" : "B",
+  "address" : "267 Throop Ave.",
+  "garden_name" : "Tranquility Farm",
+  "propid" : "NA",
+  "jurisdiction" : "HPD",
+  "community_board" : "B03",
+  "size" : "NA"
+}
+, {
+  "cross_streets" : "E. 178th & LaFontaine Avenue",
+  "boro" : "X",
+  "address" : "S/W/C E. 178th St. & LaFontaine Avenue.",
+  "garden_name" : "Tremont Community Garden",
+  "council_district" : "15",
+  "propid" : "NA",
+  "jurisdiction" : "TPL",
+  "community_board" : "X06",
+  "size" : "0.057"
+}
+, {
+  "cross_streets" : "Active",
+  "boro" : "B",
+  "neighborhoodname" : "East New York",
+  "address" : "613 Hendrix Street",
+  "garden_name" : "Triple R/Relaxation, Reflection, Revenue (Victoria Garden)",
+  "council_district" : "0",
+  "propid" : "B496",
+  "jurisdiction" : "DPR",
+  "community_board" : "B05",
+  "size" : "NA"
+}
+, {
+  "cross_streets" : "Active",
+  "boro" : "Q",
+  "address" : "30th Avenue & Main Avenue & Astoria Boulevard",
+  "garden_name" : "Two Coves Garden",
+  "council_district" : "0",
+  "propid" : "Q477A",
+  "jurisdiction" : "DPR",
+  "community_board" : "Q01",
+  "size" : "0.770"
+}
+, {
+  "boro" : "B",
+  "address" : "285 - 303 New Lots Avenue",
+  "garden_name" : "United Community Centers Site I",
+  "propid" : "B515",
+  "jurisdiction" : "DPR",
+  "community_board" : "B05",
+  "size" : "0.546"
+}
+, {
+  "cross_streets" : "Nostrand & Bedford Avenue",
+  "boro" : "B",
+  "address" : "97 Herkimer Street",
+  "garden_name" : "United Herkimer Garden Club",
+  "council_district" : "36",
+  "propid" : "NA",
+  "jurisdiction" : "TPL",
+  "community_board" : "B03",
+  "size" : "0.055"
+}
+, {
+  "cross_streets" : "Active",
+  "boro" : "M",
+  "neighborhoodname" : "West Harlem",
+  "address" : "53-55 West 128th Street",
+  "garden_name" : "Unity Garden",
+  "council_district" : "21",
+  "propid" : "M298",
+  "jurisdiction" : "DPR",
+  "community_board" : "M10",
+  "size" : "0.129"
+}
+, {
+  "cross_streets" : "W 20th St",
+  "boro" : "B",
+  "neighborhoodname" : "Coney Island",
+  "address" : "1917-23 Surf Avenue",
+  "garden_name" : "Unity Tower Tenant Association",
+  "council_district" : "47",
+  "propid" : "NA",
+  "jurisdiction" : "HPD",
+  "community_board" : "B13",
+  "size" : "0.210"
+}
+, {
+  "cross_streets" : "Active",
+  "boro" : "B",
+  "neighborhoodname" : "East New York",
+  "address" : "2556 Pitkin Avenue.",
+  "garden_name" : "Upon This Rock Community Garden",
+  "council_district" : "37",
+  "propid" : "B493",
+  "jurisdiction" : "DPR",
+  "community_board" : "B05",
+  "size" : "0.081"
+}
+, {
+  "cross_streets" : "Active",
+  "boro" : "M",
+  "address" : "198 Avenue B",
+  "garden_name" : "Vamos Sembrar: For the Beloved and Otherwise Forgotten",
+  "council_district" : "0",
+  "propid" : "M343",
+  "jurisdiction" : "DPR",
+  "community_board" : "M03",
+  "size" : "0.023"
+}
+, {
+  "boro" : "B",
+  "address" : "49 Van Buren Street",
+  "garden_name" : "Van Buren Street Garden",
+  "propid" : "NA",
+  "jurisdiction" : "HPD",
+  "community_board" : "B03",
+  "size" : "NA"
+}
+, {
+  "cross_streets" : "Active",
+  "boro" : "B",
+  "neighborhoodname" : "Bed-Stuy",
+  "address" : "253 Throop Avenue",
+  "garden_name" : "Vernon (Throop Avenue Block Assoc.)",
+  "council_district" : "34",
+  "propid" : "B495",
+  "jurisdiction" : "DPR",
+  "community_board" : "B03",
+  "size" : "0.039"
+}
+, {
+  "cross_streets" : "Active",
+  "boro" : "B",
+  "neighborhoodname" : "Bed-Stuy",
+  "address" : "42-48 Vernon Avenue",
+  "garden_name" : "Vernon New Harvest",
+  "council_district" : "36",
+  "propid" : "B508",
+  "jurisdiction" : "DPR",
+  "community_board" : "B03",
+  "size" : "0.165"
+}
+, {
+  "cross_streets" : "Active",
+  "boro" : "B",
+  "neighborhoodname" : "Bed-Stuy",
+  "address" : "200 Vernon Ave.",
+  "garden_name" : "Vernon T&T Block Assoc.",
+  "council_district" : "34",
+  "propid" : "B494",
+  "jurisdiction" : "DPR",
+  "community_board" : "B03",
+  "size" : "0.046"
+}
+, {
+  "cross_streets" : "Active",
+  "boro" : "B",
+  "neighborhoodname" : "Coney Island",
+  "address" : "Shell Road",
+  "garden_name" : "Victory Garden",
+  "council_district" : "47",
+  "propid" : "B523",
+  "jurisdiction" : "DPR/DEP",
+  "community_board" : "B13",
+  "size" : "0.174"
+}
+, {
+  "cross_streets" : "Active",
+  "boro" : "X",
+  "address" : "Fulton Avenue / 171 St / Crotona Park South",
+  "garden_name" : "Victory Garden - Crotona Park",
+  "council_district" : "20",
+  "propid" : "X010C",
+  "jurisdiction" : "DPR",
+  "community_board" : "X03",
+  "size" : "0.463"
+}
+, {
+  "boro" : "B",
+  "address" : "953 Gates Avenue",
+  "garden_name" : "Victory Gardens Group",
+  "propid" : "B518",
+  "jurisdiction" : "DPR",
+  "community_board" : "B03",
+  "size" : "0.152"
+}
+, {
+  "cross_streets" : "Park & Madison Avenues",
+  "boro" : "M",
+  "neighborhoodname" : "East Harlem",
+  "address" : "74 E. 112th Street",
+  "garden_name" : "Villa Santurce Jardinera - 112th Street",
+  "council_district" : "9",
+  "propid" : "NA",
+  "jurisdiction" : "HPD",
+  "community_board" : "M11",
+  "size" : "0.045"
+}
+, {
+  "cross_streets" : "111th & 112th Streets",
+  "boro" : "M",
+  "neighborhoodname" : "East Harlem",
+  "address" : "Park Avenue",
+  "garden_name" : "Villa Santurce Jardineras - Park Avenue",
+  "council_district" : "9",
+  "propid" : "NA",
+  "jurisdiction" : "HPD",
+  "community_board" : "M11",
+  "size" : "0.090"
+}
+, {
+  "cross_streets" : "Active",
+  "boro" : "X",
+  "neighborhoodname" : "Melrose",
+  "address" : "431 E. 156th Street",
+  "garden_name" : "Vogue Community Garden",
+  "council_district" : "17",
+  "propid" : "X347",
+  "jurisdiction" : "DPR",
+  "community_board" : "X01",
+  "size" : "0.047"
+}
+, {
+  "cross_streets" : "Active",
+  "boro" : "B",
+  "neighborhoodname" : "Crown Heights",
+  "address" : "1093-1095 Dean Street",
+  "garden_name" : "Walt L. Shamal Community Garden",
+  "council_district" : "35",
+  "propid" : "B456",
+  "jurisdiction" : "DPR",
+  "community_board" : "B08",
+  "size" : "0.149"
+}
+, {
+  "cross_streets" : "Strong & 196th Street",
+  "boro" : "X",
+  "neighborhoodname" : "Kingsbridge Heights",
+  "address" : "2780 Reservoir Avenue",
+  "garden_name" : "Walton High School",
+  "council_district" : "11",
+  "propid" : "NA",
+  "jurisdiction" : "DOE",
+  "community_board" : "X07",
+  "size" : "0.046"
+}
+, {
+  "cross_streets" : "Active",
+  "boro" : "X",
+  "address" : "460-464 E. 136th Street",
+  "garden_name" : "Wanaqua Garden",
+  "council_district" : "8",
+  "propid" : "X272A",
+  "jurisdiction" : "DPR",
+  "community_board" : "X01",
+  "size" : "0.228"
+}
+, {
+  "cross_streets" : "b/w 4th & 5th avenue",
+  "boro" : "B",
+  "neighborhoodname" : "Park Slope",
+  "address" : "623 Warren Street",
+  "garden_name" : "Warren-St.Marks Community Garden",
+  "council_district" : "38",
+  "propid" : "NA",
+  "jurisdiction" : "TPL",
+  "community_board" : "B06",
+  "size" : "0.057"
+}
+, {
+  "cross_streets" : "Active",
+  "boro" : "X",
+  "neighborhoodname" : "Soundview",
+  "address" : "2008 Gildersleeve Avenue",
+  "garden_name" : "Waterfront Community Garden",
+  "council_district" : "18",
+  "propid" : "X088A",
+  "jurisdiction" : "DPR",
+  "community_board" : "X09",
+  "size" : "0.270"
+}
+, {
+  "cross_streets" : "Developed",
+  "boro" : "B",
+  "neighborhoodname" : "Bed-Stuy",
+  "address" : "681 Halsey Street",
+  "garden_name" : "Welcome Home Garden",
+  "council_district" : "36",
+  "propid" : "B538",
+  "jurisdiction" : "DPR",
+  "community_board" : "B03",
+  "size" : "0.059"
+}
+, {
+  "cross_streets" : "Active",
+  "boro" : "M",
+  "neighborhoodname" : "Upper West Side",
+  "address" : "6-10 W. 104th Street/ 14-18 W. 104th Street",
+  "garden_name" : "West 104th Street Garden",
+  "council_district" : "8",
+  "propid" : "M306",
+  "jurisdiction" : "DPR",
+  "community_board" : "M07",
+  "size" : "0.380"
+}
+, {
+  "cross_streets" : "Active",
+  "boro" : "M",
+  "neighborhoodname" : "Upper West Side",
+  "address" : "1036-53 Amsterdam Avenue",
+  "garden_name" : "West 111th Street People's Garden",
+  "council_district" : "9",
+  "propid" : "M368",
+  "jurisdiction" : "DPR",
+  "community_board" : "M09",
+  "size" : "0.109"
+}
+, {
+  "cross_streets" : "Active",
+  "boro" : "M",
+  "address" : "West 124th Street and 5th Avenue",
+  "garden_name" : "West 124th Street Community Garden",
+  "council_district" : "9",
+  "propid" : "M362",
+  "jurisdiction" : "DPR",
+  "community_board" : "M10",
+  "size" : "0.046"
+}
+, {
+  "cross_streets" : "Active",
+  "boro" : "M",
+  "neighborhoodname" : "Harlem",
+  "address" : "34 West 131st Street",
+  "garden_name" : "West 131st Street Community Garden",
+  "propid" : "M380",
+  "jurisdiction" : "DPR",
+  "community_board" : "M10",
+  "size" : "NA"
+}
+, {
+  "cross_streets" : "Active",
+  "boro" : "M",
+  "neighborhoodname" : "Central Harlem",
+  "address" : "108-114 W. 132nd Street",
+  "garden_name" : "West 132nd Street Garden",
+  "council_district" : "9",
+  "propid" : "M296",
+  "jurisdiction" : "DPR",
+  "community_board" : "M10",
+  "size" : "0.171"
+}
+, {
+  "cross_streets" : "Pinehurst/181st",
+  "boro" : "M",
+  "neighborhoodname" : "Washington Heights",
+  "address" : "814 West 181st Street",
+  "garden_name" : "West 181st Street Beautification Project",
+  "council_district" : "7",
+  "propid" : "NA",
+  "jurisdiction" : "DOT",
+  "community_board" : "M12",
+  "size" : "0.046"
+}
+, {
+  "cross_streets" : "Active",
+  "boro" : "M",
+  "neighborhoodname" : "Upper West Side",
+  "address" : "55-57 West 87th Street",
+  "garden_name" : "West 87th Street Park & Garden",
+  "council_district" : "6",
+  "propid" : "M307",
+  "jurisdiction" : "DPR",
+  "community_board" : "M07",
+  "size" : "0.090"
+}
+, {
+  "cross_streets" : "Bedford & Nostrand Avenues",
+  "boro" : "B",
+  "neighborhoodname" : "Crown Heights",
+  "address" : "1233 Pacific Street",
+  "garden_name" : "Westbrook Memorial Garden",
+  "council_district" : "36",
+  "propid" : "NA",
+  "jurisdiction" : "TPL",
+  "community_board" : "B08",
+  "size" : "0.118"
+}
+, {
+  "cross_streets" : "At Curtis Pl near Hamilton Avenue",
+  "boro" : "R",
+  "address" : "143 Westervelt Avenue",
+  "garden_name" : "Westervelt Community & Family Garden",
+  "council_district" : "49",
+  "propid" : "NA",
+  "jurisdiction" : "NYRP",
+  "community_board" : "R01",
+  "size" : "0.011"
+}
+, {
+  "cross_streets" : "Active",
+  "boro" : "M",
+  "address" : "NWC of 153rd St & St. Nicholas",
+  "garden_name" : "William A. Harris Garden",
+  "council_district" : "7",
+  "propid" : "M322",
+  "jurisdiction" : "DPR",
+  "community_board" : "M09",
+  "size" : "NA"
+}
+, {
+  "cross_streets" : "Active",
+  "boro" : "M",
+  "address" : "321-325 West 126th Street",
+  "garden_name" : "William B. Washington Memorial Garden",
+  "council_district" : "9",
+  "propid" : "M328",
+  "jurisdiction" : "DPR",
+  "community_board" : "M10",
+  "size" : "0.090"
+}
+, {
+  "cross_streets" : "Liberty & Atlantic",
+  "boro" : "B",
+  "address" : "88 Williams Avenuenue",
+  "garden_name" : "Williams Avenue Community Garden (formerly Shaw Block Association)",
+  "council_district" : "37",
+  "propid" : "NA",
+  "jurisdiction" : "NYRP",
+  "community_board" : "B05",
+  "size" : "0.126"
+}
+, {
+  "cross_streets" : "Active",
+  "boro" : "X",
+  "address" : "886 Reverend James A. Polite",
+  "garden_name" : "Wishing Well Garden",
+  "propid" : "X164A",
+  "jurisdiction" : "DPR",
+  "community_board" : "X02",
+  "size" : "0.351"
+}
+, {
+  "boro" : "B",
+  "address" : "146 Woodbine Street",
+  "garden_name" : "Woodbine St. Block Assoc.",
+  "council_district" : "34",
+  "propid" : "NA",
+  "jurisdiction" : "TPL",
+  "community_board" : "BK4",
+  "size" : "0.057"
+}
+, {
+  "cross_streets" : "Active",
+  "boro" : "X",
+  "neighborhoodname" : "Highbridge",
+  "address" : "949 Woodycrest Avenue",
+  "garden_name" : "Woodycrest Community Garden",
+  "council_district" : "16",
+  "propid" : "X333",
+  "jurisdiction" : "DPR",
+  "community_board" : "X04",
+  "size" : "0.012"
+}
+ ]
