@@ -1,0 +1,2 @@
+class NumberOfParksController < ApplicationController
+end

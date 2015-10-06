@@ -1,0 +1,2 @@
+class LatitudesController < ApplicationController
+end
