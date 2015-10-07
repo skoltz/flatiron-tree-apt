@@ -1,12 +1,11 @@
 class CreateGreenthumbs < ActiveRecord::Migration
   def change
     create_table :greenthumbs do |t|
+      t.text :garden_name
       t.text :address
-      t.decimal :size
+      t.decimal :size, :precision => 3, :scale => 3
       t.decimal :longitude
       t.decimal :latitude
-
-      t.timestamps null: false
     end
   end
 end
