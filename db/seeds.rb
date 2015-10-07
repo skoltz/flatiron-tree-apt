@@ -10,5 +10,11 @@
 green_json = File.read('greenthumb_community_garden.json')
 green = JSON.parse(green_json)
 green.each do |garden|
-	Greenthumb.create(garden_name: garden['garden_name'], address: garden['address'], size: garden['size'])
+	borough = "Brooklyn" if garden['boro'] == "B" 
+	borough = "Queens" if garden['boro'] == "Q" 
+	borough = "New York" if garden['boro'] == "M" 
+	borough = "Bronx" if garden['boro'] == "X" 
+	borough = "Staten Island" if garden['boro'] == "R" 
+
+	Greenthumb.create(garden_name: garden['garden_name'], address: garden['address'], boro: borough, size: garden['size'])
 end

@@ -3,6 +3,7 @@ class CreateGreenthumbs < ActiveRecord::Migration
     create_table :greenthumbs do |t|
       t.text :garden_name
       t.text :address
+      t.text :boro
       t.decimal :size, :precision => 3, :scale => 3
       t.decimal :longitude
       t.decimal :latitude
