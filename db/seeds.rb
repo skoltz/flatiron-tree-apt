@@ -12,3 +12,8 @@ green = JSON.parse(green_json)
 green.each do |garden|
 	Greenthumb.create(garden_name: garden['garden_name'], address: garden['address'], size: garden['size'])
 end
+
+file = Nokogiri::XML(File.open('park.txt'))
+file.css('description').each_with_index do |e, index|
+	Park.create(park: e.text.split('span')[-14].split('>')[1].gsub('</', ''), longitude: file.css('LookAt')[index+1].css('longitude').text.to_f, latitude: file.css('LookAt')[index+1].css('latitude').text.to_f)
+end

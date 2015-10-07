@@ -11,7 +11,13 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20151006174356) do
+ActiveRecord::Schema.define(version: 20151007154442) do
+
+  create_table "addresses", force: :cascade do |t|
+    t.integer  "address"
+    t.datetime "created_at", null: false
+    t.datetime "updated_at", null: false
+  end
 
   create_table "greenthumbs", force: :cascade do |t|
     t.text    "garden_name"
@@ -34,6 +40,14 @@ ActiveRecord::Schema.define(version: 20151006174356) do
   create_table "number_of_parks", force: :cascade do |t|
     t.datetime "created_at", null: false
     t.datetime "updated_at", null: false
+  end
+
+  create_table "parks", force: :cascade do |t|
+    t.string   "park"
+    t.decimal  "longitude",  precision: 10, scale: 6
+    t.decimal  "latitude",   precision: 10, scale: 6
+    t.datetime "created_at",                          null: false
+    t.datetime "updated_at",                          null: false
   end
 
 end
