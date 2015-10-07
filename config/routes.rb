@@ -1,5 +1,8 @@
 Rails.application.routes.draw do
+
   resources :addresses
+
+  resources :greenthumbs
 
   resources :number_of_parks
 

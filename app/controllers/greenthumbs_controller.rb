@@ -1,0 +1,4 @@
+class GreenthumbsController < ApplicationController
+
+
+end
