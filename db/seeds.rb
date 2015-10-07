@@ -7,6 +7,8 @@
 #   cities = City.create([{ name: 'Chicago' }, { name: 'Copenhagen' }])
 #   Mayor.create(name: 'Emanuel', city: cities.first)
 
+require 'open-uri'
+
 green_json = File.read('greenthumb_community_garden.json')
 green = JSON.parse(green_json)
 green.each do |garden|
@@ -15,6 +17,12 @@ green.each do |garden|
 	borough = "New York" if garden['boro'] == "M" 
 	borough = "Bronx" if garden['boro'] == "X" 
 	borough = "Staten Island" if garden['boro'] == "R" 
-
-	Greenthumb.create(garden_name: garden['garden_name'], address: garden['address'], boro: borough, size: garden['size'])
+	begin 
+	finding_lat_long_json = JSON.parse(open("https://maps.googleapis.com/maps/api/geocode/json?address=#{garden["address"]},+NY&key=AIzaSyAep5zTHdPGQLHp6LCt8w72WOx1q1j-NU0").read)
+	Greenthumb.create(garden_name: garden['garden_name'], address: garden['address'], boro: borough, size: garden['size'], latitude: finding_lat_long_json['results'][0]['geometry']['location']['lat'], longitude: finding_lat_long_json['results'][0]['geometry']['location']['lng'])
+	rescue
+		next
+	end
 end
+
+
