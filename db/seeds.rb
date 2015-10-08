@@ -17,12 +17,9 @@ green.each do |garden|
 	borough = "New York" if garden['boro'] == "M" 
 	borough = "Bronx" if garden['boro'] == "X" 
 	borough = "Staten Island" if garden['boro'] == "R" 
-	begin 
-	finding_lat_long_json = JSON.parse(open("https://maps.googleapis.com/maps/api/geocode/json?address=#{garden["address"]},+NY&key=AIzaSyAep5zTHdPGQLHp6LCt8w72WOx1q1j-NU0").read)
-	Greenthumb.create(garden_name: garden['garden_name'], address: garden['address'], boro: borough, size: garden['size'], latitude: finding_lat_long_json['results'][0]['geometry']['location']['lat'], longitude: finding_lat_long_json['results'][0]['geometry']['location']['lng'])
-	rescue
-		next
-	end
+	# finding_lat_long_json = JSON.parse(open("https://maps.googleapis.com/maps/api/geocode/json?address=#{garden["address"]},+NY&key=AIzaSyAep5zTHdPGQLHp6LCt8w72WOx1q1j-NU0").read)
+	# , latitude: finding_lat_long_json['results'][0]['geometry']['location']['lat'], longitude: finding_lat_long_json['results'][0]['geometry']['location']['lng']
+	Greenthumb.create(garden_name: garden['garden_name'], address: garden['address'], boro: borough, size: garden['size'], latitude: finding_lat_long_json['results'][0]['geometry']['location']['lat'])
 end
 
 file = Nokogiri::XML(File.open('park.txt'))

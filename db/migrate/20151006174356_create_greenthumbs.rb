@@ -5,8 +5,8 @@ class CreateGreenthumbs < ActiveRecord::Migration
       t.text :address
       t.text :boro
       t.decimal :size, :precision => 3, :scale => 3
-      t.decimal :longitude
-      t.decimal :latitude
+      t.float :longitude
+      t.float :latitude
     end
   end
 end

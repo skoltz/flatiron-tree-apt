@@ -24,8 +24,8 @@ ActiveRecord::Schema.define(version: 20151007154442) do
     t.text    "address"
     t.text    "boro"
     t.decimal "size",        precision: 3, scale: 3
-    t.decimal "longitude"
-    t.decimal "latitude"
+    t.float   "longitude"
+    t.float   "latitude"
   end
 
   create_table "latitudes", force: :cascade do |t|
@@ -38,17 +38,12 @@ ActiveRecord::Schema.define(version: 20151007154442) do
     t.datetime "updated_at", null: false
   end
 
-  create_table "number_of_parks", force: :cascade do |t|
-    t.datetime "created_at", null: false
-    t.datetime "updated_at", null: false
-  end
-
   create_table "parks", force: :cascade do |t|
     t.string   "park"
-    t.decimal  "longitude"
-    t.decimal  "latitude"
-    t.datetime "created_at", null: false
-    t.datetime "updated_at", null: false
+    t.decimal  "longitude",  precision: 10, scale: 6
+    t.decimal  "latitude",   precision: 10, scale: 6
+    t.datetime "created_at",                          null: false
+    t.datetime "updated_at",                          null: false
   end
 
 end
