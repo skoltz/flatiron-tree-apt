@@ -22,6 +22,7 @@ ActiveRecord::Schema.define(version: 20151007154442) do
   create_table "greenthumbs", force: :cascade do |t|
     t.text    "garden_name"
     t.text    "address"
+    t.text    "boro"
     t.decimal "size",        precision: 3, scale: 3
     t.decimal "longitude"
     t.decimal "latitude"
@@ -46,8 +47,8 @@ ActiveRecord::Schema.define(version: 20151007154442) do
     t.string   "park"
     t.decimal  "longitude",  precision: 10, scale: 6
     t.decimal  "latitude",   precision: 10, scale: 6
-    t.datetime "created_at",                          null: false
-    t.datetime "updated_at",                          null: false
+    t.datetime "created_at", null: false
+    t.datetime "updated_at", null: false
   end
 
 end
