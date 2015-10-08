@@ -1,14 +1,20 @@
 require 'geocoder'
 require 'pry'
-
+require 'geocoder'
 class HomeController < ApplicationController
 	def search 
 	
 	end
+	def search_fewer
+
+	end
 
 	def home 
 		 user = Geocoder.coordinates(params['search'])
-		 e = Greenthumb.near(user, 3)
+		 r = params['radius']
+		 @e = Greenthumb.near(user, r)
+
+
 		 binding.pry
 
 		# green_json = File.read('greenthumb_community_garden.json')
