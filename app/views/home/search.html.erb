@@ -1,11 +1,11 @@
 <h1> BOSS </h1>
 
 <%= form_tag('/home', method: "get") do %> 	
-	<%= label_tag(:address, 'Address') %>
-	<%= text_field_tag :search, params[:search] %> <br>
-
 	<%= label_tag(:distance, 'Radius') %>
-	<%= text_field_tag :radius, params[:radius] %>
+	<%= text_field_tag :radius, params[:radius] %></br>
+
+	<%= label_tag(:address, 'Leave Blank For Your Address or Enter One:') %>
+	<%= text_field_tag :search, params[:search] %> </br>
 
 	<%= submit_tag "Search" %>
 	<% end %> 

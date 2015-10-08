@@ -15,9 +15,25 @@ class HomeController < ApplicationController
 	def home 
 
 
-		lat_lng = JSON.parse(open("http://www.mapquestapi.com/geocoding/v1/address?key=awagdUn5fGclI4HKLxCsf1kiGYGptGQM&location=#{params[:search]}").read)["results"][0]["locations"][0]["latLng"]
+		local_location = request.location 
+		@user = params['search']
+		if @user == ""
+			if local_location.latitude == 0
+				@user = "25 Chapel Street, Brooklyn, NY"
+			else
+				@user = local_location
+			end
+		end
+
+		lat_lng = JSON.parse(open("http://www.mapquestapi.com/geocoding/v1/address?key=awagdUn5fGclI4HKLxCsf1kiGYGptGQM&location=#{@user}").read)["results"][0]["locations"][0]["latLng"]
 		session[:latlng] = lat_lng["lat"], lat_lng["lng"]
-		radius ||= params['radius']
+		
+		if params['radius'] == ""
+			radius = 1
+		else
+			radius = params['radius']
+		end
+
 		@parks = Park.near([lat_lng["lat"], lat_lng["lng"]], radius)
 		@gardens = Greenthumb.near([lat_lng["lat"], lat_lng["lng"]], radius)
 
