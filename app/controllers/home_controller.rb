@@ -10,12 +10,15 @@ class HomeController < ApplicationController
 	end
 
 	def home 
-		 user = Geocoder.coordinates(params['search'])
-		 r = params['radius']
-		 @e = Greenthumb.near(user, r)
 
 
-		 binding.pry
+		lat_lng = JSON.parse(open("http://www.mapquestapi.com/geocoding/v1/address?key=awagdUn5fGclI4HKLxCsf1kiGYGptGQM&location=#{params[:search]}").read)["results"][0]["locations"][0]["latLng"]
+
+		radius ||= params['radius']
+		@parks = Park.near([lat_lng["lat"], lat_lng["lng"]], radius)
+		@gardens = Greenthumb.near([lat_lng["lat"], lat_lng["lng"]], radius)
+
+		binding.pry
 
 		# green_json = File.read('greenthumb_community_garden.json')
 		# green = JSON.parse(green_json)
@@ -28,8 +31,6 @@ class HomeController < ApplicationController
 		# 	array << garden if d < 3
 		# end
 		# binding.pry
-
-
 	end
 
 	def trump
