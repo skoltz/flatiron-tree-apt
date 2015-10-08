@@ -1,6 +1,8 @@
 require 'geocoder'
 require 'pry'
 require 'geocoder'
+require 'JSON'
+require 'open-uri'
 class HomeController < ApplicationController
 	def search 
 	
@@ -18,7 +20,9 @@ class HomeController < ApplicationController
 		@parks = Park.near([lat_lng["lat"], lat_lng["lng"]], radius)
 		@gardens = Greenthumb.near([lat_lng["lat"], lat_lng["lng"]], radius)
 
-		binding.pry
+		user = params['search']
+
+
 
 		# green_json = File.read('greenthumb_community_garden.json')
 		# green = JSON.parse(green_json)
