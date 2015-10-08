@@ -17,6 +17,7 @@ class HomeController < ApplicationController
 		session[:latlng] = lat_lng["lat"], lat_lng["lng"]
 		radius ||= params['radius']
 		@parks = Park.near([lat_lng["lat"], lat_lng["lng"]], radius)
+		session[:parks] = ''
 		@gardens = Greenthumb.near([lat_lng["lat"], lat_lng["lng"]], radius)
 
 		# green_json = File.read('greenthumb_community_garden.json')
