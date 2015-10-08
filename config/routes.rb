@@ -1,5 +1,12 @@
 Rails.application.routes.draw do
 
+  root 'home#search'
+
+  get '/home' => 'home#home'
+
+
+  # resources :home 
+
   resources :addresses
 
   resources :greenthumbs

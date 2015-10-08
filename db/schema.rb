@@ -45,10 +45,10 @@ ActiveRecord::Schema.define(version: 20151007154442) do
 
   create_table "parks", force: :cascade do |t|
     t.string   "park"
-    t.decimal  "longitude",  precision: 10, scale: 6
-    t.decimal  "latitude",   precision: 10, scale: 6
-    t.datetime "created_at",                          null: false
-    t.datetime "updated_at",                          null: false
+    t.decimal  "longitude"
+    t.decimal  "latitude"
+    t.datetime "created_at", null: false
+    t.datetime "updated_at", null: false
   end
 
 end
