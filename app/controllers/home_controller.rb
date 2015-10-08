@@ -1,5 +1,6 @@
 require 'geocoder'
 require 'pry'
+require 'open-uri'
 
 class HomeController < ApplicationController
 	def search 
@@ -27,6 +28,8 @@ class HomeController < ApplicationController
 		# 	array << garden if d < 3
 		# end
 		# binding.pry
+
+
 	end
 
 	def trump
