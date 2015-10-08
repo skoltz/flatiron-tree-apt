@@ -4,3 +4,14 @@
 <h4> you're near <%= @gardens.size%> gardens. that's abuncha gardens </h4> 
 
 <h1> and <%= @parks.size%> parks!%>
+=======
+<h4> you're near <%= @gardens.size %> gardens. that's abuncha gardens </h4> 
+
+<h1> and <%= @parks.size %> parks: </h1>
+<ol>
+	<% @parks.each do |park| %>
+	<li><%=park.park%></li>: <%= park.address %>
+	<% end %>
+</ol>
+
+<div id="googleMap" style="width:700px;height:380px;"></div>
