@@ -1,17 +1,21 @@
 require 'geocoder'
 require 'pry'
 require 'open-uri'
-
+require 'geocoder'
 class HomeController < ApplicationController
 	def search 
 	
 	end
+	def search_fewer
+
+	end
 
 	def home 
 
+
 		lat_lng = JSON.parse(open("http://www.mapquestapi.com/geocoding/v1/address?key=awagdUn5fGclI4HKLxCsf1kiGYGptGQM&location=#{params[:search]}").read)["results"][0]["locations"][0]["latLng"]
 
-		radius ||= 3
+		radius ||= params['radius']
 		@parks = Park.near([lat_lng["lat"], lat_lng["lng"]], radius)
 		@gardens = Greenthumb.near([lat_lng["lat"], lat_lng["lng"]], radius)
 
