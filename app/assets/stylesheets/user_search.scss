@@ -10,4 +10,11 @@ body {
     text-align: center;
     ol { display:inline-table;
     }
+
+    .center {
+    margin: auto;
+    width: 60%;
+    border:3px solid #8AC007;
+    padding: 10px;
+}
 }
