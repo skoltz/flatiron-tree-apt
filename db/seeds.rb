@@ -27,3 +27,18 @@ file.css('description').each_with_index do |e, index|
 	Park.create(park: e.text.split('span')[-14].split('>')[1].gsub('</', ''), longitude: file.css('LookAt')[index+1].css('longitude').text.to_f, latitude: file.css('LookAt')[index+1].css('latitude').text.to_f)
 end
 
+file = Nokogiri::XML(open("http://www.nycgovparks.org/bigapps/DPR_RunningTracks_001.xml"))
+file.css('facility').each do |e|
+	RunningTrack.create(name: e.css('Name').text, size: e.css('Size').text.to_f, location: e.css('Location').text, latitude: e.css('lat').text.to_f, longitude: e.css('lon').text.to_f)
+end
+
+file = JSON.parse(open("https://data.cityofnewyork.us/api/views/jd4g-ks2z/rows.json?accessType=DOWNLOAD").read)
+file["data"].each do |e|
+	Wifi.create(boro: e[9], wifi_type: e[10], provider: e[11], name: e[12], latitude: e[14].to_f, longitude: e[15].to_f, location_t: e[18], city: e[20], ssid: e[21])
+end
+
+
+
+
+
+

@@ -1,0 +1,21 @@
+
+// Place all the styles related to the user_search controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+body {
+    background-image: url("http://3.bp.blogspot.com/-twGb5CpYy1Y/UPUVtzb9iJI/AAAAAAAAAA8/_uMNLNFNy_w/s1600/cool+backgrounds+for+microsoft+powerpoint.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    margin-right: 200px;
+    text-align: center;
+    ol { display:inline-table;
+    }
+
+    .center {
+    margin: auto;
+    width: 60%;
+    border:3px solid #8AC007;
+    padding: 10px;
+}
+}

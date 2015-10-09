@@ -24,7 +24,6 @@
 <script>
 function initialize() {
 	var bounds = new google.maps.LatLngBounds();
-
 	var myCenter = new google.maps.LatLng(<%=@lat_lng["lat"]%>, <%=@lat_lng["lng"]%>);
 
   	var mapProp = {
@@ -38,23 +37,35 @@ function initialize() {
 
 	var marker = new google.maps.Marker({
   		position: myCenter,
+  		map: map
   	});
 
-	marker.setMap(map);
 
 	<%@parks.each_with_index do |park, index| %>
 		var marker=new google.maps.Marker({
-			
+
   			position:{lat:<%=park.latitude%>, lng: <%=park.longitude%>},
+  			icon: 'http://google.com/mapfiles/ms/micons/green-dot.png',
+  			map: map
   			// label: "<%=index+1%>"
   			// animation:google.maps.Animation.BOUNCE
  		 });
-		marker.setMap(map);
+	<% end %>
+
+	<%@gardens.each_with_index do |garden, index| %>
+		var marker=new google.maps.Marker({
+
+  			position:{lat:<%=garden.latitude%>, lng: <%=garden.longitude%>},
+  			icon: 'http://google.com/mapfiles/ms/micons/blue-dot.png',
+  			map: map
+  			// label: "<%=index+1%>"
+  			// animation:google.maps.Animation.BOUNCE
+ 		 });
 	<% end %>
 	}
 
 google.maps.event.addDomListener(window, 'load', initialize);
 </script>
 
-<div id="googleMap" style="width:700px;height:380px;align:center"></div>
 
+<div class="center" id="googleMap" style="width:700px;height:380px;align:center"></div>
