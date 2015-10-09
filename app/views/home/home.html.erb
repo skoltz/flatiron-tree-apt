@@ -41,10 +41,10 @@ function initialize() {
  		 });
 	<% end %>
 
-	<%@gardens.each_with_index do |park, index| %>
+	<%@gardens.each_with_index do |garden, index| %>
 		var marker=new google.maps.Marker({
 
-  			position:{lat:<%=park.latitude%>, lng: <%=park.longitude%>},
+  			position:{lat:<%=garden.latitude%>, lng: <%=garden.longitude%>},
   			icon: 'http://google.com/mapfiles/ms/micons/blue-dot.png',
   			map: map
   			// label: "<%=index+1%>"
