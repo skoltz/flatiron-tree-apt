@@ -25,8 +25,8 @@ class HomeController < ApplicationController
 			end
 		end
 
-		lat_lng = JSON.parse(open("http://www.mapquestapi.com/geocoding/v1/address?key=awagdUn5fGclI4HKLxCsf1kiGYGptGQM&location=#{@user}").read)["results"][0]["locations"][0]["latLng"]
-		session[:latlng] = lat_lng["lat"], lat_lng["lng"]
+		@lat_lng = JSON.parse(open("http://www.mapquestapi.com/geocoding/v1/address?key=awagdUn5fGclI4HKLxCsf1kiGYGptGQM&location=#{@user}").read)["results"][0]["locations"][0]["latLng"]
+		location = @lat_lng["lat"], @lat_lng["lng"]
 		
 		if params['radius'] == ""
 			radius = 1
@@ -34,9 +34,9 @@ class HomeController < ApplicationController
 			radius = params['radius']
 		end
 
-		@parks = Park.near([lat_lng["lat"], lat_lng["lng"]], radius)
+		@parks = Park.near(location, radius)
 		session[:parks] = ''
-		@gardens = Greenthumb.near([lat_lng["lat"], lat_lng["lng"]], radius)
+		@gardens = Greenthumb.near(location, radius)
 
 		# green_json = File.read('greenthumb_community_garden.json')
 		# green = JSON.parse(green_json)
