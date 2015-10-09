@@ -11,7 +11,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20151009160335) do
+ActiveRecord::Schema.define(version: 20151009181201) do
 
   create_table "addresses", force: :cascade do |t|
     t.integer  "address"
@@ -54,6 +54,20 @@ ActiveRecord::Schema.define(version: 20151009160335) do
     t.text     "address"
     t.text     "location"
     t.float    "size"
+    t.datetime "created_at", null: false
+    t.datetime "updated_at", null: false
+  end
+
+  create_table "wifis", force: :cascade do |t|
+    t.string   "boro"
+    t.string   "wifi_type"
+    t.string   "provider"
+    t.text     "name"
+    t.float    "latitude"
+    t.float    "longitude"
+    t.string   "location_t"
+    t.string   "city"
+    t.string   "ssid"
     t.datetime "created_at", null: false
     t.datetime "updated_at", null: false
   end
