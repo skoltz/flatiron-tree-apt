@@ -5,11 +5,30 @@ require 'geocoder'
 require 'JSON'
 require 'open-uri'
 class HomeController < ApplicationController
+	EARTH_RADIUS = 3956
+	RADIANS_PER_DEGREE = 0.017453293
+	
 	def search 
 	
 	end
-	def search_fewer
+	def geo(lat1, lng1, lat2, lng2)
+		if lat2 && lng2 
+		    dlng = lng2 - lng1
+		    dlat = lat2 - lat1
 
+		    dlng_rad = dlng * RADIANS_PER_DEGREE
+		    dlat_rad = dlat * RADIANS_PER_DEGREE
+
+		    lat1_rad = lat1 * RADIANS_PER_DEGREE
+		    lat2_rad = lat2 * RADIANS_PER_DEGREE
+
+		    a = (Math.sin(dlat_rad/2))**2 + Math.cos(lat1_rad) * Math.cos(lat2_rad) * (Math.sin(dlng_rad/2))**2
+		    c = 2 * Math.atan2( Math.sqrt(a), Math.sqrt(1-a))
+
+		    EARTH_RADIUS * c
+		else 
+			return 10000
+		end
 	end
 
 	def home 
@@ -33,7 +52,7 @@ class HomeController < ApplicationController
 		else
 			radius = params['radius']
 		end
-
+		binding.pry
 		@parks = Park.near(location, radius)
 		session[:parks] = ''
 		@gardens = Greenthumb.near(location, radius)
