@@ -21,6 +21,13 @@
 	<% end %>
 </ol>
 
+<h1> and there are <%= @wifi.size %> wifi hotspots near you. fuck yea! </h1>
+<ol>
+	<% @wifi.each do |wifi| %>
+	<li><%="#{wifi.name}, ssid: #{wifi.ssid}, #{wifi.provider}, #{wifi.wifi_type}"%></li>
+	<% end %>
+</ol>
+
 <script>
 function initialize() {
 	var bounds = new google.maps.LatLngBounds();
@@ -53,6 +60,7 @@ function initialize() {
 	<% end %>
 
 	<%@gardens.each_with_index do |garden, index| %>
+	<% if garden.latitude %>
 		var marker=new google.maps.Marker({
 
   			position:{lat:<%=garden.latitude%>, lng: <%=garden.longitude%>},
@@ -61,6 +69,18 @@ function initialize() {
   			// label: "<%=index+1%>"
   			// animation:google.maps.Animation.BOUNCE
  		 });
+	<% end %>
+	<% end %>
+
+	<% @wifi.each do |wifi| %>
+	var marker=new google.maps.Marker({
+		<% if wifi.latitude %>
+  			position:{lat:<%=wifi.latitude%>, lng: <%=wifi.longitude%>},
+  			icon: 'http://google.com/mapfiles/ms/micons/green-dot.png',
+  			map: map
+  			// animation:google.maps.Animation.BOUNCE
+ 		 });
+	<% end %>
 	<% end %>
 	}
 

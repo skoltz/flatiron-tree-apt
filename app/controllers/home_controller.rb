@@ -31,6 +31,12 @@ class HomeController < ApplicationController
 		end
 	end
 
+	def donald(model)
+		model.select { |e| geo(@lat_lng["lat"], @lat_lng["lng"], e.latitude, e.longitude) < @radius }
+	end
+
+
+
 	def home 
 
 
@@ -48,14 +54,24 @@ class HomeController < ApplicationController
 		location = @lat_lng["lat"], @lat_lng["lng"]
 		
 		if params['radius'] == ""
-			radius = 1
+			@radius = 1
 		else
-			radius = params['radius']
+			@radius = params['radius'].to_i
 		end
-		binding.pry
-		@parks = Park.near(location, radius)
-		session[:parks] = ''
-		@gardens = Greenthumb.near(location, radius)
+
+		@parks = donald(Park.all)
+		@gardens = donald(Greenthumb.all)
+		@wifi = donald(Wifi.all)
+		@tracks = donald(RunningTrack.all)
+
+
+		# our methods using geocode:
+		# @parks = Park.near(location, radius)
+		# session[:parks] = ''
+		# @gardens = Greenthumb.near(location, radius)
+
+
+
 
 		# green_json = File.read('greenthumb_community_garden.json')
 		# green = JSON.parse(green_json)
@@ -68,8 +84,6 @@ class HomeController < ApplicationController
 		# 	array << garden if d < 3
 		# end
 		# binding.pry
-
-
 	end
 
 	def trump
