@@ -7,9 +7,9 @@
   <%= csrf_meta_tags %>
   <%= analytics_init if Rails.env.production? %>
 
-  <script
-src="http://maps.googleapis.com/maps/api/js">
-</script>
+  <script async defer
+      src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDeYMW65wwWGIWgu27xFBWatXoPbXYM3qc&callback=initMap">
+    </script>
 
 
 </head>
