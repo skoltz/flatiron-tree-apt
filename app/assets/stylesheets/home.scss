@@ -3,20 +3,32 @@
 // Place all the styles related to the user_search controller here.
 // They will automatically be included in application.css.
 // You can use Sass (SCSS) here: http://sass-lang.com/*/
-body {
-/*    background-image: 
-    background-repeat: no-repeat;
-    background-position: center;
-    background-attachment: fixed;
-    margin-right: 200px;
-    text-align: center;
-    ol { display:inline-table;
-    }*/
 
-    .center {
-    margin: auto;
-    width: 60%;
-    border:3px solid #8AC007;
-    padding: 10px;
+.navbar a {
+    color: white;
 }
+
+// defines padding for form 
+.form-group {
+  margin-top: 0.5%;
+  margin-right: 20%;
+  margin-left: 0.5%;
+}
+#form-text {
+  color: white;
+}
+
+
+body {
+//  background: url(image_path('nyc_background_img1920x1080_58933.jpg')) no-repeat center center fixed; 
+//   background: url(image_path('pixel77-free-vector-abstract-tree-1028.jpg')) no-repeat fixed;
+//   background-position: 100% 50%
+
+  background: url(image_path('nyc.png')) no-repeat center center fixed; 
+
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+
 }

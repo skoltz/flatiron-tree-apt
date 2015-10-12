@@ -1,14 +1,30 @@
-<h1> BOSS </h1>
 
+<nav class="navbar navbar-fixed-top">
+  <div class="container-fluid">
+    <div class="navbar-innder">
+      <a class="navbar-brand" href="http://localhost:3000/">parksnearme.nyc</a>
+    </div>
+    <div>
+      <ul class="nav navbar-nav">
+        <li class="active"><a href="http://localhost:3000/">Home</a></li>
+        <li><a href="http://localhost:3000/home?utf8=%E2%9C%93&radius=&search=&commit=Search">Results</a></li>
+      </ul>
+    </div>
+  </div>
+</nav>
+
+<div class="form-group">
 <%= form_tag('/home', method: "get") do %> 	
-	<%= label_tag(:distance, 'Radius') %>
-	<%= text_field_tag :radius, params[:radius] %></br>
+	<div class="form-group" id="form-text">	
 
+	<%= label_tag(:distance, 'Radius:') %>
+	<%= text_field_tag :radius, params[:radius], :class=>'form-control' %>
+	</div>
+	<div class="form-group" id="form-text">	
 	<%= label_tag(:address, 'Leave Blank For Your Address or Enter One:') %>
-	<%= text_field_tag :search, params[:search] %> </br>
+	<%= text_field_tag :search, params[:search], :class=>'form-control' %>
+	</div>
 
 	<%= submit_tag "Search" %>
 	<% end %> 
-
-
-
+</div>
