@@ -33,11 +33,11 @@
 	<div class="form-group" id="form-text">	
 
 	<%= label_tag(:distance, 'Radius:') %>
-	<%= text_field_tag :radius, params[:radius], :class=>'form-control' %>
+	<%= number_field_tag :radius, params[:radius], :class=>'form-control', placeholder: "Miles" %>
 	</div>
 	<div class="form-group" id="form-text">	
-	<%= label_tag(:address, 'Leave Blank For Your Address or Enter One:') %>
-	<%= text_field_tag :search, params[:search], :class=>'form-control' %>
+	<%= label_tag(:address, 'Address:') %>
+	<%= text_field_tag :search, params[:search], :class=>'form-control',placeholder: "Leave blank for your location" %>
 	</div>
 
 	<%= submit_tag "Search" %>

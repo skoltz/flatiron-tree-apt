@@ -1,22 +1,22 @@
 <style media="screen">
   body { 
 /* IE10+ */ 
-background-image: -ms-linear-gradient(bottom, #CDB5CD 80%, #8B7B8B 100%);
+background:; -ms-linear-gradient(bottom, #CDB5CD 80%, #8B7B8B 100%);
 
 /* Mozilla Firefox */ 
-background-image: -moz-linear-gradient(bottom, #CDB5CD 80%, #8B7B8B 100%);
+background: -moz-linear-gradient(bottom, #CDB5CD 80%, #8B7B8B 100%);
 
 /* Opera */ 
-background-image: -o-linear-gradient(bottom, #CDB5CD 80%, #8B7B8B 100%);
+background: -o-linear-gradient(bottom, #CDB5CD 80%, #8B7B8B 100%);
 
 /* Webkit (Safari/Chrome 10) */ 
-background-image: -webkit-gradient(linear, left bottom, left top, color-stop(80, #CDB5CD), color-stop(100, #8B7B8B));
+background: -webkit-gradient(linear, left bottom, left top, color-stop(80, #CDB5CD), color-stop(100, #8B7B8B));
 
 /* Webkit (Chrome 11+) */ 
-background-image: -webkit-linear-gradient(bottom, #CDB5CD 80%, #8B7B8B 100%);
+background: -webkit-linear-gradient(bottom, #CDB5CD 80%, #8B7B8B 100%);
 
 /* W3C Markup */ 
-background-image: linear-gradient(to top, #CDB5CD 80%, #8B7B8B 100%);
+background: linear-gradient(to top, #CDB5CD 80%, #8B7B8B 100%);
 /*  background-color: #8B7B8B; 
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -43,13 +43,13 @@ background-image: linear-gradient(to top, #CDB5CD 80%, #8B7B8B 100%);
 
 <div class="center-block">
 
-<h3> <%= @user %> </h3> 
-<h4> You're near <%= @gardens.size %> gardens, <%= @parks.size %> parks, 3 bathrooms, and <%= @wifi.size %> wifi spots!</h4>
+<h3> <%= @user %>. </h3> 
+<h3> You're Near:</h3><h4><br> <%= @gardens.size %> Gardens.<br> <%= @parks.size %> Parks.<br> 3 bathrooms, and <%= @wifi.size %> wifi spots!</h4>
 
 <html>
   <head>
   <style>
-    #map-canvas { width:500px; height:400px; }
+    #map-canvas { width:700px; height:475px; margin: auto;}
     .layer-wizard-search-label { font-family: sans-serif };
   </style>
   <script type="text/javascript"
@@ -110,11 +110,11 @@ background-image: linear-gradient(to top, #CDB5CD 80%, #8B7B8B 100%);
   </script>
   </head>
   <body>
-    <div id="map-canvas"></div>
+    <div class="center" id="map-canvas"></div>
   </body>
 </html>
 
-<ol class="no-show">
+<!-- <ol class="no-show">
 	<% @parks.each do |park| %>
 	<li><%=park.park%></li>: <%= park.address %>
 	<% end %>
@@ -124,7 +124,7 @@ background-image: linear-gradient(to top, #CDB5CD 80%, #8B7B8B 100%);
 	<% @wifi.each do |wifi| %>
 	<li><%="#{wifi.name}, ssid: #{wifi.ssid}, #{wifi.provider}, #{wifi.wifi_type}"%></li>
 	<% end %>
-</ol>
+</ol> -->
 
 </div>
 
