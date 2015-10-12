@@ -86,6 +86,9 @@ class HomeController < ApplicationController
 		# binding.pry
 	end
 
+	def parks
+	end
+
 	def trump
 	end
 

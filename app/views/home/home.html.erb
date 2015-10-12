@@ -1,6 +1,5 @@
 
 
-<iframe width="500" height="300" scrolling="no" frameborder="no" src="https://www.google.com/fusiontables/embedviz?q=select+col2+from+1QIQoeZaa6UjCtrJz1DDeRr4FJ2rkc9mT6kDCXDfX&amp;viz=MAP&amp;h=false&amp;lat=40.6969892722384&amp;lng=-73.9872525543426&amp;t=1&amp;z=17&amp;l=col2&amp;y=2&amp;tmplt=2&amp;hml=KML"></iframe>
 
 
   <style>
@@ -51,88 +50,94 @@
     }
     google.maps.event.addDomListener(window, 'load', initialize);
   </script>
-  <body>
-    <div id="map-canvas"></div>
-  </body>
 
 
 <h3> you searched:
 <%= @user %>
-</h3> 
-<h4> you're near <%= @gardens.size %> gardens. that's abuncha gardens </h4> 
-
-<h1> and <%= @parks.size %> parks: </h1>
+</h3>
+<h1> you're near <%= @parks.size %> <%=link_to "Parks", parks_path(param: @parks.each{|e|}) %>, and <%= @gardens.size %> Gardens.</h1>
+<%
+=begin
+%>
 <ol>
-	<% @parks.each do |park| %>
-	<li><%=park.park%></li>: <%= park.address %>
-	<% end %>
+  <% @parks.each do |park| %>
+  <li><%=park.park%></li>: <%= park.address %>
+  <% end %>
 </ol>
-
-<h1> and there are <%= @wifi.size %> wifi hotspots near you. fuck yea! </h1>
+<%
+=end
+%>
+<h1> and there are <%= @wifi.size %> wifi hotspots near you. </h1>
+<%
+=begin
+%>
 <ol>
-	<% @wifi.each do |wifi| %>
-	<li><%="#{wifi.name}, ssid: #{wifi.ssid}, #{wifi.provider}, #{wifi.wifi_type}"%></li>
-	<% end %>
+  <% @wifi.each do |wifi| %>
+  <li><%="#{wifi.name}, ssid: #{wifi.ssid}, #{wifi.provider}, #{wifi.wifi_type}"%></li>
+  <% end %>
 </ol>
-
+<%
+=end
+%>
 <script>
 function initialize() {
-	var bounds = new google.maps.LatLngBounds();
-	var myCenter = new google.maps.LatLng(<%=@lat_lng["lat"]%>, <%=@lat_lng["lng"]%>);
+  var bounds = new google.maps.LatLngBounds();
+  var myCenter = new google.maps.LatLng(<%=@lat_lng["lat"]%>, <%=@lat_lng["lng"]%>);
 
-  	var mapProp = {
-    	center:myCenter,
-    	zoom:16,
-    	mapTypeId:google.maps.MapTypeId.ROADMAP
-  	};
+    var mapProp = {
+      center:myCenter,
+      zoom:16,
+      mapTypeId:google.maps.MapTypeId.ROADMAP
+    };
 
- 	var map = new google.maps.Map(document.getElementById("googleMap"), mapProp);
-
-
-	var marker = new google.maps.Marker({
-  		position: myCenter,
-  		map: map
-  	});
+  var map = new google.maps.Map(document.getElementById("googleMap"), mapProp);
 
 
-	<%@parks.each_with_index do |park, index| %>
-		var marker=new google.maps.Marker({
+  var marker = new google.maps.Marker({
+      position: myCenter,
+      map: map
+    });
 
-  			position:{lat:<%=park.latitude%>, lng: <%=park.longitude%>},
-  			icon: 'http://google.com/mapfiles/ms/micons/green-dot.png',
-  			map: map
-  			// label: "<%=index+1%>"
-  			// animation:google.maps.Animation.BOUNCE
- 		 });
-	<% end %>
 
-	<%@gardens.each_with_index do |garden, index| %>
-	<% if garden.latitude %>
-		var marker=new google.maps.Marker({
+  <%@parks.each_with_index do |park, index| %>
+    var marker=new google.maps.Marker({
 
-  			position:{lat:<%=garden.latitude%>, lng: <%=garden.longitude%>},
-  			icon: 'http://google.com/mapfiles/ms/micons/blue-dot.png',
-  			map: map
-  			// label: "<%=index+1%>"
-  			// animation:google.maps.Animation.BOUNCE
- 		 });
-	<% end %>
-	<% end %>
+        position:{lat:<%=park.latitude%>, lng: <%=park.longitude%>},
+        icon: 'http://google.com/mapfiles/ms/micons/green-dot.png',
+        map: map
+        // label: "<%=index+1%>"
+        // animation:google.maps.Animation.BOUNCE
+     });
+  <% end %>
 
-	<% @wifi.each do |wifi| %>
-	var marker=new google.maps.Marker({
-		<% if wifi.latitude %>
-  			position:{lat:<%=wifi.latitude%>, lng: <%=wifi.longitude%>},
-  			icon: 'http://google.com/mapfiles/ms/micons/purple-dot.png',
-  			map: map
-  			// animation:google.maps.Animation.BOUNCE
- 		 });
-	<% end %>
-	<% end %>
-	}
+  <%@gardens.each_with_index do |garden, index| %>
+  <% if garden.latitude %>
+    var marker=new google.maps.Marker({
+
+        position:{lat:<%=garden.latitude%>, lng: <%=garden.longitude%>},
+        icon: 'http://google.com/mapfiles/ms/micons/blue-dot.png',
+        map: map
+        // label: "<%=index+1%>"
+        // animation:google.maps.Animation.BOUNCE
+     });
+  <% end %>
+  <% end %>
+
+  <% @wifi.each do |wifi| %>
+  var marker=new google.maps.Marker({
+    <% if wifi.latitude %>
+        position:{lat:<%=wifi.latitude%>, lng: <%=wifi.longitude%>},
+        icon: 'http://google.com/mapfiles/ms/micons/purple-dot.png',
+        map: map
+        // animation:google.maps.Animation.BOUNCE
+     });
+  <% end %>
+  <% end %>
+  }
 
 google.maps.event.addDomListener(window, 'load', initialize);
 </script>
 
+    <div class="center" id="map-canvas"></div>
 
 <div class="center" id="googleMap" style="width:700px;height:380px;align:center"></div>

@@ -1,13 +1,17 @@
-<h1> BOSS </h1>
+<h1> Welcome to Flatiron-Tree-Apt!  </h1>
+<h3>To get info on an address, simply type it in below...</h3><br>
 
-<%= form_tag('/home', method: "get") do %> 	
-	<%= label_tag(:distance, 'Radius') %>
-	<%= text_field_tag :radius, params[:radius] %></br>
-
+<%= form_tag('/home', method: "get") do %> 
+	<div id="second">
 	<%= label_tag(:address, 'Leave Blank For Your Address or Enter One:') %>
 	<%= text_field_tag :search, params[:search] %> </br>
-
+	</div>
+	
+	<div id="first">	
+	<%= label_tag(:distance, 'Radius') %>
+	<%= number_field_tag :radius, params[:radius] %></br>
 	<%= submit_tag "Search" %>
+	</div>
 	<% end %> 
 
 

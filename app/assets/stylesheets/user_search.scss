@@ -3,14 +3,25 @@
 // They will automatically be included in application.css.
 // You can use Sass (SCSS) here: http://sass-lang.com/*/
 body {
-/*    background-image: 
+    background-image: url("https://s-media-cache-ak0.pinimg.com/originals/40/63/9a/40639a0054b339d12685d654878daa25.jpg"); 
     background-repeat: no-repeat;
     background-position: center;
     background-attachment: fixed;
     margin-right: 200px;
     text-align: center;
     ol { display:inline-table;
-    }*/
+    }
+
+    h1 {
+    font-family: Papyrus, fantasy;
+    font-size: 24px;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 500;
+    line-height: 26.4px;
+}
+
+
 
     .center {
     margin: auto;

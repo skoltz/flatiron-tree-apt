@@ -3,6 +3,7 @@ Rails.application.routes.draw do
   root 'home#search'
 
   get '/home' => 'home#home'
+  get '/parks' => 'home#parks'
 
 
   # resources :home 
