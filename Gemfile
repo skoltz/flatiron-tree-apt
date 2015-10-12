@@ -1,5 +1,4 @@
 source 'https://rubygems.org'
-
 gem 'geocoder'
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'

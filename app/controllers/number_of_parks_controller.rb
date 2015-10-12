@@ -1,2 +1,0 @@
-class NumberOfParksController < ApplicationController
-end
