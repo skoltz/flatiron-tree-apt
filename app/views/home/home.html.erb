@@ -35,7 +35,7 @@ function initialize() {
 
   	var mapProp = {
     	center:myCenter,
-    	zoom:15,
+    	zoom:16,
     	mapTypeId:google.maps.MapTypeId.ROADMAP
   	};
 
@@ -76,7 +76,7 @@ function initialize() {
 	var marker=new google.maps.Marker({
 		<% if wifi.latitude %>
   			position:{lat:<%=wifi.latitude%>, lng: <%=wifi.longitude%>},
-  			icon: 'http://google.com/mapfiles/ms/micons/green-dot.png',
+  			icon: 'http://google.com/mapfiles/ms/micons/purple-dot.png',
   			map: map
   			// animation:google.maps.Animation.BOUNCE
  		 });
