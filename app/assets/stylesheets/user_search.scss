@@ -4,6 +4,25 @@
 // You can use Sass (SCSS) here: http://sass-lang.com/*/
 
 body {
-//	background-image: none;
-	background-color: CDB5CD;
+	margin-left: auto;
+	margin-right: auto;
 }
+
+body h3 {
+	color: white;
+}
+
+body h4 {
+	color: white;
+}
+
+.no-show {
+	visibility: hidden;
+}
+
+.center-block {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+

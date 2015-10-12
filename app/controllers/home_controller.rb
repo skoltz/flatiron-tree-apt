@@ -51,8 +51,8 @@ class HomeController < ApplicationController
 		end
 
 		@lat_lng = JSON.parse(open("http://www.mapquestapi.com/geocoding/v1/address?key=awagdUn5fGclI4HKLxCsf1kiGYGptGQM&location=#{@user}").read)["results"][0]["locations"][0]["latLng"]
-		location = @lat_lng["lat"], @lat_lng["lng"]
-		
+		@location = @lat_lng["lat"], @lat_lng["lng"]
+		# binding.pry
 		if params['radius'] == ""
 			@radius = 1
 		else

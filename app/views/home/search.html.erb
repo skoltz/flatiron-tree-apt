@@ -1,13 +1,28 @@
 
+<style media="screen">
+	body { 
+	background: url(<%=image_path('nyc_background_img1920x1080_58933.jpg')%>) no-repeat center center fixed;
+	/*background: url(<%=image_path('nyc.png')%>) no-repeat center center fixed; */*/
+  	-webkit-background-size: cover;
+  	-moz-background-size: cover;
+  	-o-background-size: cover;
+	background-size: cover;
+	}
+</style>
+
+
 <nav class="navbar navbar-fixed-top">
   <div class="container-fluid">
     <div class="navbar-innder">
-      <a class="navbar-brand" href="http://localhost:3000/">parksnearme.nyc</a>
+      <a class="navbar-brand" href="http://localhost:3000/">ParksNearMe.nyc</a>
     </div>
     <div>
       <ul class="nav navbar-nav">
-        <li class="active"><a href="http://localhost:3000/">Home</a></li>
-        <li><a href="http://localhost:3000/home?utf8=%E2%9C%93&radius=&search=&commit=Search">Results</a></li>
+        <li class="active"><a href="http://localhost:3000/home?utf8=%E2%9C%93&radius=&search=&commit=Search">All</a></li>
+        <li><a href="http://localhost:3000/">Parks</a></li>
+        <li><a href="http://localhost:3000/">Gardens</a></li>
+        <li><a href="http://localhost:3000/">Wifi</a></li>
+        <li><a href="http://localhost:3000/">Restrooms</a></li>
       </ul>
     </div>
   </div>
