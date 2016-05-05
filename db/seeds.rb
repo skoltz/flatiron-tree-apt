@@ -6,7 +6,7 @@
 #
 #   cities = City.create([{ name: 'Chicago' }, { name: 'Copenhagen' }])
 #   Mayor.create(name: 'Emanuel', city: cities.first)
-
+ 
 require 'open-uri'
 
 # green_json = File.read('greenthumb_community_garden.json')

@@ -12,7 +12,16 @@
 	background-color: #4B0082;
 }
 
-// defines padding for form 
+#map-canvas { 
+    width: 700px; 
+    height: 475px; 
+    margin: auto;
+}
+.layer-wizard-search-label { 
+    font-family: sans-serif 
+}
+
+/*// defines padding for form */
 .form-group {
   margin-top: 0.5%;
   margin-right: 20%;

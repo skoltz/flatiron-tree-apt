@@ -7,3 +7,4 @@ class Greenthumb < ActiveRecord::Base
 		"#{self.address}, #{self.boro}, NY"
 	end
 end
+ 

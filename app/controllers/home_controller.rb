@@ -4,12 +4,12 @@ require 'open-uri'
 require 'geocoder'
 require 'JSON'
 require 'open-uri'
+
 class HomeController < ApplicationController
 	EARTH_RADIUS = 3956
 	RADIANS_PER_DEGREE = 0.017453293
 	
 	def search 
-	
 	end
 	def geo(lat1, lng1, lat2, lng2)
 		if lat2 && lng2 
@@ -30,16 +30,11 @@ class HomeController < ApplicationController
 			return 10000
 		end
 	end
-
 	def donald(model)
 		model.select { |e| geo(@lat_lng["lat"], @lat_lng["lng"], e.latitude, e.longitude) < @radius }
 	end
 
-
-
 	def home 
-
-
 		local_location = request.location 
 		@user = params['search']
 		if @user == ""
@@ -52,7 +47,6 @@ class HomeController < ApplicationController
 
 		@lat_lng = JSON.parse(open("http://www.mapquestapi.com/geocoding/v1/address?key=awagdUn5fGclI4HKLxCsf1kiGYGptGQM&location=#{@user}").read)["results"][0]["locations"][0]["latLng"]
 		@location = @lat_lng["lat"], @lat_lng["lng"]
-		# binding.pry
 		if params['radius'] == ""
 			@radius = 1
 		else
@@ -64,14 +58,10 @@ class HomeController < ApplicationController
 		@wifi = donald(Wifi.all)
 		@tracks = donald(RunningTrack.all)
 
-
 		# our methods using geocode:
 		# @parks = Park.near(location, radius)
 		# session[:parks] = ''
 		# @gardens = Greenthumb.near(location, radius)
-
-
-
 
 		# green_json = File.read('greenthumb_community_garden.json')
 		# green = JSON.parse(green_json)
